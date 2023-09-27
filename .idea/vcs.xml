@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/AdvBox.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/Deep-Reinforcement-Learning-Hands-On.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ai-edu.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/examples.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ml-class.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ogb.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tensorflow-without-a-phd.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git" vcs="Git" />
   </component>
 </project>

@@ -305,7 +305,7 @@ class MyAst(ast.NodeVisitor):
           self.generic_visit(node)
           return
       except:
-        print astunparse.unparse(node)
+        print(astunparse.unparse(node))
       for alias in node.names:
         if len(alias.name)>4 and alias.name[0:2] == '__' and alias.name[-2:] == '__':
             continue

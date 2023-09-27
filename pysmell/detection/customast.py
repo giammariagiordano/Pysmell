@@ -6,6 +6,7 @@ import json
 
 from json import JSONEncoder
 from ast import *
+import astunparse
 
 
 # Is it Python 3?
@@ -53,13 +54,7 @@ def parse_file(filename,improved=False):
     enc, enc_len = detect_encoding(filename)
     f = codecs.open(filename, 'r', enc)
     lines = f.read()
-
-    # remove BOM
     lines = re.sub(u'\ufeff', ' ', lines)
-
-    # replace the encoding decl by spaces to fool python parser
-    # otherwise you get 'encoding decl in unicode string' syntax error
-    # print('enc:', enc, 'enc_len', enc_len)
     if enc_len > 0:
         lines = re.sub('#.*coding\s*[:=]\s*[\w\d\-]+',  '#' + ' ' * (enc_len-1), lines)
 
@@ -83,7 +78,6 @@ def parse_string(string, filename=None,improved=False):
     return tree
 
 
-# short function for experiments
 def p(filename):
     parse_dump(filename)
 
@@ -99,9 +93,7 @@ def detect_encoding(path):
         enc_len = len(decl[0])
         try:
             info = codecs.lookup(enc1)
-            # print('lookedup: ', info)
         except LookupError:
-            # print('encoding not exist: ' + enc1)
             return 'latin1', enc_len
         return enc1, enc_len
     else:
@@ -258,7 +250,7 @@ def find_end(node, s):
         the_end = find_end(node.body, s)
 
     # print will be a Call in Python 3
-    elif not is_python3 and isinstance(node, Print):
+    elif not is_python3 and isinstance(node, print):
         the_end = start_seq(s, '\n', find_start(node, s))
 
     elif isinstance(node, Call):
@@ -314,8 +306,7 @@ def find_end(node, s):
 
     elif isinstance(node, Dict):
         the_end = match_paren(s, '{', '}', find_start(node, s));
-
-    elif ((not is_python3 and isinstance(node, TryExcept)) or
+    elif ((not is_python3 and isinstance(node, tryExcept)) or
               (is_python3 and isinstance(node, Try))):
         if node.orelse != []:
             the_end = find_end(node.orelse, s)
@@ -631,14 +622,6 @@ def is_alpha(c):
 
 
 if __name__ == '__main__':
-    print parse_file('./tmp/function_test.py',improved = True)
-# p('/Users/yinwang/Dropbox/prog/pysonar2/tests/test-unicode/test1.py')
-# p('/Users/yinwang/Code/cpython/Lib/lib2to3/tests/data/bom.py')
-# p('/Users/yinwang/Code/cpython/Lib/test/test_decimal.py')
-# p('/Users/yinwang/Code/cpython/Lib/test/test_pep3131.py')
-# p('/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tarfile.py')
-# p('/Users/yinwang/Code/cpython/Lib/lib2to3/tests/data/false_encoding.py')
-# p('/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/test/test_marshal.py')
-# p('/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/lib-tk/Tix.py')
+    print(parse_file('./tmp/function_test.py',improved = True))
 
 
