@@ -1,3 +1,46 @@
 
-####################################LongParameterList####################################
+####################################LongParameterList####Adlik################################
+
+PAR:  count 4213, max 7, min 1, mean 1.591977213387135, plot-box outlier 2-7, statistic very-high 4.262794389952701, 80th percentile 2.0
+
+
+####################################LongMethod####Adlik################################
+
+MLOC:  count 4213, max 22, min 1, mean 6.646807500593401, plot-box outlier 16-22, statistic very-high 16.97809077243983, 80th percentile 8.0
+
+
+####################################LongScopeChaining####Adlik################################
+
+
+####################################LongBaseClassList####Adlik################################
+
+NBC:  count 398, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
+
+
+####################################LargeClass####Adlik################################
+
+CLOC:  count 398, max 3, min 2, mean 2.278894472361809, plot-box outlier -1--1, statistic very-high 4.091024975547054, 80th percentile 3.0
+
+
+####################################LongMessageChain####Adlik################################
+
+LMC:  count 7834, max 3, min 2, mean 2.0445494000510593, plot-box outlier 3-3, statistic very-high 3.3762924987279503, 80th percentile 2.0
+
+
+####################################ComplexLambdaExpression####Adlik################################
+
+
+####################################LongTernaryConditionalExpression####Adlik################################
+
+
+####################################ComplexContainerComprehension####Adlik################################
+
+
+####################################MultiplyNestedContainer####Adlik################################
+
+LEC:  count 3933, max 2, min 1, mean 1.0355962369692346, plot-box outlier 2-2, statistic very-high 1.8313162437362356, 80th percentile 1.0
+
+DNC:  count 464, max 2, min 2, mean 2.0, plot-box outlier -1--1, statistic very-high 3.0, 80th percentile 2.0
+
+NCT:  count 464, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
 

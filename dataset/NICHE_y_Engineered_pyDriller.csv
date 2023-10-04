@@ -1,0 +1,2309 @@
+hash,msg,deletions,files,date,Path,Project_name,labels
+d4dd7c699806b18544216723deaf3bc4e6905304,Initial commit,0,2,2020-01-30 00:08:54+00:00,../../projects/well_engineered_projects/covidify,covidify,Other
+bba3de2e145f4c6182ecb402fb528a663e9f9f1d,ADD - initial commit,0,3,2020-01-30 00:11:41+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+ac8f85b5b01556402d8855e702f42cb05249499b,ADD - added date fixer,54,3,2020-01-30 00:59:03+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+3a311b08a0b649b5834796a52b97850ba03b5734,ADD - added dat exp notebook,0,1,2020-01-30 01:32:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+c94705dcba36232df94e6ba18b41fa81b4e8b679,UPDATE - added csv saver for tableau,0,1,2020-01-30 11:41:22+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+eff4c8183e6b56f0b1fa27d9068a59c1bbffbb8d,ADD - added csv for 21st to 29th,0,1,2020-01-30 11:41:57+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+61ef7e22be30bf00ac0168bd8fa1825ac200430a,ADD - added workbook for tableau and gif for spread of virus by country,0,3,2020-01-30 11:42:32+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+cabc1db43d16627ef9ffd03158d80e508c1e060c,UPDATE - updated readme,1,1,2020-01-30 12:54:44+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+8c9ca59ec198a947f09b642d5020fa8a72929590,UPDATE - updated readme,3,1,2020-01-30 13:14:14+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+0b3a2c142e44c42935008518efa991caeed83f45,ADD - added trendline for new confirmed cases,62,1,2020-01-30 17:17:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+c77e564cdc25f1e4e0449b3f336e832ad90cb595,"UPDATE - updated the way files are saved... they are now saved to a folder titled with the date of extraction, also new file for tracking trends added",4,4,2020-01-30 19:25:17+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+ff713718d403d21ead58b1091273a4e7f222c94b,REMOVE - removed old output files,4025,3,2020-01-30 19:27:22+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+981ad6e15aeb7c7a9b20e521db1e1bd03026b58e,ADD - added deprecation warning to notebook,0,1,2020-01-30 19:29:32+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+9ac352f9fa5509d3a75ec10b0105ad3aaadee169,ADD - added trendline for trend of new confirmed cases per day,30,1,2020-01-30 19:30:23+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+efcd634e251df2fbb051c0df004cd17009090ba0,UPDATE - readme,0,1,2020-01-30 19:33:11+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+50e2871edcf2e03935f235d8f3c57eead952b44d,CLEAN UP - cleaned up exploration notebook,169,1,2020-01-30 19:44:43+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+35bff63244a92c0a717773be5d8ab29a7a646d0c,UPDATE - updated readme,447,4,2020-01-31 12:12:42+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+ddc21a591c4d3ccabb245e092309cc1fffa1be48,UPDATE - updated name of image,3,1,2020-01-31 12:13:30+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+5923ea4e3fc6a2bf63a1635581097dbb011d3c64,"UPDATE - made exploration code more efficient, and added one location for images",101,1,2020-01-31 12:14:14+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+e277ba722b6531f46784ffefa253847616048c28,ADD - added images folder to be tracked,0,6,2020-01-31 12:14:43+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+2c7a0795848deca062e01091c7314ab50ea8bdf2,UPDATE - update readme,6,1,2020-01-31 12:16:24+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+26e91cdd81d12cf245ec8d97b7900d2e68c180db,"UPDATE - automated the running of the pipeline, and cleaned up folder structure",2,23,2020-01-31 13:24:38+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+a5b804b75486bb48fe583178b68406e82f482289,UPDATE readme,32,1,2020-01-31 13:25:39+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+2ba2818635d412295639a63ba6cbcfe328fec2e2,UPLOAD - uploaded new data,0,6,2020-01-31 13:51:07+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+6aab44791b342032d81373c22a5deee8b49d6a43,UPDAT -  cleaned up  README header,0,1,2020-01-31 13:51:38+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+909a6923e9c160fbe3c90c2f5fd98fc542d56193,ADD - added an example folder for displaying what the dat looks like,0,3,2020-01-31 14:01:01+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+7d151ec280fa7aa570b58a6f160d3154aced0108,ADD - added thanks to end of readme,1,1,2020-01-31 14:05:52+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+dcefb0fb895fb7d2d30a6a6ab147f420b1e7ee1e,ADD - added thanks to end of readme,2,1,2020-01-31 14:06:30+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+c031b957a2ca6ecd7e7d90660ed160be21a63a82,REMOVE,1,1,2020-01-31 14:38:04+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+8e9e9a03d8521ce330b2e67471ca5dc19eea23e3,UPDATE - fixed typos and added date,6,1,2020-01-31 15:18:02+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+4024d43180e2dfdf01b5fbe9fc165504db0adf6b,UPDATE -  updated todo,1,1,2020-01-31 16:20:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+c5dbd6be9b4cfb62fec7c488bfebc22c1cbde1a6,REPORT - new report for 31st,0,6,2020-01-31 21:13:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+579aa5608b37dc2afc4a9af758250a97b32c8c6f,UPDATE - new up to date gif,1,2,2020-01-31 23:26:43+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+cc7e935009575388cd07141b4fe84569ec51d925,REPORT - new report for 1st,1,7,2020-02-01 11:12:32+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+30443770d3cc6ee8a8c8e06f55a924bb523bc3f7,ADD - new report 2nd feb,1,7,2020-02-02 19:23:29+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+ca677611967e93578bf708a44c00e7d33b1e8563,UPDATE - issue added to readme,0,1,2020-02-02 21:33:24+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+6c6edf09e149c2a536750ffcafe43fdb1a997111,UPDATE - added regex for filtering out non date sheets from extraction,0,1,2020-02-03 12:08:35+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+45ea6086ccdc94b4dd59c104bf692789d7a8121a,UPDATE - fixed problem with incorrect dates,95,2,2020-02-03 12:59:29+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+ccda88ccb3e58b5994062f2649d590094e2d04ed,UDPATE - New Report for the 3rd of feb,3,7,2020-02-03 13:02:04+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+60d210a3324f9f900272d24900f577abc306ace3,ADD - Added requirements.txt,1,2,2020-02-03 13:12:24+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+76a15a5140dcd019164ea259238c563f620f57d9,FIX - typo,2,1,2020-02-03 13:13:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+669289bbbf4508940d7096fee676ef061550183a,UPDATE - updated sample data folder,446,6,2020-02-03 13:18:24+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+38ab4035e5fc0fe87053db46ef69dd2d5e1951e6,UPDATE - updated link for spreadsheet in code and on readme,2,5,2020-02-03 13:59:49+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+6d7f36370f94774062424ed1aaaabbe91a74e4c1,FIX - typo in readme,2,1,2020-02-03 14:03:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+d14a5a0bcfa553bc2863086d65087fca178ef6bc,FIX - typo in readme,1,1,2020-02-03 14:03:41+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+4617addb78b5eb256b820a8eb23c7e08b29dff1a,FIX - typo in readme,1,1,2020-02-03 14:04:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+b69d13f28ab4538aed30ab6b3a9196615fba999b,UPDATE - updated link for data sheet,1,1,2020-02-03 14:07:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+78681d9fd49257dc580a35fecd2333905f4cf9f0,UPDATE - updated map gif,0,1,2020-02-03 14:23:46+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+ebb2b234b158144c724ecd394e0c0a673dc39ba1,UPDATE - new report 3rd geb,0,6,2020-02-03 20:24:21+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+72b05c14eb31fe61abfb69acb4d734472f8cc392,ADD - new report to 4rd of feb,0,6,2020-02-04 13:15:36+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+d8919cb77c140b7e5c9da2454d4d1032f4f0422c,UPDATE - updated readme,0,1,2020-02-04 13:59:40+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+5e64fa6d33695ee81f5436d04e76a9a8771200e0,UPDATE - added some try-out code for some visualization,315,13,2020-02-04 16:21:38+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+6df499a365639c9147a7a96eb0f6af9a58727c8d,UPDATE - updated report with new visualization 4feb,0,7,2020-02-04 16:22:36+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+8e4fd20dd7c24eeea6ee9f2f53e267cb4ead325d,UPDATE - minor updates,8,2,2020-02-04 16:23:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+015ac84588be32d0e6967ab7b942bf898a9fd85a,UPDATE - updated scripts to create a styacked bar chart for the currently infected people,16,2,2020-02-04 16:24:04+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+34b5d9e8f4be2eacceaf8e62fb7a2c670e2cb3ba,FIX - fixed output for images,0,3,2020-02-04 16:30:50+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+b05c35208bdb3f0aaff6009c091f458ae48281dd,FIX,3,2,2020-02-04 16:31:35+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+b2a8aab4bd2b9eb9952643b1c32f0f8d2b637669,FIX - title for currently infected,1,1,2020-02-04 16:32:11+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+187218abd8c4fcf0ee00220768da0a434ac0cb86,UPDATE - grouped attribute image types together,10,1,2020-02-04 16:36:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+5466fee5e9dc9576ce644c337d38c196f9e54782,ADD - new report for feb 6th,0,7,2020-02-07 10:56:46+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+b6a8ac6cbe81b9ef728a75d5c1835b69486de824,Add - fixed report for feb 6th,0,2,2020-02-07 11:33:01+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+a0083ce69c1001b4725ca32c1b327fb77e2a4134,FIX - fixed stacked bar graph,103,3,2020-02-07 11:34:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+b4dfdc2a7fe3491c3257fcf98e4480b5f44d9215,"FIX - added different function for parsing dates, some new cases appeared to dissappear on certain days",2,1,2020-02-07 14:11:18+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+43099064d629bdd6ce6d83efae4c4106f4693555,"UPDATE - cleaned up how dates are assigned, using dateutil parser",15,1,2020-02-07 15:17:54+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+57e8da7b5f53f1752451c5fb384cd6a78867d642,ADD - added new data to the example folder in data,290,5,2020-02-07 15:19:19+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+94fa636313fc494eacffcb252f561c3123f3e8b3,REMOVE - removed images from notebooks,0,8,2020-02-07 15:21:47+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+e328e96361cc7596b28c897321f9410ad6183efb,ADD - added report for 8TH feb,0,7,2020-02-08 22:56:25+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+67ae2bfd7ee21d8a062e6dc2fbfab599a2f40aa1,UPDATE - update readme,1,1,2020-02-08 23:07:08+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+3758c3849bbb9189610b4b888441843868fc22a9,UPDATE - new report for 11th of feb,1,8,2020-02-11 10:39:46+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+653857816656a642a262a6d0db9baafbb5e7c8cc,UPDATE - new report for 11th of feb,18,9,2020-02-11 11:37:05+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+5b41ba75480b61b9070edbb41827a7eed22becc9,UPDATE - updated code for creating graphs,398,2,2020-02-11 11:38:40+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+bc9fb43ccebe3f93a59caf9d100731abf51052dd,UPDATE - updated code to extract csv folders from new datasource (git repo by JHU),205,3,2020-02-11 13:58:57+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+f4ec70dae74e16117db841085c3e8dbedba84346,"UPDATE - added fixed report for 11th feb, new data source from the JHU github repo",0,6,2020-02-11 13:59:42+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+935af3125b6f3e50cbf9d946883c5c0190cbaac7,UPDATE - updated readme to suit the new data source,8,1,2020-02-11 14:11:59+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+1e7b2db48dc13632659b7f0b21eb59595a336523,FIX - fixed imputation for alphanumeric columns,0,1,2020-02-11 15:23:52+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+33e6a6f6800bebbea1a0e6ec23d20e47151ea7da,REMOVE - removed token.pickles,0,2,2020-02-11 15:51:50+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+f68a1ccfeea6d91f2b214ef5092e066ae30de3b9,ADD - new report for 11th feb,0,6,2020-02-11 16:42:36+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+2436a86ac075146ce839bf3340ed5ba7f83eb162,UPDATE - notebooks,6,2,2020-02-11 19:27:40+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+e33409c6ddeba398637977b87f24138aea2260d9,UPDATE - ncov2019 name was changed to covid-19,5,1,2020-02-11 19:43:14+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+7913ab9904a176a91c2df64ae4974dd70d269d10,UPDATE - name in readme,1,1,2020-02-12 11:32:18+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+b5166badfde644488ac1cfa1983634f1f8da714a,"FIX - fix date problem, using the last entry per day by province for the actual value of that day",799,2,2020-02-12 15:01:27+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+dd11a9f3a56e736a88d40f4f16dd13d4e50dfe16,ADD - added new report for 12th,0,6,2020-02-12 15:02:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+340472b2e66703e5c2e2fb2f9f4efdff079cfd5d,ADD - added new report for 12th feb,1,7,2020-02-13 10:31:56+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+fbb7a51f424583fe574af934cf112073ce7b1b34,ADD - NEW REPORT FOR 13TH FEB,0,6,2020-02-14 10:10:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+fda6e24eee994eb30c2686f085ad74e0b1e1d1c3,ADD - added report for 14th of feb|,1,7,2020-02-15 13:36:14+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+192a70126916bf9a3948b608cf860a9fba76a2cc,"UPDATE - if date.max() == current date then ommit max(), else ommit the current date current date",751,2,2020-02-15 13:38:09+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+09384626e0bd8554ef2af859bac42ee6ab4bc237,ADD - added visualization for the number of people currently infected,7473,2,2020-02-15 13:50:28+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+5274a49417321434ada6c34148392929f9071922,ADD - added currently infected,0,2,2020-02-15 13:50:55+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+d0441fa869193cf91b2d5be259d3f254c1ac00da,FIX typo,1,1,2020-02-15 13:52:07+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+51861e8f1fd6399ec117d4d21bf66321eb08144a,FIX typo 2,0,1,2020-02-15 13:55:47+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+2e5d05520227ba5af408e3c94416c715e86dee9d,ADD - added report for 17th of feb,1,8,2020-02-17 11:37:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+a5b4ebbfe592c40a68e2aa4fee5a4dd0c7e67396,ADD - added report for the 17th,1,8,2020-02-18 10:48:51+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+60a6079b4e1a03234d5cf0e45d23e32c3361aef1,UPDATE - updated requirements,6,1,2020-02-18 10:49:22+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+1c111622b7462eb10759c278977191f9963036b9,ADD - added workbook,2799,2,2020-02-18 14:57:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+e18a3b52082b80c2b2d1dd0fac8948e3ef207357,ADD - added moving average and exponential moving average to data prep,1662,4,2020-02-18 15:57:19+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+bc90008916cd4b0685019e0b979e5ec443691c6b,ADD - added report for 18th,1,8,2020-02-19 11:33:46+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+3e0c49c530536673bb988712e9bbfd24acec3dd6,ADD - report for 20th of feb,1,8,2020-02-20 10:09:41+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+a6afdbf142d54bbe02d973e315f0b7f6caa24980,UPDATE - updated col names for moving average,4,1,2020-02-20 10:10:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+6cce02d6001bdbb715fa78ce80c704c4c4fa50c8,ADD - added report for 21st,0,7,2020-02-21 12:59:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+26c88ba8db9abec72dfc2b110d2dab1433b47c72,ADD - added report for 22nd feb,2,8,2020-02-22 11:37:10+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+6c436410b4494013452debac08d9c9c340555d07,FIX - fixed max days problem for bar graphs,1,1,2020-02-22 11:37:46+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+f1d9a2c5af69ba09057ade55d9b5ff0753889f62,UPDATE - updated readme,19,1,2020-02-22 12:45:38+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+be778c6308031b808dcadc0c9a12f76c4a630c60,ADD - added report for 23rd,1,8,2020-02-23 12:12:05+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+4ce06779b09a7d3060e6bf5a0b525d089442a1ff,ADD - added report for the 23rd,2,8,2020-02-24 11:03:18+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+d8e6265022d013935fbfb93ce990f50a701cbe1d,"ADD - added report for 26th, disclaimer: the 24th has some inconsistencies in the data",2,8,2020-02-26 12:32:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+dd38a1d57302868760854eeca016200b6061917c,UDPATE - added git pull if the repo already exists in /tmp/,835,2,2020-02-27 11:17:57+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+73b81803f4651d357ec41d8fd082cc7b481d8fc0,ADD - added report for 2nd of march,1,8,2020-03-02 11:26:52+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+a106df4c17167b8e71fc52acf4dbd5e259bf36e5,ADD - added sys exit if could not pull from origin repo,1,1,2020-03-02 11:28:41+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+2cf46f3619f5b212d40c7b8c7478d04e14571c6e,UPDATE - made repo into installable python package,1,11,2020-03-02 16:14:39+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+9be190dfb05c31fc90ca09d6a0a9aff23d3d8c54,DELETE - deleted the old src scripts and pipeline.sh,358,4,2020-03-02 16:17:23+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+809edf99432fd3e19cb803025e5ef60df4060769,ADD - added new exploratory notebooks,1417,15,2020-03-02 16:18:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+2a1c2c5c1c8b4c9c3d9cce1650d0f76db10571b2,ADD - added more functionality for pip package,14,6,2020-03-02 17:00:38+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+61edbe42c118fc4058f92c1b6623f91f846f368d,UPDATE - updated readme,0,1,2020-03-02 17:03:08+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+b7cd61abbb2a33fc7b1e2cd2ce0a58017f1edb98,UPDATE and FIX - updated cli to output reports to optional destination + fixed path problems,939,14,2020-03-03 13:12:44+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+c84a37466f620fda86e9be44b0d947c0175fb47b,UPDATE - fix emoji,1,1,2020-03-03 13:13:14+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+7896c5d2b6765d34c5fcbc8bf250e44a920f8e52,ADD - added functionality for choosing the datasource,10,2,2020-03-03 14:02:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+90ec519d96af01fe1e711332e494b8e31c6e23e5,RELEASE - release for 0.1.0 on PyPi,77,4,2020-03-03 15:43:21+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+99a0b70734b1f19608789f08f11f1d3ce4a2e0a6,ADD - added reports and data back until hosting of images is done,0,10,2020-03-03 15:55:48+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+c9fb719a4da0c135244539ecbf19249d0e0caf28,UPDATE - updated readme,2,1,2020-03-03 16:00:25+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+ecda0ee4b951064b73aaf463e42d0d63b8c249db,UPDATE - reduce terminal output by integrating a loading bar,6,2,2020-03-03 19:55:40+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+de4b2101ad989a1fd26b2e7a5952f0e6cd441ae9,REMOVE - removed print statement for output folder,2,1,2020-03-03 19:57:20+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+6b156d43730024e952ead8b601e5939b4a668684,ADD - added report for 4th of march,1026,12,2020-03-04 11:14:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+6bcf2681987c4b1b7d2787f278c379eeaca41e3b,UPDATE - readme,3,1,2020-03-04 11:16:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+39e6619200e9e1b0fa042865358e16429eb05695,UPDATE - version,1,1,2020-03-04 11:19:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+0a6c5ec5ad09ff1de52faacf91ce871c7bbcb772,UPDATE - typo in pipeline.sh,1,1,2020-03-04 11:33:33+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+f9d9b0af73cbada5e8403f987d801bfe9ad8e6ab,ADD - added test for cli script,0,1,2020-03-04 13:20:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+3f09f6dc163dda36643a15bcbeda5982629e2cc5,UPDATE - added badges to repo,0,1,2020-03-04 13:53:04+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+e20120b7227c501a53d931c94888e6fc57763a80,UPDATE - readme,1,1,2020-03-04 14:07:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+aead3b13798cf5839605784032045d6341266606,UPDATE - readme,1,1,2020-03-04 14:10:50+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+6f01b00caa46495b8d3c5a8f12d24aab21d9f0aa,UPDATE - readme,1,1,2020-03-04 14:38:57+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+ac4ce6c134dee6306772726598d782844fc54df5,ADD - added new functionality for making excel spreadsheet reports,241,3,2020-03-04 16:15:51+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+90b39d8f96e382047305375c0264dc08f2a1b60f,DELETE data,2042,10,2020-03-04 16:21:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+4c08e9cd598fa755eb95bede33d3b1e80af7d7d5,REMOVE - removed data folder,1199,10,2020-03-04 16:23:17+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+941278670ed89274ed6e1b9112b18a695ebb5229,ADD - added new report data,0,11,2020-03-04 16:24:42+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+8ce44a4a13780589464358b3c8eba8d91020b63f,"ADD - add test for data prep, not working yet",0,1,2020-03-04 16:26:25+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+3530345994bbead2222f7db4f9af64765df43ec9,FIX - typo in print statement,1,1,2020-03-04 16:32:33+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+b5d4472a8ed95301ed60955e8db538ee176f6335,UPDATE - updated version in config,1,1,2020-03-04 16:35:15+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+e856bf21b91e56bdf6e44f8c3827993d5610a061,ADD - added report for 25th,1108,13,2020-03-05 10:33:50+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+3c65d95607440b1ef8ff7439115ea89c3403dde1,ADD - added new badges to github,2,1,2020-03-05 11:05:47+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+e922cf97821b5dd64125cd040166ae3fd52ff193,UPDATE - took out hard coding of paths in data prep,7,2,2020-03-05 12:48:35+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+015cb5d63d48325d2b6d879582e98b548097bd6e,UPDATE - remove unnecessary imports and update version,18,3,2020-03-05 21:28:15+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+2b01859292c22c2f24814e624a4f62a6a5737667,ADD - added report for 6th,0,8,2020-03-06 10:45:49+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+39c9f40df8a1dda132112b085959a3f88da13ff8,ADD - added report for 7th of march',0,8,2020-03-07 11:13:56+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+ea478c7b38258ec4406bef16146ec0d81174a7ae,ADD - added report for 9th march,0,8,2020-03-09 11:04:55+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+c1de6c5ba1b72d356a99d1ef4f38ed819df090f6,UPDATE - readme,10,1,2020-03-09 16:35:34+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+96eae74b29cc0151f2099d3b8ab24d733369b65b,Minor misspellings,2,1,2020-03-10 07:30:24+08:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+9fc46205145ef214603af212de868679d6d66033,"Merge pull request #12 from weisisheng/patch-2
+
+Minor misspellings",2,1,2020-03-10 09:05:06+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+a97e6c44d54a6d02aefd26a37ee4507fc4525c62,ADD - added notebooks for adding new features,76,2,2020-03-11 00:35:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+753138b6f1be560195d0eb6da6b4638664b7a83e,Merge branch 'master' of https://github.com/AaronWard/covid-19-analysis,2,1,2020-03-11 00:35:11+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+7319f9c0fd8ce5ae43a044ccb7ff20e8eba9dc4a,UPDATE - added feature for filtering reports by country,21,4,2020-03-11 00:37:09+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+63a799ec3c4605833f56703ec1c81b95d3db5af4,RELEASE: 0.1.5,8,2,2020-03-11 00:41:39+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+c472ad97ddee4703e84b3c683774202d7523d948,UPDATE - readme,0,1,2020-03-11 00:43:22+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+398a507c850c95493d54350e07db9143a4636e36,FIX - typo in version,1,1,2020-03-11 00:44:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+496625dc99c2d1b82da3d6e35019bf5e5aa208f7,FIX - fix for no country specified,3,4,2020-03-11 01:13:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+5f6e59781bd55bf13c94b3cd61043f894d6ce0ab,UPDATE - version,1,1,2020-03-11 01:13:47+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+4803675022be858983497fbeb1a921f5f7c1ca92,ADD - added new images,0,7,2020-03-11 01:16:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+ceee002bfcf5265afb04b25dd9dc6aae1dea6944,AHHHHH',7,15,2020-03-11 01:21:45+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+202936bb6794aedeb50d3373b3d70534ce784c37,ADD - png reports,0,7,2020-03-11 01:22:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+580b20000b34eea9b2d3d50f5ff1e1484c20f033,UPDATE - fixed problem for multi word countrys in cli,16,5,2020-03-11 10:35:03+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+7d5a62e3b068da7fff7b496ae60148441e80a45a,UPDATE - readme,2,1,2020-03-11 10:35:53+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+de70ba4166e049fae41212d0dcb4855253edbf5f,UPDATE - version in setup - 0.1.7,1,1,2020-03-11 10:38:18+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+7bb9af4d636c7e78d491d83312346223d5adf710,UPDATE - did a code clean up and moved github extraction to a separate script,146,7,2020-03-11 14:04:57+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+28de76d658b4a6abd5d9fe23d7fe3e87347c7941,UPDATE - made more general folder creation for countries,6,4,2020-03-11 14:58:31+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+41b9a874f5e705ec054849b6d95a517844682733,UPDATE - version 0.1.8,6,3,2020-03-11 15:45:04+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+630fe7720ba24d4483e72ef86c47137ba6bae459,"Spelling, ""Accumulative""",2,1,2020-03-11 10:45:51-07:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+cfdc496879b0c5a2e40277d9e74180edde69099c,"Merge pull request #1 from creeble/creeble-patch-1
+
+Spelling, ""Accumulative""",2,1,2020-03-11 10:46:57-07:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+41bf506c50428b52e2bb9c8b6576a76193d32509,Typingix,2,1,2020-03-11 18:49:49+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+aa7570c46d44155c6ca67b7bf15424bf499faab2,FIX - fixed folder deletion bug,1,1,2020-03-12 16:03:09+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+fb32653cc14f062ea6a7696265d45577982082ae,FIX - added folder deletion if it's a default desktop output folder,7,8,2020-03-12 19:54:59+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+b6c786e493102164b284d086a397a2f4d836c86f,Merge branch 'master' of https://github.com/AaronWard/covid-19-analysis,2,1,2020-03-12 19:55:10+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+91bfd7b529cf735c56ab0b506f3aeff3933e146a,UPDATE - new release,1,1,2020-03-12 19:58:43+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+91ac7502654c7addbe42d67333ca3acc9837bf1e,ADD - notice to readme,0,1,2020-03-14 15:58:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+97ceafd7fc1abd1c29d4b7762b212aafa6ddc046,ADD - notice to readme,1,1,2020-03-14 16:00:39+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+dd354d7d6daf8134d7b8b64d707902506f7dfc74,FIX - typos,3,1,2020-03-15 10:47:55-04:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+8cc745c15d2ad2b14cd622fce2c66a14576388d4,"Merge pull request #21 from pnuw/patch-1
+
+FIX - typos",3,1,2020-03-17 09:41:07+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+cdeab75f61d33adc5f208af8012b28889e28a499,Update issue templates,0,2,2020-03-20 10:48:04+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+b651b9ad867e28d208d78a0c03bfdf03267be0c6,"Update issue templates
+
+ updates templates",12,2,2020-03-20 10:52:18+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+00d004aed779079349b49203e0cae09b226772fc,ADD - added feature for listing countries,5,3,2020-03-23 09:58:44+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+a88bf07c697b0a4775d7a1bd408aa488c9126fa1,Merge branch 'master' of https://github.com/AaronWard/covid-19-analysis,3,3,2020-03-23 09:58:54+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+e98184983414c171170f9bc8e4684d253425a688,UPDATE - cleaned up column definitions,9,1,2020-03-23 09:59:40+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+cacda8445b09062592190feb8137ab8cafea7573,"UPDATE - added country fixer function for countries that are named differently Ex: korea, south and south korea",61,1,2020-03-23 10:01:17+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+c02692e2b97e2de875b761a9ed589b599da5f0fd,UPDATE - code clean up on data exploration,5,1,2020-03-23 10:02:00+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+f173dbc19cd249612ee652d005e7861de9d3c86c,UPDATE - fix type in mainland china output,11,1,2020-03-23 10:05:02+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+1fa8a231e7a86a1b04358bd71e1b7ea03185a404,remove - removed data,2127,3,2020-03-23 10:06:35+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+daf5679215afc61cfe2da8d366b0b16d5fd26a4d,ADD - added example data output,0,3,2020-03-23 10:09:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+257f659fee96edecac23cd7cc5419803a00dde29,UPDATE readme and config,9,2,2020-03-23 10:18:38+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+1e6b021b365655e1baa96b64b0c1bd5834fbed00,fixed issues in charts showing negative values,22,4,2020-03-23 18:38:13+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+60f50e29757be96a7d10267c0bbe24da20b70819,"Merge pull request #26 from ajaymaity/fix_negative_trends
+
+fixed issues in charts showing negative values",22,4,2020-03-24 09:13:59+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+ce008f78f152ce70269449dba2be0e20f76e3c3b,ADD - added more conditions for checking columns,2,1,2020-03-24 09:50:01+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+5704199e5313e5ad96868b19776c7f764cf9b0ba,FIX - added fix for reports when filtering by country,1,1,2020-03-24 12:29:32+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+7b836465bb5dff100cee5c38f0bfa5f9d3e62751,ADD - added new country parsings,24,1,2020-03-24 12:30:04+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+7190e676f30fa60a572cbcd4caace38a9faaaf51,UPDATE - added fixed report images and updated version to 1.0.0,1,8,2020-03-24 12:32:02+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+320919a5758ad15d8ee8530f6275d5c336eb0e36,UPDATE - readme,7,1,2020-03-24 12:33:18+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+72deeca1016dd008f0d385d4c56bf1e883a04db2,UPDATE readme,1,1,2020-03-24 12:39:13+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+c93eaead6c648255d9e6e40aae7fe5c96bd48117,ADD - added report for 25th of march,0,7,2020-03-25 16:21:57+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+b90c150004262fca75a1dab99b626171a161db73,ADD - added recoginition for ajay,0,1,2020-03-25 17:40:12+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+81807a47e98293c073fea6353d523908fe04160c,UPDATE - added tabulate to requirements,1,1,2020-03-25 17:40:40+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+0b6605faddb73103f009a41108a3fea8c2dafef8,ADD - added parsing for ireland and northern ireland spelling mistakes,0,1,2020-03-25 18:03:05+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+b726555bc5a5fc3912f3099caa066841775c453f,ADD - added fix for dating problem in the reports,4,1,2020-03-25 18:46:58+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+24cca6f0e83fe9b7ae48c112ffe4ae586a3ad745,"REMOVE - removed tablulate, not needed",2,1,2020-03-25 19:06:44+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+3a04b071bdce7872bc164314c8399059442e6c71,CLEAN UP - small code cleanup,16,3,2020-03-25 19:07:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+0a8db3ca97dd1277fc24f3970c51ffc37eda14ff,UPDATE - release of 1.0.1,1,1,2020-03-25 19:08:03+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+b3941e16df683e0c7196f42a6be86ed244d5bd0b,REMOVE - removed files,5088,14,2020-03-25 19:12:54+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+6db0de178b74d747205b867438ec3c533dc81d77,ADD - added fixed report,0,11,2020-03-25 19:16:04+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+de2ad130d74d1311b500de1b5192bd09e37adde0,UPDATE - readme for new repo name,3,1,2020-03-25 20:02:39+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+efd2f9bceb235c588496cbeaf85a337454507321,UPDATE - updated reame,17,3,2020-03-26 11:08:06+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+553d01f78e5df6711fd99511dba3c07fa23e4415,ADD - added gif of report,0,1,2020-03-26 11:56:26+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+b2cf5fbb040497bee642de6db19f46728f536663,UPDATE - readme,35,1,2020-03-26 12:03:57+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+9d2e1ace7f34fbc35565970ed9a7d0c18e109276,"UPDATE - readme, fix typo",1,1,2020-03-26 12:05:13+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+50ed49975269d6c1ae5fdc6a9270fefbab445e4a,"UPDATE - readme, fix typo",1,1,2020-03-26 12:08:27+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+9bff216abe666e6727b972b07e1a23e1e9a0cbe0,"UPDATE - readme, added install to TOC",1,1,2020-03-26 12:09:42+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+388d047f8117e1b4370170e2ccc43ded41f5587f,UPDATE - logo,1,13,2020-03-26 12:29:44+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+ae413f95505fbc7978b45966193598c01d7c8728,UPDATE - logo,1,1,2020-03-26 12:36:16+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+18a329116db8150b50d946df7431989436931333,FIX - logo,3,2,2020-03-26 12:52:33+00:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+1cde998ebd0aae9305772317612038eb83f7abc1,UPDATE - readme,2,1,2020-03-26 15:15:10+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+479ef368fb608666b24c3deb9fed0263a82e1f71,UPDATE - changed jhu flag for source,3,1,2020-03-28 18:13:27+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+a3185b918b6a0ea19989d6b85fc8b73c5d13a1f0,UPDATE - updated echos for pipeline.sh,7,1,2020-03-28 18:14:34+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+272ce6f4a092b09f0564b4870b0b72b0a7dd7fe4,RENAME - renamed exploration to visualization,8,1,2020-03-28 18:15:22+00:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+4c83c82a350e4319f45537c9a05b34050f7e7fa5,UPDATE - print statements for data prep,3,1,2020-03-28 18:16:16+00:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+47a176f02b70129c4e836f165a8e3636c04f56b4,"UPDATE - added parsing for gambia, and cleaned up code",24,1,2020-03-28 18:17:21+00:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+3ecc61b66f7fa089984463268b4e5e75069cff91,ADD - added notebook for comparing countries on a logarithmic scale,0,1,2020-03-28 18:19:59+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+0258f2ab5763e28ec3fd8757e3ab515641ed798a,ADD - added log scale to notebook,868,1,2020-03-28 20:38:43+00:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+4aa32bd19f2184001c9210686b83962efa8402fc,ADD - added more to notebook for log scale of country numbers,730,1,2020-03-30 22:24:14+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+848ff373d2e8d57baa5f573cdf8677bd19d3faa3,REMOVE - removed tableau workbooks,7498,2,2020-04-01 12:47:24+01:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+969639e971f662c763f901531aee378a702826ed,UPDATE - log notebook,2009,1,2020-04-05 21:51:42+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+340345df78cc8f1883e03a71f13733091fb1f509,ADD - added top N countries as an option for cli,4,1,2020-04-05 21:52:35+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+4394a95e04eeb32e92dd91e39739d2ef19c20d85,ADD - added default parameter for number of top countries to config,0,1,2020-04-05 21:53:09+01:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+0830aac2cd6769d9a4f2ee003584582f365fa373,ADD - added code for calculating logarithmic growth for the top N countries,0,1,2020-04-05 21:54:21+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+1d2a5663e6ae9bc5e745b2a8edef1f5e6b00a64e,ADD - added code for plotting on a logarithmic scale,1,1,2020-04-05 21:56:14+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+dd75d29d70313fb5b95203fd2d45d63e2515d7bc,ADD - added code for printing of number of areas infected,1,1,2020-04-05 21:56:48+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+59364fd5d344312b28801eb4ce31274c8e794d58,ADD - added extra arguments for log plots,2,1,2020-04-05 21:57:11+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+6bef8d6f600b212b79addb0c0c3ed4fbcef775d3,ADD - added extra parsing for mispelled countries,0,1,2020-04-05 21:58:49+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+b4d1a66dd88609c1010bb3ef859cd7e2d607507f,UPDATE - Readme for log,0,11,2020-04-05 22:02:03+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+5535e7954c44263fa30dca8c32ac60d18c2da6b6,UPDATE readme,4,1,2020-04-05 22:04:01+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+72086da5836d65ee8845f04b97a0b9f8d0c633b5,UPDATE - version 1.1.0,1,1,2020-04-05 22:06:58+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+0f8b20b1f9760d1f5cbb75af8994ee5f1a0a1ad2,ADD - added notebook for forecasting,0,1,2020-04-06 21:53:26+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+9c3331c9cd376abb74c2d4998052f2a714bf12cb,UPDATE - notebook for arima forecasting,14,1,2020-04-08 00:16:41+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+69c503108b6cd5fcac67b06df3d84204d3cf623f,ADD - script for ARIMA forecasting in main code base,0,1,2020-04-08 00:17:18+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+6b5cf163f18e743f90c08fde6a740dcda6d192b9,ADD - added forecasting as an option to cli,7,1,2020-04-08 00:18:19+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+5ab5bbc865f153f85d1f74f152ea30b42ca860cd,ADD - added forecasting script into the pipeline,0,1,2020-04-08 00:18:48+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+6611468d68f6470af5d273e1b7af6b9e8e4c3ad8,REMOVE - old reports,0,9,2020-04-08 00:20:04+01:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+b85472b7a1529a28761f93d9aad71f60439432ba,REMOVE - old data,17931,3,2020-04-08 00:20:38+01:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+d500eae84f1ea19ae59c1a91d10d4b799828125d,ADD - added parameters for forecasting to config,0,1,2020-04-08 00:21:47+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+ce9eee0c78d1d08793bdde4d910dcd0aed0cd917,ADD - some code and printing clean ups,11,1,2020-04-08 00:22:21+01:00,../../projects/well_engineered_projects/covidify,covidify,[Other]
+7141ad50c8eeb88031eeef718748760a034739bf,UPDATE - updated readme for forecasting,8,1,2020-04-08 00:29:27+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+fb80a2400af654f296801813c0d11599d5f330cc,ADD - added new images and data,0,15,2020-04-08 00:30:04+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+95a794eb5e24ac477d6e191b7454a0de44493a13,UPDATE - updated version',1,1,2020-04-08 00:30:59+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+e2e2c792c41ccbb660232d923400af24ee4fe6c8,ADD - added filter for saint martin,0,1,2020-04-08 00:36:23+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+dd1abec342cd817789256ce8955632b5e993207a,ADD - disclaimer to forecast section,2,1,2020-04-08 00:44:39+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+b84a43bf45a7c2406741406f8d8e6f3a2742cc7f,"Minor fixes on line 63 - Duplicate word on line 139
+
+line 63: `John` → `Johns`
+* fixed typo on line 127
+* fixed typo on line 139",4,1,2020-04-07 22:47:22-03:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+1d28c5ccb0c0ecde366106847d68dbc255473f1b,"Merge pull request #36 from kant/patch-2
+
+Minor fixes on line 63 - Duplicate word on line 139",4,1,2020-04-08 10:10:16+01:00,../../projects/well_engineered_projects/covidify,covidify,['Bug fixing']
+c66d32f9bbb1254905d2e95dd1792f136219c5b9,Update requirements.txt,1,1,2020-04-10 13:28:52-04:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+f5206badffc2eae483044d3bf100af4dbfb47e52,"Merge pull request #37 from ChubbsSolutions/master
+
+Update requirements.txt",1,1,2020-04-10 20:14:16+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+7e2929419f5587908eef9daeffd349e9b6a945e0,added interactive map component,0,4,2020-04-22 10:23:52-04:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+a7f24c2568b801b1c76980b277e42ff779ca2de9,"Merge pull request #40 from Jneville0815/master
+
+added interactive map component",0,4,2020-04-24 11:30:22+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+b47fa60a1d4d56aef7ccf7a7873537b73fb227d0,ADD - added new interactive map notebook,225,2,2020-04-24 11:51:14+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+030cfdec50e724abd00db79382e9c1ebfd7fa1eb,add kofi,0,1,2020-06-01 14:30:39+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+ca62f26fdc6d2b909ce6a0b71f09852bb2472df9,Update FUNDING.yml,1,1,2020-06-01 14:34:06+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+e3ba2513e0916e3c5ff84492f0b189659d104248,Update FUNDING.yml,3,1,2020-06-01 14:34:48+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+e678eff7ae6e818f709ae57ee80a1e8b0921f2dc,Updated kofi,0,1,2020-06-01 14:38:56+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+7801a1330815ad155de9bcf7c5833d87f95b0b54,ADD - added KOFI to readme,1,1,2020-06-01 14:48:25+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+c3f522505cc99938ad81932b6e399a58ab3ec9c4,UPDATE - updated forecasting script to use all data instead of splitting into train/test,36,1,2020-06-01 17:10:15+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+154f95586931f6951937e15fff5e781557f75a02,"REMOVE - parquet file persistence, not needed",4,1,2020-06-01 18:29:11+01:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+02da4aefc0066d37661a189d3e89510b58249797,ADD - added 120 day tail to the plots to prevent data overload,4,1,2020-06-01 19:19:00+01:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+482c7be35e94368820cacf1007b360b953ba27b0,UPDATE - cleanup dataprep,13,1,2020-06-01 19:23:44+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+8ae326062d05a7d6c998d75e00595bf71c090f91,UPDATE - version,1,1,2020-06-01 19:36:09+01:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+e04be2a56248ac32120fd30dda5ff85ddd49a48a,"Merge pull request #1 from AaronWard/master
+
+Update",59,6,2020-06-09 20:06:02-04:00,../../projects/well_engineered_projects/covidify,covidify,['Refactoring']
+76ec34efa5f7c02f645c294da37af4c013595512,Create Covidify Quick Start Guide.pdf,0,1,2020-06-10 15:27:40-04:00,../../projects/well_engineered_projects/covidify,covidify,['New feature']
+f30d211d2075a5e2ad6625b43e30f66ce7089cfd,Moved quick start guide to resource,0,1,2020-06-16 16:12:16-04:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+c3e722b60824c8739045ac4c57b50b1478a995b2,"Merge pull request #46 from barberw-OSU/master
+
+Quick Start Guide",0,1,2020-06-17 10:18:27+01:00,../../projects/well_engineered_projects/covidify,covidify,['Other']
+776a34e8384ead231d6abf533bdd7219d887a269,Initial commit,0,434,2019-09-25 14:25:14+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+fed144827cae60a5186818629a60054761fee827,Update Adlik schematic image (#2),0,1,2019-09-25 15:03:14+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+cd49ad8fb550c24afa18a1f75230468c8103c37c,"Do some cleanups (#1)
+
+* Remove old formatting script
+
+* Format *.cc codes",1641,43,2019-09-25 16:39:35+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+efaedb7e9be2a17d627243f46c00e92f476bb58a,"Set up a basic CI system (#4)
+
+* Add a simple commit message checker
+
+* Set up Azure Pipelines",9,7,2019-09-26 13:57:17+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+233b47033f325b67fbce33378ba45e0811b20ce5,Fix badge URL (#5),1,1,2019-09-26 15:36:05+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+51e8c798720d1b9139fc9660a4fa40aa644ac451,"Publish build artifacts (#6)
+
+* Publish build artifacts
+
+* Build outside of Docker",43,8,2019-09-27 08:36:36+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+f16b730b817c2df3f50df7de907e9b929d83cd29,Create CODE_OF_CONDUCT.md,0,1,2019-09-27 13:35:14+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+8175a9540edf951e02071adce1e00d61253ff9b9,Create CONTRIBUTING.md,0,1,2019-09-27 13:36:00+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+eea1aa2baa4a616c53938f05cf50a46f7fec8f35,Update CI badge URL,1,1,2019-09-27 13:36:30+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+44d1383cfdc92c191bbe6fb51c3fc5349d21a25c,Add model compiler and CI,26,31,2019-09-25 15:30:54+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+37dc22a4346c4e9c312b23ecd3b98cc16d9365b0,Set up Bors-NG,0,2,2019-09-27 14:26:55+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+0ddeb361a3b5c6e0f97e60f2f39ee64c9d1664fd,Increase timeout,0,1,2019-09-27 15:42:33+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+a1d5e8767b1b616243d4c068fef17189e46aca99,"Merge #10
+
+10: Set up Bors-NG r=amadeus-zte a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,2,2019-09-27 09:26:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+f7f9f5aae4b2957a02b5f913611ce7813681ed58,"Merge #7 #8
+
+7: Update CI badge URL r=EFanZh a=EFanZh
+
+
+
+8: Create CODE_OF_CONDUCT.md r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,2,2019-09-27 11:54:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+f356dfdcef80335535d9c5bb066af767af015bfe,"Merge #3 #9
+
+3: Add model compiler r=EFanZh a=shiyingjin
+
+
+
+9: Create CONTRIBUTING.md r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: jinshiying <jin.shiying@zte.com.cn>
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",26,32,2019-09-27 13:27:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+b890fe4d04a62b9316155308d81530d05fcf38d1,Add Bors badge,0,1,2019-09-27 21:47:44+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+302a71e4564d5133491e754604a902f56d7f9723,"Merge #11
+
+11: Add Bors badge r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,1,2019-09-27 14:54:09+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+fef4480ae0dc9f6a1c5b601cf6701489b7d24812,fix a code review bug,1,1,2019-10-03 14:56:20+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+91ab344fd5e5e899b77b94956d2793d9f49668fc,"Merge pull request #12 from Adlik/bugfix
+
+fix a code review bug",1,1,2019-10-03 17:06:03+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+0d44e12066e98dfa1c05a99dfb26cfb08ccc6bca,Update build command,1,1,2019-10-08 09:40:18+08:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+7c44951b1d2960170d44e9cb1d6947cf06ab9d76,"Merge #13
+
+13: Update build command r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2019-10-08 01:41:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+49edcaf851c0221271ae9a5543a789f835fa4cd3,Add TensorFlow GPU support,11,5,2019-10-08 15:23:18+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9cfcb893cb59fd0c864d16cc783b0bbe16d4a048,"Merge #14
+
+14: Add GPU support for TensorFlow runtime r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",11,5,2019-10-08 07:38:53+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+ae0f4d9bbfb36519118da02c0de186835dd3650d,Update commit message checker,4,2,2019-10-08 16:49:57+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+82d8fbcdd876f471a6ab4b84a86e38fccff5765d,"Merge #16
+
+16: Update commit message checker r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",4,2,2019-10-08 11:56:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+040d49ac83b3af9f29f5ce598effa77e498e77b1,Add OpenVINO runtime support,6,4,2019-10-08 20:23:00+08:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+2af581fb4d4733855ee7acce79d5973dbc0cd97e,"Merge #17
+
+17: Add OpenVINO runtime support r=EFanZh a=EFanZh
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",6,4,2019-10-08 16:12:40+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+6a3676d9b3a75f1574d0a7e50adb9a598575d8ee,Add TensorRT runtime support (#19),8,6,2019-10-09 08:58:27+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+653c37e676e5537197f8a1a5b12d741de0989c0d,Create CONTRIBUTORS.md (#15),0,1,2019-10-09 13:24:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+c2a1a26e6385e150014b6bb0d6c242982fc6bcc6,Make CI faster (#18),0,1,2019-10-09 13:24:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+c3484aba5862272c17f859f4e3b83ffe1e7e53ee,Sort contributors by Email (#20),9,1,2019-10-10 00:40:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+2d88eb341a1f7e3990ca0485b690a19af7033940,Check PR status before merging (#22),0,1,2019-10-10 03:38:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+469bf49e2d0c43b536ab4512e8e588c1fe051268,Add copyright notation (#23),8,382,2019-10-10 08:33:13+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+6e6af33962fc8687deaaca29530aeb38db1c657f,Fix Bazel build error (#24),7,2,2019-10-11 03:27:44+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+a3f68b2cd35853c48e009260ebc46ad67a195677,"Revert ""Check PR status before merging (#22)"" (#26)
+Until https://github.com/bors-ng/bors-ng/issues/390 is fixed.
+
+This reverts commit 2d88eb341a1f7e3990ca0485b690a19af7033940.",1,1,2019-10-11 08:21:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+024bc286a67be22770c21b7b4a961ce3b6feeaa5,Cache build results (#25),10,4,2019-10-11 11:27:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+d63ceaae1b7253e19cbab486fbcef6c61e442129,Refactor copyright checker (#27),5,2,2019-10-11 14:19:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+f383c92a60f5210bbdbe3fbd39d7ce6922509ef0,Add detailed guide for building Adlik (#28),23,4,2019-10-12 02:36:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+147b4271c9898d02d167841040245c3377c8994b,Refactor CI (#32),23,8,2019-10-21 12:29:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+f05b982bebdd1a55ac0fe6f5966685985b56258d,Fix typo in model compiler diagram (#31),0,1,2019-10-25 12:04:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+5c167f6189e9356eb9b1f1c72212c25adace24ae,"Fix inaccurate description of Docker image usage (#35)
+
+Closes #34.",1,1,2019-10-28 07:39:04+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+8a1493a139cda9fcbf8dc4d1980c3e045517260b,Put the model compiler image at the correct location (#36),0,2,2019-10-28 08:25:35+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+20df38517a86e0fe588fb0f28f633233c37b89a0,"Fix macOS build (#33)
+
+Add  #include <algorithm> when using std::max
+
+Build success on macOS
+But still need to install automake and libtool
+`$ brew install automake libtool`",3,5,2019-10-28 08:39:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+980787d2c32812982dab643dd183ca49e5eaa288,Add CI for builing on macOS (#37),8,3,2019-10-28 13:13:32+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+ee0bc8477d91e384db97c2e65c49eb5ee3b1cff4,Separate build artifacts from different platforms (#39),2,2,2019-10-29 01:19:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+350b70795fbf09d7a61b1822d14f0f1af659578a,"Fix typo in adlik schematic image (#43)
+
+Closes #29 .",1,2,2019-11-10 07:50:55+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+4d5dab1f1a6215652e9c16abb99ac99a3926052a,"Fix TensorFlow runtime not enable batching (#44)
+
+Closes #45.",11,6,2019-11-11 08:10:04+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+ead29643f9e76f671fc00eb4c24a66f02bce0d93,Add a MNIST sample to demonstrate how to use Adlik (#46),74,9,2019-11-12 07:48:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+63c7e7da32ffb7820632f1e4b8af3ccd48060b99,Update contributors (#47),0,1,2019-11-12 09:04:23+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+8553c0bd6819173062e407efeafd9afc17263131,Format CONTRIBUTORS.md (#49),14,1,2019-11-12 09:27:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+13e7bb81e4729564dc8dc234c203b245d53ab520,Fix return value in void function (#50),3,3,2019-11-15 06:20:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9b1cde334055bcae532303c735a66e15f6aad3b3,"Fix get tensor shape error when shape is none (#52)
+
+Closes #51.",5,1,2019-11-20 02:54:57+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+c6863ac878d3961efaa4f4dd2d8cbc7ec7e84f6f,"Add aarch64 toolchain (#53)
+
+To support FPGA runtime.",0,3,2019-11-26 02:02:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+34e190e0e6d294d81dd718a84cbdf90005685288,"Support multiple instances for OpenVINO and TensorRT (#55)
+
+Closes #54.",361,13,2019-11-27 08:35:34+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7fb698fcc2ea71e0c5dce1d4a8bb6aea6a359bf9,Create ROADMAP.md (#21),0,1,2019-12-13 08:15:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9a133a3dc5d3786871e95cc765d738f3a8f829a0,Support batching scheduler configuration (#56),30,7,2019-12-16 11:27:53+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+b79c62d9814e9e08d9624cbd7aecfbd73791fa4f,Optimize the use of model compiler (#58),113,16,2020-01-03 08:44:20+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+49c33751b807e2d87b1a894a6a41145891c7ab44,"Fix serving not load the latest version (#60)
+
+Closes #59.",7,6,2020-01-15 00:51:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+15957cf8858cfcd6eaad2fc10e4cccc7bca47f20,Fix license scan (#64),55,11,2020-01-15 01:03:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+42e1ee54177392e479d835bed8fe673bd9980101,Fix license scan (#65),5,1,2020-01-16 01:06:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+122ce59d90b1d2aeff5f52d4ef52fe7981a74204,Update OpenVINO installation document link (#68),2,1,2020-02-10 03:44:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+50cad3dd1909287310e1a03928a7c3991f6c289c,Update CI Docker (#69),2,1,2020-02-10 06:47:49+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+1a63bb563274077783be2ce18d04d14d988db2de,Fix TensorRT serving runtime building instruction (#70),1,1,2020-02-10 07:44:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+ce1aa9658c6b056267d748ed1bc164b67a307f22,Add nvrtc as TensorRT dependency (#71),0,2,2020-02-10 08:23:38+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+aae2706520571c97c11081b7f9d04f59773915b9,Update buildifier (#72),9,1,2020-02-10 09:35:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+1e34a0ce2a8e18443e1d21e77bf6fcabf687690f,Update buildifier (#73),57,26,2020-02-11 00:53:30+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+22f02feb08a9e8c710662d2e776a5587aa763024,Added email contact (#66),0,1,2020-02-12 08:19:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4c42d4f3ed56d7af95b8c315ba15af2009f70373,"Fix some bugs (#78)
+
+Closes #77, closes #76.",104,2,2020-02-27 00:43:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+be3d9ef6ee586e34839b1b75d32da48cf24d3ce4,"Remove some useless or wrong comments (#81)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",8,1,2020-02-27 06:54:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+d3b837fdf6700ea2a63a223c4d0943464ba71186,"Reduce time complexity of `CompositeBatchProcessor` (#84)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",16,2,2020-03-03 01:15:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+37ded93a8afdd8cb96e8018f06a22cdb28ffceef,Modify readme.md to build the OpenVINO runtime successfully (#82) (#83),1,1,2020-03-03 02:26:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+43fdaf7d27aaabcb68cfc68c7245141823bbed09,"Format codes (#87)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",53,127,2020-03-03 07:42:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+46100708eb11598975ada1d16f3fea8b3ba0d990,"Expose `TensorProto` in predict request provider (#86)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",5,4,2020-03-03 08:08:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+c99f998d8175e9a0cca1fa1a9eaf24995fb423f4,"Update CI cache version (#90)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",7,3,2020-03-06 04:18:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+21c174c20ebcb66ee02d64ce3a616e22a09c7222,"Optimize output names (#91)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,1,2020-03-09 01:59:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+80a0e9aaba8aa62e273e852fa5f4c6668e0a3cec,"Modify readme.md about deploy OpenVINO service (#94) (#95)
+
+Closes #94
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2020-03-12 03:04:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+d1f49caef0b389323bedbc27536452fd5501d50a,"Fix the bug compile the onnx model to OpenVINO or TensorRT model fail… (#93)
+
+Fix the bug compile the onnx model to OpenVINO or TensorRT model failed. (#92)
+
+Closes #92",2,2,2020-03-12 03:31:04+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+155ea70cd2e5990fe4d8836729ae2f37d935d9ba,"Fix package version (#96)
+
+bors r+",2,1,2020-03-12 09:07:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+91caca7a931340ea9a3f2a251f2fbc2cb5855c39,"Add an `addOutput` overload for dynamic sized buffer (#98)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",42,5,2020-03-13 08:57:47+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+bb0203a851e8afb0933abc31837b3a9f7dff179c,"Fix the bug can not compile openvino model.(#88) (#101)
+
+Closes #88
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,1,2020-03-13 10:10:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+093da91307489ee3587377cb4787f921833be172,"Add block labels settings (#103)
+
+bors r+",0,1,2020-03-13 10:10:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+c890eea7b9d0983905dd38c380839bda1a2d8237,"Update README.md (#104)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",10,1,2020-03-16 02:11:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+62b25bdcd71aa47529c4d62830fff5c6d320d2ca,"Clear cache (#112)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,1,2020-03-26 00:35:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+416330713a18e40785d3c3075fe10c4515387d35,Add TensorFlow Lite runtime (#74),0,20,2020-03-26 03:29:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+5bbb444f097b03be9c925a795f671847f7a14dbe,"Fix typo (#111)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",5,3,2020-03-26 03:29:23+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+cef7532ee78b04563dc2b99e2e634ba9911420a1,"Add Release.md (#109)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>",0,1,2020-03-26 07:15:53+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+fe80cd27c5bc71f9f1ba13785d823d83a83b6c44,"Split CI pipeline specification into multiple files (#113)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",237,20,2020-03-26 08:51:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+ca788f846ce7fd991bf2b400026e94b81d18aa24,"Modify readme.md (#107)
+
+ Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2020-03-27 07:30:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+8894eba89473858d0d38d24c00d0d589d7c020bb,"Fix the bug: TensorRT 7 can not compile the onnx model (#105) (#106)
+
+Closes:#105
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,1,2020-03-27 07:43:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+0d16c3a65002234ddf77881fc992203e722c9ce4,Add coverage tests to CI (#114),9,13,2020-03-30 11:22:09+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+8784db390f948ba122e4e985cab113050e05431c,"Format README.md (#116)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",27,1,2020-04-03 03:37:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+5b1b5f60d1847bce625be5786e1340de53b41387,"Do not move local objects in return statements (#117)
+
+It prevents copy elision.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",4,2,2020-04-03 08:07:02+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+27f64b5e7e55df99557c4c94d4b376256f2fa260,"Support machine learning and add two self-developed algorithms (#85)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",31,78,2020-04-03 08:34:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+522169a6df2896a3ccf018f74cf7e4655dbbd22f,"Clear build cache (#122)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,1,2020-04-09 03:25:57+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+201f6e76f318acc6e82967e9689029c5f59b5930,"Add TensorFlow Lite build instruction (#123)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,1,2020-04-09 03:25:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+a0ce8e218f6fcd18c18169c99571e775954f8f65,"Check requested output names (#121)
+
+Fixes #108.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,1,2020-04-09 06:17:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+1985b44236a5edaaf255a1ac308c624be9aafed7,Upgrade to TensorFlow 2.x (#75),129,30,2020-04-09 10:46:26+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+cc842e76502b1db3c729e3dd03ba09f669efbfe8,"Fix checking commit message (#126)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",2,1,2020-04-09 10:46:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+800d9ae7c1f54bf978b22448abfe5bf91f3b9662,"Remove some useless comments (#119)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",7,3,2020-04-09 14:20:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+d8579db5a40f84c507f23dc788caae7916d66d02,"Remove unnecessary Bazel compilation flags (#127)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,1,2020-04-10 08:44:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+ffe1848832ba11b20095f9202964b64e68279c57,"Fix task will terminate immediately if timeout_seconds is 0 (#125)
+
+Closes #124.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",5,1,2020-04-10 09:26:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+c0090a60c0a30dba9838ab580e394e91db98dce7,"Try to fix coverage report (#129)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,1,2020-04-13 08:14:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+94c98608f275128970408681c72651f50a5e64b2,"Disable build cache on TensorFlow GPU runtime (#134)
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",4,1,2020-04-23 07:05:49+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+0e7d0cc6de9d088b86de7bd761dabb572fbc10a4,"Fix write milliseconds as microseconds by mistake (#133)
+
+Closes #131.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",6,3,2020-04-23 11:08:09+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+54b64b5c7ae54ac239c0c351d0f97c7f20d984f5,"Support csv reader and writer (#128)
+
+Closes #118.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",104,32,2020-04-28 08:20:24+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+066bf2f49663c32f6a06553efe3f6f161d3abf94,"Add tf lite runtime test results (#135)
+
+Closes 120
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",22,1,2020-04-30 10:26:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+74c6c821bccf562df6c0913003d5734307851971,"Use pre-installed Bazel (#139)
+
+Signed-off-by: EFanZh <efanzh@gmail.com>",18,9,2020-05-06 02:20:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7367f24e813ec3c627fb1f1937ae2047668659f3,"Fix mac compile csv_reader failure (#145)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",11,5,2020-05-13 02:30:34+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+ed17586c780234256f24c58f54acfbf4447222d4,"Add considerations when using docker to build GPU serving (#151)
+
+Closes #97
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2020-05-14 10:42:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+e079dfc187022d4e5b68c6fd6bedab5593bf22ba,"Update Dockerfile (#154)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-05-15 04:25:49+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+fceeab8621dfd89dc7853041b5c3864da8b14062,"Remove some self developed algorithms (#149)
+
+Remove some self developed algorithms and support other repos rely on Adlik as a third-party library
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",1364,38,2020-05-16 01:24:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+2576b5e966e34601f2e14daafeafe7602dfcb82a,"Update CONTRIBUTORS.md (#155)
+
+Added new committers from ICT,CAS.",0,1,2020-05-20 03:12:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+648501e69b062bb55c87cc4b62860b0797f2b2dc,"Install Automake on macOS (#157)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,3,2020-05-23 03:01:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+4c09eafd3b267fedd70952fc3f5c8f1e977f7b10,"Fix macro definition of algorithm register (#158)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",4,1,2020-05-25 01:21:48+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+cf8b0d28bc111a8b402b63e04b4e1dadc35b9f6c,"Refactor task interface (#156)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",36,7,2020-05-25 06:35:24+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+ae280440697bd1090afee12ffe1250541a101d4f,"Refactor task response interface (#159)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",6,2,2020-05-26 08:52:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+b600bd1ea2f270e800cb9b7e42d6d0dbc358d9b7,"Format README.md (#160)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",54,1,2020-05-26 11:54:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9fa8032b208b7c1a19be39511f840cb7ccbe96df,"Use correct letter cases (#162)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",2,1,2020-05-27 09:30:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+2dfa989e236cdc5c40f6fd2ffac82b7a7015f2a0,"Support converting Boolean type (#163)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,1,2020-05-28 01:06:32+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+1dd8c4d4c52e5798b7f94211293d6a204d718f20,"Add new model compiler implementation (#153)
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,68,2020-05-28 04:04:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+ddc29bfe97d74f1b7bde252aa93f6ef8e9af99d3,"Upgrade TensorFlow to 2.2.0 (#146)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",12,7,2020-05-28 07:16:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+63c8f36b7d4ab3b1a5b51db1f94ee428ae068fb7,"Fix task client demo bug (#164)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,1,2020-05-28 10:29:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+aab29292d6fc7374dec4318252bc41c60bb7b49d,"Redirect verbose log as debug log (#165)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,1,2020-05-29 00:53:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+a025701637085930d0b9dae63841bac87b25aa86,"Support add and delete model dynamicly (#150)
+
+Closes #141
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",58,36,2020-06-02 02:57:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+d47a90aabab88fbf6b945f02d5603d1be53d2df9,"Fix typo (#172)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-06-02 09:33:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+5c7c21282d8740526f8d3ede9c32db90ad568322,"Add missing quotations (#171)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,1,2020-06-02 13:02:18+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9a76db49f2c2c26239a66965584c3201bcb20ed6,"Fix uninitialized member (#173)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-06-02 16:10:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+4a85a5f6986c599d1b7c0d64a285ccfd7adb41fe,"Revert ""Support add and delete model dynamicly (#150)"" (#174)
+
+This reverts commit a025701637085930d0b9dae63841bac87b25aa86.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",784,36,2020-06-02 22:48:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+011caa1045857a11ac4ab127945692f7bb51f40a,"Remove useless comments (#167)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",8,1,2020-06-03 02:09:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+da477b1125f91ce9b9434a33a4485a4c2d0511bc,"Support explicit batch size TensorRT model (#170)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",17,3,2020-06-03 07:39:26+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+26600b0bc4dede8782df8fdc1fb283f64ffc8142,"Support both implicit and explicit batch size TensorRT model (#175)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",3,2,2020-06-03 07:39:27+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9e0165518d0559bcdf353b279b53188fd30e2ef9,"Check model signature (#176)
+
+Fixes #136.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",17,3,2020-06-04 01:13:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+724ad712985c2e086ad0bac590de80e8e0b4c2f9,"Operate model (#177)
+
+
+
+Co-authored-by: wangzhenyu32 <54923351+wangzhenyu32@users.noreply.github.com>",56,35,2020-06-05 03:06:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+0382054d1d8f458a2f805da5745e4e14082a2919,"Support build serving as a library (#179)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",27,4,2020-06-08 01:27:54+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+b737fc8927f1a46b62dc649d934d8f294e72f020,"Support activate model by name and version dynamically (#180)
+
+Closes #142
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",30,18,2020-06-09 01:41:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+0b31b33a9630265228f48052636929cb12aea53b,"Add markdownlint check (#182)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,4,2020-06-10 06:57:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4d502ccdab30422afc91c261d6be6721757d1854,"Add serving demo (#184)
+
+Fixes #147.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,9,2020-06-13 05:44:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+9fcdbf36c42b48b08c7a2143fe5695fc90be9515,"Testing adlik performance (#102)
+
+Closes #79
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,46,2020-06-13 08:55:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+8d7e925e2e26dd07710b99abcab33462c264f20d,"Support query model status (#181)
+
+Colses #143 
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",7,15,2020-06-13 08:55:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+5dfee9518eded9acc178758e609a8c6a6ecffc9f,"Modify README.md (#185)
+
+Closes #152
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",105,16,2020-06-13 08:55:13+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9797ea27a0cca89ab20815e7087da261c19acafd,"Fix the bug of README.md (#188)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",7,4,2020-06-15 05:59:23+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+0183669c7a58b73cbd21b365bcabd8538fc1d87a,"Fix the bug of benchmark (#187)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",8,1,2020-06-15 09:14:39+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+2d733635938474dc3bdc845105e0d5f67a8b6147,"Upgrade CUDA to 10.2 (#166)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",71,6,2020-06-17 10:00:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+9296b9369ccb29239e4e9baaaa72606f68dbf470,"Fix the bug of padding input formats (#191)
+
+Closes #169.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,1,2020-06-17 10:00:44+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+549536a65f60f6b5d432df3bb525f7ef59596eeb,"Fix the bug of benchmark of test cpu runtime (#192)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",11,6,2020-06-17 10:00:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+eca36b23a7635cd25b22d5c49a40ef633b700c69,"Add release notes for r0.1.0 (#190)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>",0,1,2020-06-17 14:19:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+f7dd85ee251fd98e6a0f2f2dfeda415d9f18e4ed,"Fix Keras coverage (#199)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",48,4,2020-06-22 09:19:34+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+94ff1e2d4c5fd2029ec1d5b365ab5cf6be1aae4d,"Fix signature log (#198)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-06-22 12:08:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+4e6b9d704e6b80c7b26d86bd88c869fda28b7601,"Update Buildifier version to 3.2.1 (#200)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",48,8,2020-06-23 06:17:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+89a85b14805d0b6f7f3cd6ba0c885749f615a271,"Upgrade OpenVINO to version 2020.3.194 (#201)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",42,13,2020-06-23 11:25:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+282d25d897f1f037e7d48d0ce8447c321505b8eb,"Upgrade buildifier to 3.3.0 (#202)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",2,2,2020-06-29 22:58:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+0ba6924307074b1cbbeee650ad49cfd3427599ee,"Monitor the server's status (#189)
+
+Closes #140 
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",1,10,2020-07-02 01:50:36+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+a25a790130b703950afd52c16c3af5f9ee451dc8,"Remove `keras` dependency (#206)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",325,9,2020-07-06 23:27:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+791bdaf4b24006b4a6891fe2534db03c59183b4f,"Support compile the model trained by tensorflow.keras API (#204)
+
+Closes #203",13,1,2020-07-07 03:19:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+09c6f826c0cd39d9f4daa890133ebc80cb8afff8,"Refactor (#208)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",13,2,2020-07-07 22:53:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+d602679c1a5742a2ede03999a7fc6182fe3ccb0f,"Refactor the function "" ModelOperateImpl::activateModel"" (#207)
+
+Closes #183
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",18,2,2020-07-08 06:29:06+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+3dc2c233b1646e6571980b7fbfd9e4d91c877bc8,"Remove unnecessary explicit graph mode (#210)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",13,6,2020-07-08 09:29:39+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7fe68ab4730471763a13d153620a49e3561216ac,"Add the tf model file in model_compiler (#205)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",8,9,2020-07-10 01:48:23+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+426ee9ace8865ce4cabe0d6dc419c6cae5d08d9d,"Fix log error frequently when there is no config.pbtxt in some dirs (#212)
+
+Fix log error frequently when there is no config.pbtxt in some dirs
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",6,1,2020-07-10 05:03:06+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+8623d0d82911c6c2f1999fdb356bd7d8c221a947,"Fix the bug of benchmark test in gpu (#215)
+
+Closes #214
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,1,2020-07-10 08:43:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9033ba7165d45b576492900822e67853958cf8f3,"Modify adlik introduction (#218)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>
+
+Close #178
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",3,5,2020-07-11 03:01:35+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+ec8b72f6d1e083abd7bfe1c470589508e43c54d8,"Add pronounce of Adlik (#216)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>
+
+Close #38
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",1,1,2020-07-13 08:47:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+6b8bf7b258c17483395a5605152cb5043ae53c3e,"Fix the bug of compiler get variables by env (#213)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: kellyZhang <50606395+KellyZhang2020@users.noreply.github.com>",35,11,2020-07-13 11:56:38+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+35fd7141b64224301048e4657442a505979ae00d,"Format codes (#223)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",25,4,2020-07-14 12:33:32+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+a26c8b31becb3164f9bdd6164219ac4b7ad12d77,"Refactor building TensorRT model (#222)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",64,7,2020-07-15 06:50:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+cc697f3df606f2353917d021824fc195035209e1,"Refactor ONNX to TensorRT compiler (#225)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",23,1,2020-07-16 07:51:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+02847414f46d6e48962133a014252d33872cc242,"Support FP16 mode when building TensorRT engines (#227)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",7,2,2020-07-17 10:58:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4d185fb039dd85387aea5aac2eba4930db8d949f,"Load TensorRT modules lazily (#228)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",23,5,2020-07-20 01:59:55+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+8a1b3d304b7b7eed79e922a1665119f5a3572282,"Fix the bug of benchmark test big model (#221)
+
+Closes #217
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",9,6,2020-07-21 04:01:13+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+89a2cb46d6879d78de4e1bfa31efab10533399f2,"Fix compile tflite runtime failure with gcc 5.4 (#229)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,1,2020-07-21 04:01:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+f57619a11471f236f5857212d0c406a835658d18,"Add tflite compiler to new compiler (#224)
+
+Closes #196
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",5,6,2020-07-21 23:21:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4976ef3940f963bb9a09653967f942991ceb82ae,"Add frozen graph file to new model compiler (#220)
+
+Closes #194
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",20,9,2020-07-23 03:12:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+0b1885fe5c895cd659187300c8094754cddc4bfa,"Increase model compiler coverage limit (#241)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",2,2,2020-07-28 10:27:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9c357c8c55c40d72cf21c859e193999ee81889a0,"Update to TensorFlow 2.3.0 and CUDA 11 (#238)
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",113,23,2020-07-28 13:50:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+06b2e241145680dbeab74230006d7b4b5a21b6eb,"Modify benchmark README.md (#219)
+
+Closes #209.
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",8,1,2020-07-29 02:15:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7ea1929470194ef247143d13684cb3427af16f95,"Instantiate Onnx model from onnx file (#230)
+
+Closes #195
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",18,8,2020-07-29 05:44:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+ce1497107802982830fcd1cbc390b2b8879b4608,"Fix the bug of compile .h5 model to tflite model (#243)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",9,3,2020-07-30 03:21:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+e22494cc77eb7e01fac4830fe6897e967f1e40a7,"Format codes (#247)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",15,9,2020-07-31 09:13:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+84b5fcdecf1c777396bf875b155e7a983c115455,"Support half precision optimization for TensorFlow lite (#249)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",20,5,2020-08-04 07:40:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+5dc2237da1364997446fa3f56fabe2903a6d8ea5,"Fix the bug of tflite can not start service (#250)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",2,2,2020-08-05 03:03:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+02bf098787b7d411f69c7b6a83c97c3a62b5a3e4,"Support pb model file to openvino (#236)
+
+Close: #235 
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",4,13,2020-08-07 02:13:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+e5c2fbcead569e94d5df437a39eaa6074a72a09a,"Update README.md (#251)
+
+Signed-off-by: hanxuewei <hanxuewei@zte.com.cn>",64,1,2020-08-08 08:30:06+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+fbf7d08f4e537b29c0410c7f872021eb2bf6f487,"Test tflite runtime (#252)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",12,6,2020-08-09 03:11:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+88fb5f0da28a5894731ea48ddaee319bab2a57cb,"Make sure length of input formats matches length of inputs (#254)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",12,2,2020-08-11 03:05:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+bea614038f85ab1040763367ecd70fab02f94b8b,"Specify supported Python version (#255)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-08-11 06:30:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+2a1424bdc3712e835a6808718dd870ee290a00d7,"Remove the inaccessible url of tensorflow (#259)
+
+Closes #253.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,1,2020-08-11 09:58:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9b8e21dcb205130fdc5b5edb42b344593bc3b157,"Fix keras example compile model failure (#260)
+
+Closes #258.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",15,2,2020-08-12 01:07:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+ada03804b474983be57f027095c1e844093a2f00,Add the test result of the InceptionV3 model and update README.md (#244),1,1,2020-08-13 06:13:57+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+62c250c34cdb37109ac24ad80c177cd198ff75f3,"Benchmark test support cuda 10.2 (#263)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",77,12,2020-08-20 02:54:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+66a39ebf7a7e4db31582107c66600ff837a6c912,"Update the README.md of Adlik (#270)
+
+Closes #268.
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",4,1,2020-08-21 01:45:03+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+dc80fe1cbde3b7015ffed8665d5e52b004abf2ff,"Fix the bug of pylint warning: raise-missing-from (#271)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",6,2,2020-08-24 07:04:37+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+bc43ce77365d5e0725a4dc82a814d013026e27f0,"Update OpenVINO dependency (#272)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",25,5,2020-08-24 10:34:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+0f5ea70986a4f31639aace9e4b7daa563edba528,"Expose API for calling from programs (#273)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",16,8,2020-08-26 06:40:23+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+57cef18c58830dfaebc899e8e2cb2bb284711b58,"Refactor new compiler API (#275)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",9,9,2020-08-27 02:31:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+846044fa52f6ef0dbf815f3e66bd79bf19305fd9,"Refactor Provider classes (#274)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",88,7,2020-08-27 06:06:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+f24cd42a6973dbfe0a5526dded65a1e7cbf87202,"Expose more configuration options to support 8-bit quantization (#282)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",9,3,2020-08-28 08:32:02+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+e8cd044c48bee405914d9c9dae42528775eb632e,"Apply some optimizations to model compiler (#283)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,2,2020-09-03 06:43:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+132aa7803744b9e625247988b88baad9ff32ad1b,"Fix the bug of tensorrt: can not infer the model which batch size is not 1 (#285)
+
+Closes #284
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",4,3,2020-09-04 03:13:06+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+21f0b39fc0df7f13d8701cb3c665b2e88cfe35b7,"Support onnx model to openvino (#261)
+
+Closes #262 
+
+Signed-off-by: 王振宇10243192 <wang.zhenyu32@zte.com.cn>",200,9,2020-09-04 12:36:07+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+42139d0f64eb3e6122d22534a0e2a355632e90d2,"Avoid using GPU when compiling TensorFlow models (#288)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",7,4,2020-09-07 00:57:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+95a0697c4693a98d1dca3179541e6a0c57b57ba8,"Support h5 to openvino (#289)
+
+Closes #266",65,10,2020-09-08 15:47:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+da1732ffdb9c7815df83f74aa343226173a547c5,"Reorder imports (#291)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",2,1,2020-09-09 02:41:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+381d07f75b7376fecf8d2dcb73332d7352119832,"Expose 8-bit quantization for TensorRT runtime (#290)
+
+Closes #240.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",4,6,2020-09-09 05:46:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+e3eff1383d65002479a64b4a151c001235e30a5d,"Assign the grpc.max_receive_message_length when creating the gRPC stub (#293)
+
+Closes #292.
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",2,1,2020-09-10 09:09:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+fcf542bad8bf7e1e2fb0fe5e292fbf1389450dc4,"Bump TensorRT version (#294)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",17,4,2020-09-16 01:41:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+a4c955a32369bda691b1502c58ed5c929dabd75e,"Fix the bug of return message error of tensorrt runtime (#297)
+
+Closes #287
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,1,2020-09-16 07:25:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+7d4182c4930ffa82f41a4c7df7751b355682d806,"Modify the test result (#298)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",7,2,2020-09-23 00:48:07+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+768af17f9619c07d76dfdb8aecc1419329ee44c2,"Disable macOS CI for now (#314)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",8,4,2020-09-28 00:22:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+f68911f8989db1af597a068f55bccd9371b3a571,"Fix some typos (#310)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",3,1,2020-09-28 13:43:23+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9346ba2bfb509deee9ccd71ebac2dba82c2d9ba6,"Bump tensorflow from 2.3.0 to 2.3.1 in /model_compiler (#301)
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.3.0 to 2.3.1.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/tensorflow/tensorflow/releases"">tensorflow's releases</a>.</em></p>
+<blockquote>
+<h2>TensorFlow 2.3.1</h2>
+<h1>Release 2.3.1</h1>
+<h2>Bug Fixes and Other Changes</h2>
+<ul>
+<li>Fixes an undefined behavior causing a segfault in <code>tf.raw_ops.Switch</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15190"">CVE-2020-15190</a>)</li>
+<li>Fixes three vulnerabilities in conversion to DLPack format (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15191"">CVE-2020-15191</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15192"">CVE-2020-15192</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15193"">CVE-2020-15193</a>)</li>
+<li>Fixes two vulnerabilities in <code>SparseFillEmptyRowsGrad</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15194"">CVE-2020-15194</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15195"">CVE-2020-15195</a>)</li>
+<li>Fixes several vulnerabilities in <code>RaggedCountSparseOutput</code> and <code>SparseCountSparseOutput</code> operations (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15196"">CVE-2020-15196</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15197"">CVE-2020-15197</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15198"">CVE-2020-15198</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15199"">CVE-2020-15199</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15200"">CVE-2020-15200</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15201"">CVE-2020-15201</a>)</li>
+<li>Fixes an integer truncation vulnerability in code using the work sharder API (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15202"">CVE-2020-15202</a>)</li>
+<li>Fixes a format string vulnerability in <code>tf.strings.as_string</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15203"">CVE-2020-15203</a>)</li>
+<li>Fixes segfault raised by calling session-only ops in eager mode (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15204"">CVE-2020-15204</a>)</li>
+<li>Fixes data leak and potential ASLR violation from <code>tf.raw_ops.StringNGrams</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15205"">CVE-2020-15205</a>)</li>
+<li>Fixes segfaults caused by incomplete <code>SavedModel</code> validation (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15206"">CVE-2020-15206</a>)</li>
+<li>Fixes a data corruption due to a bug in negative indexing support in TFLite (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15207"">CVE-2020-15207</a>)</li>
+<li>Fixes a data corruption due to dimension mismatch in TFLite (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15208"">CVE-2020-15208</a>)</li>
+<li>Fixes several vulnerabilities in TFLite saved model format (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15209"">CVE-2020-15209</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15210"">CVE-2020-15210</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15211"">CVE-2020-15211</a>)</li>
+<li>Fixes several vulnerabilities in TFLite implementation of segment sum (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15212"">CVE-2020-15212</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15213"">CVE-2020-15213</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15214"">CVE-2020-15214</a>)</li>
+<li>Updates <code>sqlite3</code> to <code>3.33.00</code> to handle <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15358"">CVE-2020-15358</a>.</li>
+<li>Fixes deprecated usage of <code>collections</code> API</li>
+<li>Removes <code>scipy</code> dependency from <code>setup.py</code> since TensorFlow does not need it to install the pip package</li>
+</ul>
+</blockquote>
+</details>
+<details>
+<summary>Changelog</summary>
+<p><em>Sourced from <a href=""https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md"">tensorflow's changelog</a>.</em></p>
+<blockquote>
+<h1>Release 2.3.1</h1>
+<h2>Bug Fixes and Other Changes</h2>
+<ul>
+<li>Fixes an undefined behavior causing a segfault in <code>tf.raw_ops.Switch</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15190"">CVE-2020-15190</a>)</li>
+<li>Fixes three vulnerabilities in conversion to DLPack format
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15191"">CVE-2020-15191</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15192"">CVE-2020-15192</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15193"">CVE-2020-15193</a>)</li>
+<li>Fixes two vulnerabilities in <code>SparseFillEmptyRowsGrad</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15194"">CVE-2020-15194</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15195"">CVE-2020-15195</a>)</li>
+<li>Fixes several vulnerabilities in <code>RaggedCountSparseOutput</code> and
+<code>SparseCountSparseOutput</code> operations
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15196"">CVE-2020-15196</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15197"">CVE-2020-15197</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15198"">CVE-2020-15198</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15199"">CVE-2020-15199</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15200"">CVE-2020-15200</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15201"">CVE-2020-15201</a>)</li>
+<li>Fixes an integer truncation vulnerability in code using the work sharder API
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15202"">CVE-2020-15202</a>)</li>
+<li>Fixes a format string vulnerability in <code>tf.strings.as_string</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15203"">CVE-2020-15203</a>)</li>
+<li>Fixes segfault raised by calling session-only ops in eager mode
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15204"">CVE-2020-15204</a>)</li>
+<li>Fixes data leak and potential ASLR violation from <code>tf.raw_ops.StringNGrams</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15205"">CVE-2020-15205</a>)</li>
+<li>Fixes segfaults caused by incomplete <code>SavedModel</code> validation
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15206"">CVE-2020-15206</a>)</li>
+<li>Fixes a data corruption due to a bug in negative indexing support in TFLite
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15207"">CVE-2020-15207</a>)</li>
+<li>Fixes a data corruption due to dimension mismatch in TFLite
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15208"">CVE-2020-15208</a>)</li>
+<li>Fixes several vulnerabilities in TFLite saved model format
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15209"">CVE-2020-15209</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15210"">CVE-2020-15210</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15211"">CVE-2020-15211</a>)</li>
+<li>Fixes several vulnerabilities in TFLite implementation of segment sum
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15212"">CVE-2020-15212</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15213"">CVE-2020-15213</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15214"">CVE-2020-15214</a>)</li>
+<li>Updates <code>sqlite3</code> to <code>3.33.00</code> to handle
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15358"">CVE-2020-15358</a>.</li>
+<li>Fixes deprecated usage of <code>collections</code> API</li>
+<li>Removes <code>scipy</code> dependency from <code>setup.py</code> since TensorFlow does not need it
+to install the pip package</li>
+</ul>
+<h1>Release 2.2.1</h1>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/fcc4b966f1265f466e82617020af93670141b009""><code>fcc4b96</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43446"">#43446</a> from tensorflow-jenkins/version-numbers-2.3.1-16251</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/4cf223069a94c78b208e6c829d5f938a0fae7d07""><code>4cf2230</code></a> Update version numbers to 2.3.1</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/eee82247288e52e9b8a5c2badeb65f871b4da4c4""><code>eee8224</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43441"">#43441</a> from tensorflow-jenkins/relnotes-2.3.1-24672</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/0d41b1dfc97500e1177cb718a0b14b04914df661""><code>0d41b1d</code></a> Update RELEASE.md</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/d99bd631ea9b67ffc39c22b35fbf7deca77ad1f7""><code>d99bd63</code></a> Insert release notes place-fill</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/d71d3ce2520587b752e5d27b2d4a4ba8720e4bd5""><code>d71d3ce</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43414"">#43414</a> from tensorflow/mihaimaruseac-patch-1-1</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/9c91596d4d24bc07b6d36ae48581a2e7b2584edf""><code>9c91596</code></a> Fix missing import</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/f9f12f61867159120ce6eb08fdbd225d454232b5""><code>f9f12f6</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43391"">#43391</a> from tensorflow/mihaimaruseac-patch-4</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/3ed271b0b05b4f1dfd5660944c54b5fe8cc3d8dc""><code>3ed271b</code></a> Solve leftover from merge conflict</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/9cf3773b717dfd46b37be2ba8cad4f038a8ff6f7""><code>9cf3773</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43358"">#43358</a> from tensorflow/mm-patch-r2.3</li>
+<li>Additional commits viewable in <a href=""https://github.com/tensorflow/tensorflow/compare/v2.3.0...v2.3.1"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=tensorflow&package-manager=pip&previous-version=2.3.0&new-version=2.3.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/configuring-github-dependabot-security-updates)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/Adlik/Adlik/network/alerts).
+
+</details>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",1,1,2020-09-28 16:27:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+ffbd006e78f71058b66174c334cfb4ecd46d977e,"Bump tensorflow from 2.3.0 to 2.3.1 in /benchmark (#302)
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.3.0 to 2.3.1.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/tensorflow/tensorflow/releases"">tensorflow's releases</a>.</em></p>
+<blockquote>
+<h2>TensorFlow 2.3.1</h2>
+<h1>Release 2.3.1</h1>
+<h2>Bug Fixes and Other Changes</h2>
+<ul>
+<li>Fixes an undefined behavior causing a segfault in <code>tf.raw_ops.Switch</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15190"">CVE-2020-15190</a>)</li>
+<li>Fixes three vulnerabilities in conversion to DLPack format (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15191"">CVE-2020-15191</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15192"">CVE-2020-15192</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15193"">CVE-2020-15193</a>)</li>
+<li>Fixes two vulnerabilities in <code>SparseFillEmptyRowsGrad</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15194"">CVE-2020-15194</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15195"">CVE-2020-15195</a>)</li>
+<li>Fixes several vulnerabilities in <code>RaggedCountSparseOutput</code> and <code>SparseCountSparseOutput</code> operations (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15196"">CVE-2020-15196</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15197"">CVE-2020-15197</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15198"">CVE-2020-15198</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15199"">CVE-2020-15199</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15200"">CVE-2020-15200</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15201"">CVE-2020-15201</a>)</li>
+<li>Fixes an integer truncation vulnerability in code using the work sharder API (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15202"">CVE-2020-15202</a>)</li>
+<li>Fixes a format string vulnerability in <code>tf.strings.as_string</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15203"">CVE-2020-15203</a>)</li>
+<li>Fixes segfault raised by calling session-only ops in eager mode (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15204"">CVE-2020-15204</a>)</li>
+<li>Fixes data leak and potential ASLR violation from <code>tf.raw_ops.StringNGrams</code> (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15205"">CVE-2020-15205</a>)</li>
+<li>Fixes segfaults caused by incomplete <code>SavedModel</code> validation (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15206"">CVE-2020-15206</a>)</li>
+<li>Fixes a data corruption due to a bug in negative indexing support in TFLite (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15207"">CVE-2020-15207</a>)</li>
+<li>Fixes a data corruption due to dimension mismatch in TFLite (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15208"">CVE-2020-15208</a>)</li>
+<li>Fixes several vulnerabilities in TFLite saved model format (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15209"">CVE-2020-15209</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15210"">CVE-2020-15210</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15211"">CVE-2020-15211</a>)</li>
+<li>Fixes several vulnerabilities in TFLite implementation of segment sum (<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15212"">CVE-2020-15212</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15213"">CVE-2020-15213</a>, <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15214"">CVE-2020-15214</a>)</li>
+<li>Updates <code>sqlite3</code> to <code>3.33.00</code> to handle <a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15358"">CVE-2020-15358</a>.</li>
+<li>Fixes deprecated usage of <code>collections</code> API</li>
+<li>Removes <code>scipy</code> dependency from <code>setup.py</code> since TensorFlow does not need it to install the pip package</li>
+</ul>
+</blockquote>
+</details>
+<details>
+<summary>Changelog</summary>
+<p><em>Sourced from <a href=""https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md"">tensorflow's changelog</a>.</em></p>
+<blockquote>
+<h1>Release 2.3.1</h1>
+<h2>Bug Fixes and Other Changes</h2>
+<ul>
+<li>Fixes an undefined behavior causing a segfault in <code>tf.raw_ops.Switch</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15190"">CVE-2020-15190</a>)</li>
+<li>Fixes three vulnerabilities in conversion to DLPack format
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15191"">CVE-2020-15191</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15192"">CVE-2020-15192</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15193"">CVE-2020-15193</a>)</li>
+<li>Fixes two vulnerabilities in <code>SparseFillEmptyRowsGrad</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15194"">CVE-2020-15194</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15195"">CVE-2020-15195</a>)</li>
+<li>Fixes several vulnerabilities in <code>RaggedCountSparseOutput</code> and
+<code>SparseCountSparseOutput</code> operations
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15196"">CVE-2020-15196</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15197"">CVE-2020-15197</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15198"">CVE-2020-15198</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15199"">CVE-2020-15199</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15200"">CVE-2020-15200</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15201"">CVE-2020-15201</a>)</li>
+<li>Fixes an integer truncation vulnerability in code using the work sharder API
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15202"">CVE-2020-15202</a>)</li>
+<li>Fixes a format string vulnerability in <code>tf.strings.as_string</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15203"">CVE-2020-15203</a>)</li>
+<li>Fixes segfault raised by calling session-only ops in eager mode
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15204"">CVE-2020-15204</a>)</li>
+<li>Fixes data leak and potential ASLR violation from <code>tf.raw_ops.StringNGrams</code>
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15205"">CVE-2020-15205</a>)</li>
+<li>Fixes segfaults caused by incomplete <code>SavedModel</code> validation
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15206"">CVE-2020-15206</a>)</li>
+<li>Fixes a data corruption due to a bug in negative indexing support in TFLite
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15207"">CVE-2020-15207</a>)</li>
+<li>Fixes a data corruption due to dimension mismatch in TFLite
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15208"">CVE-2020-15208</a>)</li>
+<li>Fixes several vulnerabilities in TFLite saved model format
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15209"">CVE-2020-15209</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15210"">CVE-2020-15210</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15211"">CVE-2020-15211</a>)</li>
+<li>Fixes several vulnerabilities in TFLite implementation of segment sum
+(<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15212"">CVE-2020-15212</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15213"">CVE-2020-15213</a>,
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15214"">CVE-2020-15214</a>)</li>
+<li>Updates <code>sqlite3</code> to <code>3.33.00</code> to handle
+<a href=""https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15358"">CVE-2020-15358</a>.</li>
+<li>Fixes deprecated usage of <code>collections</code> API</li>
+<li>Removes <code>scipy</code> dependency from <code>setup.py</code> since TensorFlow does not need it
+to install the pip package</li>
+</ul>
+<h1>Release 2.2.1</h1>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/fcc4b966f1265f466e82617020af93670141b009""><code>fcc4b96</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43446"">#43446</a> from tensorflow-jenkins/version-numbers-2.3.1-16251</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/4cf223069a94c78b208e6c829d5f938a0fae7d07""><code>4cf2230</code></a> Update version numbers to 2.3.1</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/eee82247288e52e9b8a5c2badeb65f871b4da4c4""><code>eee8224</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43441"">#43441</a> from tensorflow-jenkins/relnotes-2.3.1-24672</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/0d41b1dfc97500e1177cb718a0b14b04914df661""><code>0d41b1d</code></a> Update RELEASE.md</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/d99bd631ea9b67ffc39c22b35fbf7deca77ad1f7""><code>d99bd63</code></a> Insert release notes place-fill</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/d71d3ce2520587b752e5d27b2d4a4ba8720e4bd5""><code>d71d3ce</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43414"">#43414</a> from tensorflow/mihaimaruseac-patch-1-1</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/9c91596d4d24bc07b6d36ae48581a2e7b2584edf""><code>9c91596</code></a> Fix missing import</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/f9f12f61867159120ce6eb08fdbd225d454232b5""><code>f9f12f6</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43391"">#43391</a> from tensorflow/mihaimaruseac-patch-4</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/3ed271b0b05b4f1dfd5660944c54b5fe8cc3d8dc""><code>3ed271b</code></a> Solve leftover from merge conflict</li>
+<li><a href=""https://github.com/tensorflow/tensorflow/commit/9cf3773b717dfd46b37be2ba8cad4f038a8ff6f7""><code>9cf3773</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/tensorflow/tensorflow/issues/43358"">#43358</a> from tensorflow/mm-patch-r2.3</li>
+<li>Additional commits viewable in <a href=""https://github.com/tensorflow/tensorflow/compare/v2.3.0...v2.3.1"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=tensorflow&package-manager=pip&previous-version=2.3.0&new-version=2.3.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/configuring-github-dependabot-security-updates)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/Adlik/Adlik/network/alerts).
+
+</details>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",1,1,2020-09-28 16:27:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+ae5aa20fcfd417839a43f53d51617e387a0eae42,"Remove some useless function (#305)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",16,3,2020-09-28 16:27:54+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9f3758406f46c056a6041fa2eb593c495af9117a,"Update contributors (#308)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",1,1,2020-09-28 16:27:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+9ec1d3a96d6ff69a7bd85c946b41ec3a85779e0e,"Fix more document format (#309)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",3,1,2020-09-28 16:27:58+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+3971f5921d575006450639f4aac3b81cd1243554,"Fix more typos (#311)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",9,1,2020-09-28 16:28:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+8adc1f64990acf323d6b01d11633d93dceec3fd7,"Fix even more typos (#312)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",2,1,2020-09-28 16:28:02+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+6ce388f2dba891372c36cfce664ec210dbd6a215,"Fix really more typos (#313)
+
+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",5,3,2020-09-28 16:28:04+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+85a7da0ac8a6526e109a7b8f4cc7994ac98e50f5,"Update roadmap in near future (#303)
+
+
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",10,1,2020-09-29 01:00:55+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+08bdc6ae4dc29930c67e359ed42d7dd8fbccf5f3,"Add the benchmark test result of yolov3 (#300)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,4,2020-09-29 04:41:48+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+34e436aa61100ee3898db51db224433e8c4db3c1,"Refactor predict provider classes (#304)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",5,4,2020-09-29 04:41:49+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+d85cfacd6599eb59641e4f9095acebd93d517933,"Refactor openvino BUILD files (#306)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",20,2,2020-09-29 04:41:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+27294f0b2247c09ced2d3269d2626ad58fa35ddd,"Fix the bug of compile .h5 model to openvino model (#307)
+
+Closes #299
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",2,1,2020-09-29 04:41:53+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+48d10e399717eac5154b7e412c0b0cbc3c723c03,"Refactor the openvino util (#315)
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",18,2,2020-09-30 02:26:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+922745174392b0a70b7ddc9e91fdd22325a1006b,"Revert ""Disable macOS CI for now (#314)"" (#318)
+
+This reverts commit 768af17f9619c07d76dfdb8aecc1419329ee44c2.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",8,4,2020-10-12 02:32:18+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+89d43f1b2874ebb7321667b76a9fb79ca770ab32,"Add Dockerfiles for model compiler and OpenVINO runtime (#296)
+
+Closes #279 and closes #281.
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",0,4,2020-10-12 06:13:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+e79c81f269f8d6e07df8b95ca6124fa4c6782e23,"Fix model_comiler2 ci failure bug (#323)
+
+Closes #322
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",1,1,2020-10-15 13:32:13+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9684a31568ffc2c648cece712b40fdd4e742d1aa,"Add AArch64 CPU compilation configuration (#320)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",420,5,2020-10-15 22:57:01+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+fe89f1e342314b4fd86c91e1ce639de537e27a94,"Fix the bug of adlik serving (#319)
+
+Closes #269.
+
+Signed-off-by: hanxuewei <hanxuewei@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",1,1,2020-10-16 06:08:02+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+f3dbcd458c5e44decb179b8ad671cc7f2f1a9c99,Model compiler supplement (#321),3,12,2020-10-22 01:33:04+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+e0b028e629fa7a1852dec957cdcc019192e414be,"Add the test of bert model using TensorFlow Lite runtime (#316)
+
+Closes #231
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,2,2020-10-22 04:42:01+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+b07540e4cad83e9f7a7c6d1f1683016830b8d39f,"Refactor some codes (#326)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",8,4,2020-10-22 12:20:44+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+3c8c29ba80fe2dfc480cea7eb42b73cccbbf6709,"Fix the bug of compile model with different batch size of input and output (#317)
+
+
+Closes #286
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",2,5,2020-10-22 15:44:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+3859b18764227637ff0ad67a6c579076180acead,"Clean .bazelrc file (#328)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",7,1,2020-10-26 09:03:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+f6baca391f152aa3e89096553a13dc9534f86aa5,"Format README.md (#330)
+
+bors r+
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",8,3,2020-10-27 02:10:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+d7d422146f2e803f8b4e896b5a7fbf28c01e26f7,"Fix a new typo (#339)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-10-27 08:30:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+21727be61bce7e11f791bfe0cc056b2b780d7f65,"Fix some typos (#331)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,1,2020-10-27 12:08:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+217cc8c1e980a80592676ebd887ef29f49128901,"Remove some wrong comments (#332)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",13,2,2020-10-27 12:08:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+38f245c06efd01e8fd9f24943a3ca674ba1c8cd3,"Use correct case for framework names (#333)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",6,2,2020-10-27 12:08:54+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+cefac3ed21b8a4b662d3dea391ff0576313ca8e9,"Fix return value with wrong type (#335)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,1,2020-10-27 12:08:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+7ae8b6c461275580f338fb97222866bb7a8fa510,"Fix another typo (#336)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",8,3,2020-10-27 12:08:58+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+14eec2e8c490e6d48c2e005e3b5f2bc8fd41ac83,"Remove unused comments (#337)
+
+bors r+
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",13,1,2020-10-27 12:08:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+3a175b5b13dbfc93ec6ef48bc60fad1dc6aa94ed,"Add comments for openvino config (#338)
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",0,1,2020-10-28 04:43:04+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+435eddd5a70d835f5f920135993400965db18c09,"Modify the openvinoutil test (#334)
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",3,1,2020-10-28 08:09:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9439b765cd677aebbf8644d9faf15678e10608d4,"Upgrade OpenVINO to version 2021.1.110 (#342)
+
+Closes #329.
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",49,17,2020-11-06 02:10:39+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+6c40a99f517fe199d40021d3c119502702b6accc,"Add the tensorflow cpu serving dockerfile (#325)
+
+Closes #276
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,2,2020-11-06 06:15:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+2c39677aa8aed65a9572a8a9bce05e92931a4fff,"Upgrade tf2onnx package (#349)
+
+Closes #324
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",15,2,2020-11-10 02:27:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+b884ffbda68b16f050fb02f7158e6106366f244e,"Fix the bug of model_compiler_2 (#346)
+
+Closes #344, #345.
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",4,3,2020-11-12 06:23:54+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+384a32c077d72ce1fb1768f4451ad817f466c22f,"Add the TFLite cpu serving dockerfile (#340)
+
+Closes #278.
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",1,2,2020-11-12 09:59:09+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+1e1f474974afb510a4e79d9e16690154b2929e5a,"Add the test result of InceptionV3 model (#350)
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",1,9,2020-11-12 09:59:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+919be5d37f4b462c84723a50e5d417181dab7ca5,"Add the TensorRT serving dockerfile (#343)
+
+Closes #280
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: kellyZhang <50606395+KellyZhang2020@users.noreply.github.com>",0,3,2020-11-16 00:55:34+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+a3f941069f406b3b7f7be0b3f2e1b5f44dbf9404,"Add the tensorflow gpu serving dockerfile (#347)
+
+Closes #277.
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",1,2,2020-11-16 08:47:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9ad982e7f0282cd19027858f80f458b71f168b05,"Modify the README.md of adlik_serving (#356)
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",4,1,2020-11-17 19:19:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7e10a94308235fa7fe7d8ff597aab9900054fdb5,"Fix the bug of the resnet50 pb model in the benchmark (#357)
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",1,1,2020-11-17 19:19:58+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+651f004e78f0ab74c6ded26c0aa01b23cdee5446,"Delete Origin Model Compiler (#358)
+
+Delete Origin Model Compiler",1769,29,2020-11-17 19:19:58+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+4b41085395778247f592c3db0dfca787ef777780,"Update README.md (#351)
+
+Add test result of InceptionV3 and ResNet-50 model on Raspberry Pi 3B+",0,1,2020-11-18 02:01:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+f9be5719dec8905ee39f971062966153fbdc99ed,"Rename Model Compiler And Fix Some Links (#362)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",15,111,2020-11-19 03:20:48+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+410478d609643256fd4ac10cb39e0e13f284c227,"Add the resnet50 model description of benchmark test (#360)
+
+Closes #384
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2020-11-19 06:36:36+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+59f2869c89aaf9041be556cacf6c1c03811f99fd,"Add the description of quantify the model (#363)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,3,2020-11-20 01:17:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9aaa1406605892b1ac5c1442c09f5fca69a342af,"Modify the model compiler for test in cloud environment (#327)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",27,13,2020-11-20 06:53:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+d935296a7707a58d077f2892a37f5e2eb4a2d0b9,"Add cloud native image instructions (#352)
+
+Signed-off-by: hanxuewei <han.xuewei@zte.com.cn>",0,5,2020-11-20 10:25:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+66db01acab95dd3642d90f746ea386bd56f04e61,"Update readme (#366)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",0,1,2020-11-20 17:46:39+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+85df7b6f0df60070f24490aedfbe3902baa50f7c,Release notes 0.2 (#364),0,1,2020-11-20 22:53:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7c58defd8e25756583e698ef5e30cd83cc8f0110,"Update jetson nano result (#367)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>",0,1,2020-11-24 00:54:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+88cce58e6e39f99ffdd097d8ad2e9c290c650c5a,"Modify the tensorrt shell of script (#369)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",12,1,2020-12-01 09:44:07+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+1d289eabce1777b4a4107166d5df3a3714ba2099,"Refactor thread class (#373)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",11,3,2020-12-09 01:48:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+a3b8eb3f2b99f682959f562121baa478da6188ae,"Fix some codes which violate rule of zero, five or six (#372)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",0,2,2020-12-10 02:04:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+00992ecc654e3397bad72cc1e5145810b5dd2912,"Join string literals (#376)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-12-10 05:01:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+55c077e670d24e8257074d4efaa38e241d923b78,"Simplify erasing multimap elements (#377)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",4,1,2020-12-10 08:36:39+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+ee3255f8c30ef04e4596e6ef01f1b55711072b92,"Using `emplace` instead of `insert` (#378)
+
+Signed-off-by: Zhao Lufan <zhao.lufan30@zte.com.cn>
+
+Co-authored-by: Zhao Lufan <zhao.lufan30@zte.com.cn>",1,1,2020-12-10 08:36:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+56c232249816598fd9208b6aaa08feeda31964a0,Update roadmap (#374),2,1,2020-12-10 12:12:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+58c4f0be8516518734a3620cebcb566df8a0fec4,"Fix some classes which violate rule of zero, five or six (#375)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",0,4,2020-12-10 15:42:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+ec89dd007084a36431a2659efc0e54aac56f60c3,"Fix CI Python Version To 3.8 (#379)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",26,20,2020-12-11 01:13:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+55b3868be2b8cb07d5e8b8c700ce641e45db2158,"Fix CI Image To Ubuntu 18.04 (#380)
+
+Fix CI Image To Ubuntu 18.04
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",17,17,2020-12-15 05:21:30+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+df9745d28271bf175098bc17b23a11d95a709668,"Fix TF Version To 2.3.1 Now (#384)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",2,1,2020-12-15 05:21:32+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+fa2cd4160115d69734350cc44926dc686d582f91,"Add contributor (#381)
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",0,1,2020-12-15 08:46:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+565c0b074ae8afb7e72a4df76a48cd023c3d01b6,"Make the query function be const (#383)
+
+closes #382",2,2,2020-12-17 07:41:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+e3c1a746df3a000f984038bc79b925d6811128c4,"Modify the code format (#385)
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",1,1,2020-12-17 07:41:16+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+2469ccadb6c06b66f5f866bca08a2ceab245f4ff,"Modify the code format (#386)
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",3,3,2020-12-17 07:41:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+a179412185dc988c70370a0525e85a7266f39d9a,"Fix Bug: Error When Resolve Env Params (#390)
+
+Close #389 
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",35,2,2020-12-21 02:26:20+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9bd86afe5b090718e3efe4a598dfacd8f0493d53,"Rename contributors.md to committers.md (#394)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>",0,1,2020-12-22 07:15:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+68a1b039d6a2eb0530954bff450e60a4598db6e9,Update README.md (#392),0,1,2020-12-22 10:16:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+89c31f875d0644aed3196ec0c023c0ebfeb37a9b,"Add owners.md (#393)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>",0,1,2020-12-22 10:16:07+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+517a4a499d1e8fe1545b57ae093a2f79ac0f6bdb,"Support grpc domain for the sdk (#403)
+
+Closes #402
+
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",3,1,2021-01-21 06:19:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+3c72a75ab4d74a40e157fc64071b083d85367012,"The new OPSET vervion does not support some ops (#399)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,1,2021-01-21 16:13:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+6919547f5e8c046617b5abbf3a812a0efa46359e,"Modify the dockerfile of GPU (#400)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,2,2021-01-21 16:13:30+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+be9a2214c0fe34fef054bfe833ae171817bc340c,"Upgrade TensorFlow To 2.4.0 (#371)
+
+Closes #355.
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",80,25,2021-01-22 00:03:55+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+83119bfaf1cf643910b988ef7e049344e7ac58b8,"Preserve 'Identity' output nodes. (#404)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",2,1,2021-01-28 19:56:29+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+0743e6236f11b12e18f1b415ee4e35d41df884b7,"Add governance.md (#406)
+
+Signed-off-by: amadeus-zte <liu.tao23@zte.com.cn>",0,1,2021-02-08 07:27:01+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+2ab8adcd632149756d10c802f4c49e0e19325a0d,"Disable Build TF GPU CI Temporarily (#412)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",2,2,2021-02-23 08:52:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4adcc6db13e68cbde6119100ddcc14b29406119a,"Support the openvino async (#410)
+
+Closes #370 
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",40,1,2021-02-23 11:14:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+24ff21c5a2ea8bec04c621f0a15fd11a8fce4ddd,"Opt CI Process (#414)
+
+Close #405 
+
+Opt CI process as follows:
+Stage 1: Common Checks
+Stage 2: Is master or changed files has `.cc` or `.h`
+Stage 3: Build TF serving if stage 2 is true
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",20,6,2021-03-02 07:09:01+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+69320864ec58ec09a10b62e0594ffe631f3e7335,"Build TF Runtime Directly (#419)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",11,2,2021-03-04 08:29:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+b8c2f030b5c85ea3695c4c2336018fe18e4eb2da,"Make dlib support cross compile (#418)
+
+Closes #354.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",2,2,2021-03-06 02:01:57+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+11512470e9f3a3f293d86e84ffaddbfa91f8ecf2,"Rewrite tutorials (#420)
+
+Closes #361
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",62,1,2021-03-18 02:49:09+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+1547dc867b769f1595b4b2151fc6021faa29a3b7,"Add adlik images instructions (#416)
+
+Closes #415
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2021-03-18 03:28:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+19f7b14c0de719acd9e47f99a290f5422f173aa7,"Model compiler add h5 to tflite path (#411)
+
+Closes #407
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",252,8,2021-03-20 03:19:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+f84669311c396c9748ff7f1835be2122373c17ab,"Fix the bug of compile saved model file to tflite model (#425)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",11,3,2021-03-29 10:59:58+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+18b2e45e687c5ecee7049057d1fde438940e27b6,"Move Tutorials Ahead (#424)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",6,1,2021-03-29 11:25:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+03161d6ce6b0de043ba933e097cef522a017afa0,"Fix the bug of compile onnx model to openvino: both input_shape and batch were provided (#431)
+
+
+Closes #430
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",71,4,2021-03-31 02:58:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+7204c417700ccdfcc77dd9eaa12e0fa237d51248,"Fix the bug of compile savedmodel file to openvino (#427)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",2,3,2021-03-31 10:09:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+cdacfe32a38742ef3159b56e3ac9146ee010d3e3,Update Readme Build TF Serving GPU Part (#433),1,1,2021-04-01 10:49:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+56bebd3f47a81449576dca835c64a90013997d1e,"Upgrade the cuda version of tensorflow gpu docker file to 11.0 (#434)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",19,2,2021-04-01 11:13:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+92b5f7364aa9901fdee723be3325d290de924634,"Add cpp client demo (#429)
+
+Closes #428",0,2,2021-04-02 06:37:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+c759b477fde72f7419030900f17a8104f4f76802,"Adlik support PaddlePaddle model (#426)
+
+Closes #398
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",40,11,2021-04-02 06:58:20+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+1328b3f74f3d604834bc98b7cd984ddd40a36e84,"Model compiler add saved model file to saved model (#436)
+
+Closes #435
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",153,9,2021-04-16 02:58:24+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9deb11112b98194ab7718f55d8c43755f6431f81,"Compile onnx model to tf model (#248)
+
+Closes #246
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",6,4,2021-04-21 06:03:01+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+cf9a8bba0b0d76ef7d4df216c7cdcb92b759c6f2,"Modify the introduction about cloud native (#443)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",18,1,2021-04-30 02:29:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7add57d7da3b53d24b5a1b8ee88a8affe6dd1875,"Add PaddlePaddle model deployment example (#444)
+
+Signed-off-by: jiangjiajun <jiangjiajun@baidu.com>
+
+- 1. add sample code show how to run ResNet50 by Adlik
+- 2. Simple usage document
+
+Co-authored-by: jiangjiajun <jiangjiajun@baidu.com>",0,7,2021-04-30 09:55:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4ab2a469b980ff8e08c7cbe0deb92791820d9c4d,"Fix the tox bug of benchmark (#446)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2021-05-10 09:01:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+cca4829b13115244ca71e6c32d0b9a148d3ab57b,"Refactor the compiler code (#440)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",30,3,2021-05-10 09:28:49+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+353e217845ec187de827c41870986882c71464e5,"Target models support onnx model (#448)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,2,2021-05-11 12:25:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+b857395d56f3a7c894da6a120628bed4de479cd6,"Fix the bug of compile saved model file to saved model (#438)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: kellyZhang <50606395+KellyZhang2020@users.noreply.github.com>
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",1,1,2021-05-12 08:57:37+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9380b737e776f758ba18d788a47e2da4f3f93f58,"Sources model support mxnet model (#449)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",1,3,2021-05-12 09:46:26+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+09519e080a876793bf3f04de1077ffd56c0638ad,"Modify the script of build tensorrt serving docker images (#445)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",142,2,2021-05-14 06:00:30+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+fe2c3ae813d454a0c934ddc748a049bc88623d56,"Compiler support compile onnx model to onnx model file (#450)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",6,4,2021-05-15 09:06:32+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+83478a2a00b8b96217c145aa46de43a544f6ce68,"Model compiler support caffe model (#451)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",0,2,2021-05-15 09:18:57+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7ba76f0d86a7b5af094844bebaed516e8f301675,"Model compiler add caffe to onnx (#456)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",2,6,2021-05-25 08:02:38+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+dfe0a69f7b34814d400f1fc094308cd0f59d486a,"Model compiler add mxnet to onnx (#447)
+
+Closes #408
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",5,3,2021-05-31 11:39:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+bbf77f5f2a5deab3be107b65c13059b70587e6cb,"Rewrite tutorials (#460)
+
+Signed-off-by:zhangxu <zhangxu25@zte.com.cn>",2,1,2021-06-01 08:03:29+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+fb3ef15e4b7679853534b9bdab0b1af58991a409,"Compiler support paddle to onnx (#457)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,5,2021-06-01 09:10:08+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+afbbc3526f775e7500a90c2303141748441e732e,Model compiler add torch to onnx (#455),4,7,2021-06-03 08:59:43+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+e7bf465988682b91c8ed719f512bf3891669ea93,Openvino quantization support fp16 (#462),0,9,2021-06-07 06:31:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+45cd527ae6245b402d11b96cd2de0d6ce3f6c29f,"Fix CI For Mypy >= 0.9 (#468)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",0,1,2021-06-10 01:10:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+e07b83c0486df8b6775bd9bff44e18cb8acd64e2,"Fix the bug of compile saved model file to saved model (#467)
+
+Closes #466
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",36,4,2021-06-10 02:59:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+3423ba4a6e65d3727151285e7e943db96b737cea,"Format compiler code (#469)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>
+
+Co-authored-by: amadeus-zte <54922692+amadeus-zte@users.noreply.github.com>",81,12,2021-06-10 08:21:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+fb930f32e54ddb2c86e087a3f33d12073feffc01,"Add TF-TRT runtime (#465)
+
+Closes #233.
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>
+
+Co-authored-by: Xuewei Han <48786922+XueweiHan21@users.noreply.github.com>",5,12,2021-06-15 02:25:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+3f0986a5155a01afedd7a23d5c6b58c49edaf648,"Support tvm runtime (#475)
+
+Closes #397.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",1,9,2021-06-20 02:07:09+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+6dff1670f262d415cd502ddac018608141c24379,"Compiler support keras model to tvm (#476)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",117,16,2021-06-20 04:06:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+f382cf73e5c903196198b461479dd15e817d2e2f,"Fix the bug of compile caffe model (#479)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",9,4,2021-06-23 09:55:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+732fc63ebff9e8a347450be332957ba75a559fc3,"Fix Mypy Elegantly (#471)
+
+Close #470",2,1,2021-06-23 10:23:30+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+5583439ce63d371b14e86f3203eb685d873ea484,"Modify readme (#485)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",5,1,2021-06-30 02:23:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+18cade116865ec4715a0d7da51a3e3eb0849ccef,"Modify Readme (#488)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",6,1,2021-07-03 09:02:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9ba353a46710a8a0cad0f9f829f7db5910af75a9,"Compiler supports normal use when the user does not install tvm (#484)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",9,1,2021-07-06 03:55:31+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+34360300cf6a122eccda031d2d42b8c9657ad01c,"Fix Tvm Import (#493)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",4,4,2021-07-12 06:02:54+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+218eb4d07b78bcc54e6859b48dcfb2d57e1955b9,"Fix the bug of signature of saved model (#494)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",2,2,2021-07-16 03:23:19+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+01b8e7ff9523972f4e0431b30a9d66b00eb95c93,"Update readme to v0.3 (#495)
+
+Closes #480.
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>",194,11,2021-07-16 06:28:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+d04395aa6d231da9f5ea522ec6ffd6a8b505a668,"Add the benchmark of faster-rcnn model (#496)
+
+Closes #432, #481.
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>",0,1,2021-07-29 06:12:40+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+de18b26b0652a8215eaf025d1b9b5d0c0f7006fc,"Fix the bug of compile model to tensorrt (#492)
+
+Closes #491
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",46,10,2021-07-29 09:55:18+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+6ce00c6171b9a8a54c45c3d4e8d3404f8efb2462,Customized autotvm supported (#503),7,7,2021-08-04 02:35:41+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+50f732f974ac58189bae301eb110f5fe84cb0496,"Fix the broken link in the example (#505)
+
+Closes #504.
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>",1,1,2021-08-05 06:06:27+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+2a56b6157cd6304fabadd6d3b4fe9eaeb7311917,"Update adlik installation tutorials (#506)
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>",8,3,2021-08-19 07:14:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+dac19ca1befa018ee9a481b0602a93251ee0fae2,"Fix bug of compile mxnet model (#513)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",5,2,2021-09-08 01:04:13+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+adf46b01ff6798a134b3a62256463106d1d2df2a,"Fix some bugs in model_compiler (#514)
+
+Closes #511.
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>
+
+Co-authored-by: shiyingjin <syjin_2005@163.com>",5,2,2021-09-09 00:59:48+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+f1dc5c881ee273232734eda49d15735b195d6ce1,"Add CI For Building Tvm Serving Runtime (#515)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",0,3,2021-09-13 03:11:38+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+70ed4c905a6da66e1e361d00e9c6e9afd171d6ce,"Add openvino iGPU Support (#518)
+
+Add OpenVINO iGPU Support
+Also pump OpenVINO version to 2021.4.582 because OpenVINO need this version to support iGPU.
+Only serving tested with both CPU and GPU.
+
+To use GPU with OpenVINO, build new image and add lines below to model repo's **`config.pbtxt`** and pass GPU device inside docker image with parameter **`--device /dev/dri:/dev/dri`**
+```
+instance_group {
+  name: ""any instance name""
+  kind: KIND_GPU
+  count: 1
+}
+```",9,9,2021-09-23 03:31:34+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+665f55f3d281e2fc0ef1d06da319d5e5ddff4069,"Add cpp client demo (#510)
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>",3,16,2021-09-27 02:29:29+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+4baf38dd6bb01ec739af7886790a72ca4e9d3667,"Add Paddle Model File to Paddle Model in Model Compiler (#522)
+
+Add Paddle Model File to Paddle Model in Model Compiler
+
+Co-authored-by: Bo <wang.bo94@zte.com.cn>",5,9,2021-09-28 02:58:27+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+ca997097add017632e20ea8d3cf91f0d00c01845,"Add Paddle Runtime for Adlik Serving (#520)
+
+Add Paddle Runtime for Adlik Serving
+
+Co-authored-by: Bo <wang.bo94@zte.com.cn>",1,18,2021-09-28 03:32:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+69e77c5035f6e40aced0030c9347c2eb517a8b06,"Delete TVM and MXnet (#528)
+
+Signed-off-by: 刘广呈 10300819 <liu.guangcheng@zte.com.cn>",759,21,2021-10-29 06:47:35+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+5da3b926f6758b406a3a0dd13f1414867373b369,"Support openvino pot (#529)
+
+ Closes #502",120,29,2021-11-08 09:20:10+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+6e1d94a3b50f531f0b41d1d3c994121796b32437,Disable MacOS CI (#535),29,4,2021-11-09 06:58:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+fb31f6fb2150e551c582ce4279cf53f9e938a214,"Delete Other Mxnet Key Words (#537)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",2,2,2021-11-09 09:08:18+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+12821f92c54b5fcea532be41edb13d80ad27519b,Update TF To 2.6.0 (#521),57,17,2021-11-15 12:03:42+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+7a4535b7bb05aa4bc9aa5c8c6bde76ccd416ab08,"Bump tensorflow from 2.6.0 to 2.6.2 (#541)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",10,4,2021-11-16 08:45:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+271f36b230a3a01b2cdfca5c5713bd83ddb9ea6c,"Add compile path TfModelFile -> OnnxModel(#512) (#536)
+
+Signed-off-by: 靳伟昭 10307459 <jin.weizhao@zte.com.cn>",2,5,2021-11-23 09:21:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+e19f38166d14117b1ed55524f51c4b0c7da4e5a6,"Add Intel TigerLake-U benchmark (#544)
+
+Closes #542 
+Signed-off-by: wangzhenyu32 <wang.zhenyu32@zte.com.cn>",0,1,2021-11-29 05:56:44+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+a2c46524e8c864319378f48a62389115df78c94a,"Fix Trt CI (#546)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",1,1,2021-12-07 01:12:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+18971d973bc7de53b2a7df95c6497bde9c112b55,"Move Paddle Build CI To Stage Two (#547)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",21,7,2021-12-07 08:10:05+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+dba058c23ce76ff893d6c485e4ce7f097defaae3,"Support tensorrt int8 quantization (#548)
+
+Closes #533.
+
+Signed-off-by: HanXuewei <han.xuewei@zte.com.cn>",123,9,2021-12-23 13:29:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+4e71d0d58eebbab4eb4c7cca798d1f79323fb14d,"Fix Apple Deps In Bazel (#558)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",18,2,2022-02-15 07:04:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+34f02c460dea7866b303a31433454dd3f37888a6,"Fix Openvino Runtime (#554)
+
+Close #551.",1,1,2022-02-17 10:52:30+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+d2ef7d8239bfffddca3de691c4cb253fb2afb367,"Fix Grpc ActivateModel (#553)
+
+Close #550.",1,1,2022-02-17 11:21:28+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+05165f902af3cb8121068032659223a4531a023f,Fix Source Model Type Bug (#555),4,3,2022-02-17 11:21:29+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+03e6a083739497e75a40024dabde5a0844161292,Pylint Back to Model Compiler (#564),5,4,2022-03-28 10:48:54+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+c0c68001c02228d88cd8e2535bba15f08fc280cd,"Fix Tensorflow GPU Serving (#561)
+
+Signed-off-by: XueShe <liu.guangcheng@zte.com.cn>
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",9,4,2022-03-29 07:15:25+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+8bbae3623e622af9aa39804d53ba0a6797a23542,Compiler support oneflow to onnx (#567),5,9,2022-04-15 03:39:06+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+2795adc2a9a90bb8c17bd0dd0598561f2ab50273,"Update docker images version to 0.4.0 (#566)
+
+Signed-off-by: nengyinyibeiwu <ding.kelei@zte.com.cn>",86,8,2022-04-24 03:06:52+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+38bcd8d8e1a31d0957903dfe42403a795714abf5,"Fix Trt Key Outdate (#572)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",1,1,2022-05-11 00:50:56+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+cac4b601ec8b06a3e382b19b3fed7f28ef0a80d9,"Fix segmentation fault when loading more than 16 models in manual mode (#571)
+
+Closes #569.
+
+Signed-off-by: jinshiying <jin.shiying@zte.com.cn>",60,3,2022-05-11 06:09:36+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+9bdd7c6bf5ca4392939dc0c71ac1ea6a0838d1a7,"Support libtorch runtime (#579)
+
+Signed-off-by: 聂瑾 10307260 <nie.jin@zte.com.cn>
+
+add libtorch runtime",5,22,2022-06-13 06:17:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9a4378cffcd4b8073fd8fbcd062786228fb13c34,"Upgrade OpenVINO to version 2022.1.0 (#582)
+
+Closes #562",260,15,2022-06-20 12:15:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+ecfdef2f4f5fa4a1340f246d0b926513fc9e32d3,"Record Release Notes (#583)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",0,3,2022-06-21 07:37:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+89d17d9cda1332d6c3dd58e4de165272533709df,"Downgrade onnx version to 1.11.0 (#593)
+
+Signed-off-by: zhangkaili <zhang.kaili@zte.com.cn>",0,1,2022-07-28 02:54:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+9a9445e6eab76b4c7df5907d16f4492764f0e3d7,"Fix the tensorrt and model_compiler bugs for Adlik-0.4.0 (#591)
+
+Closes #580.",28,5,2022-08-01 01:15:37+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+09fe905778820bf1523ed49b8b4b4b6729f7ed95,"Upgrade openvino of compiler to version 2022.1.0 (#592)
+
+Closes #584.
+
+Signed-off-by: 王佳越 10335419 <wang.jiayue@zte.com.cn>
+
+Co-authored-by: kellyZhang <zhang.kaili@zte.com.cn>",1592,18,2022-08-09 02:19:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+842ce1ca698744550f3e6dda9270b447e73e1400,"Update url of compiler images in README.md (#595)
+
+Update README
+
+Co-authored-by: kellyZhang <zhang.kaili@zte.com.cn>",5,3,2022-08-15 06:06:58+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+c37634ae1d0ea13a82555620df43aa9444fb855b,"Fix onnx model type (#597)
+
+Signed-off-by: 靳伟昭 10307459 <jin.weizhao@zte.com.cn>",2,1,2022-08-17 07:03:27+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+29c20801ba160923018045ed6da18d1a4fc79cee,"Add paddle inference demo (#601)
+
+Signed-off-by: Zhang Xiaoyang <zhang.xiaoyang3@zte.com.cn>",2,9,2022-08-18 07:45:29+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9e83aa3b661025361f5ad9316a3f5b999598cb54,"Modify the dockerfile of tftrt-gpu and tf-gpu (#604)
+
+Signed-off-by: Shi mei <shi.mei1@zte.com.cn>
+
+Co-authored-by: Shi mei <shi.mei1@zte.com.cn>",18,3,2022-08-25 02:51:14+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+f67eba803b6856da7c387187b29a2ede47b4f0c2,"Update the url of serving-tensorrt image in README (#606)
+
+Signed-off-by: che.hui <che.hui@zte.com.cn>",1,1,2022-08-25 09:19:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+73a8ccd8f4d50af4cd8a3dbf84e9ee0309149b98,"Use case for deep recommendation model (#605)
+
+Signed-off-by: 王佳越 10335419 <wang.jiayue@zte.com.cn>",0,5,2022-08-25 09:41:24+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+7b76db466f7ff91e2266409ecbbec7bb0d01b302,"Fix libtorch memcpy bug (#607)
+
+Signed-off-by: 聂瑾 10307260 <nie.jin@zte.com.cn>
+
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",12,1,2022-08-26 05:58:13+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+c86978b064f125781a00632f619c3f92bac240b7,Change the dockerfile of the libtorch-cpu (#611),13,6,2022-09-23 06:57:37+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+acadf8f6b37704f25ebbfbb7f02d3ab3f28aa554,"Upgrade ubuntu to 20.04 python to 3.8 tensorflow to 2.10.0 cuda to 11.6 tensorrt to 8.4.3.1 (#608)
+
+Signed-off-by: 王佳越 10335419 <wang.jiayue@zte.com.cn>",165,45,2022-10-10 06:57:17+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+1b04fe200c7cf01138b04ee536d92524e9f63738,"Bump protobuf from 3.19.1 to 3.19.5 in /model_compiler (#614)
+
+Bumps [protobuf](https://github.com/protocolbuffers/protobuf) from 3.19.1 to 3.19.5.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/protocolbuffers/protobuf/releases"">protobuf's releases</a>.</em></p>
+<blockquote>
+<h2>Protocol Buffers v3.19.5</h2>
+<h1>C++</h1>
+<ul>
+<li>Reduce memory consumption of MessageSet parsing</li>
+<li>This release addresses a <a href=""https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-8gq9-2x98-w8hf"">Security Advisory for C++ and Python users</a></li>
+</ul>
+<h2>Protocol Buffers v3.19.4</h2>
+<h1>Python</h1>
+<ul>
+<li>Make libprotobuf symbols local on OSX to fix issue <a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/9395"">#9395</a> (<a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/9435"">#9435</a>)</li>
+</ul>
+<h1>Ruby</h1>
+<ul>
+<li>Fixed a data loss bug that could occur when the number of <code>optional</code> fields in a message is an exact multiple of 32. (<a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/9440"">#9440</a>).</li>
+</ul>
+<h1>PHP</h1>
+<ul>
+<li>Fixed a data loss bug that could occur when the number of <code>optional</code> fields in a message is an exact multiple of 32. (<a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/9440"">#9440</a>).</li>
+</ul>
+<h2>Protocol Buffers v3.19.3</h2>
+<h1>Python</h1>
+<ul>
+<li>Fix missing Windows wheel for Python 3.10 on PyPI</li>
+</ul>
+<h2>Protocol Buffers v3.19.2</h2>
+<h1>Java</h1>
+<ul>
+<li>Improve performance characteristics of UnknownFieldSet parsing (<a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/9371"">#9371</a>)</li>
+<li>This release addresses a <a href=""https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-wrvw-hg22-4m67"">Security Advisory for Java users</a></li>
+</ul>
+</blockquote>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/b464cfbee18c71c40e761a5273ad369f3547294b""><code>b464cfb</code></a> Updating changelog</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/40859fb1c03bfbffe10cdb8009d08ff7e8d8a2f2""><code>40859fb</code></a> Updating version.json and repo version numbers to: 19.5</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/3b175f173903c934f5ba0d1726b430ddbce7ea56""><code>3b175f1</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/10543"">#10543</a> from deannagarcia/3.19.x</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/c05b5f3755af2f6a05c37cb0930373ac3e37463f""><code>c05b5f3</code></a> Add missing includes</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/0299c03005fbfe086d8394fb7a873a8a21fe327f""><code>0299c03</code></a> Apply patch</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/0a722f1573e629f8c3adc8fd4d298522b667548c""><code>0a722f1</code></a> Update version.json with &quot;lts&quot;: true (<a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/10533"">#10533</a>)</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/d5eb60a56081930c706198e459480ab3204e435c""><code>d5eb60a</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/10530"">#10530</a> from protocolbuffers/deannagarcia-patch-6</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/6cf1f78c27c15ae66fb7714798c82de24d4aa2a8""><code>6cf1f78</code></a> Update version.json</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/97fc8447c7b2441bff9b5be02d0964bfe4926302""><code>97fc844</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/protocolbuffers/protobuf/issues/10504"">#10504</a> from deannagarcia/3.19.x</li>
+<li><a href=""https://github.com/protocolbuffers/protobuf/commit/29d60a2fa478d3c222a615c39cbf29918f194877""><code>29d60a2</code></a> Add version file</li>
+<li>Additional commits viewable in <a href=""https://github.com/protocolbuffers/protobuf/compare/v3.19.1...v3.19.5"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=protobuf&package-manager=pip&previous-version=3.19.1&new-version=3.19.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/Adlik/Adlik/network/alerts).
+
+</details>",1,1,2022-10-11 08:35:46+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+f70fe750f5cec9cf721f4d57413dc582c8960c97,"Update TF Version In Benchmark To Fix Security Problems (#617)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",2,1,2022-10-12 00:21:35+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+1def72b3be039b8b308c6b35d46682c640374c23,"Clean Code For Install TensorRT (#616)
+
+Signed-off-by: NaNAGISaSA <cwangzju@126.com>",40,2,2022-10-12 01:54:11+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+264ec8f36beeeda325a67bc286908635af0a63cd,"Only use tflite_ops, when tensorflow>=2.7.0 and the batch size of model is -1 (#612)
+
+Signed-off-by: 靳伟昭 10307459 <jin.weizhao@zte.com.cn>
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",1,5,2022-10-13 01:19:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+e0de330cdf6e17741464a3f26cb22a522e25c45a,"Fix the bug that openvino does not match the ubuntu-20.04 (#618)
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",1,1,2022-10-13 09:09:24+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+72eb114c3588067ac7e2a25036bc74a4b01d1abf,Compiler support onnx to enflame (#620),2,9,2022-10-26 06:39:36+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+2afd77756bfd4560689272508118bd08ec88827f,Upgrade the dockerfiles of tensorflow-gpu (#621),43,5,2022-11-01 08:39:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+33d94d77c048909c1593f10f292cb4838e4d9ebe,"Add openvino_model (#615)
+
+Signed-off-by: 苏博阳10336539 <su.boyang@zte.com.cn>
+
+Co-authored-by: shiyingjin <jin.shiying@zte.com.cn>",2,5,2022-11-02 02:31:59+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+1398faaa9fcb601d592e4a6ac35556687a4900bb,"Freeze python requirements (#630)
+
+Signed-off-by: Zhang Xiaoyang <zhang.xiaoyang3@zte.com.cn>",27,3,2022-11-30 06:29:33+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+d746183959664a2050614d3a59cf7a786d65530e,"Add yolov5_client script (#637)
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",0,4,2022-12-08 02:14:53+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+f66748954f2cfffb33067850bf6ed9ea9f1ae5eb,"Add compiler script of torch model to torchscript model (#639)
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",11,12,2022-12-15 02:53:53+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+703d6f07e093497dcdef50ffba47c9b4475a65e1,"Support enflame_runtime (#622)
+
+Closes #590.
+
+Signed-off-by: Shi mei <shi.mei1@zte.com.cn>",1,11,2022-12-16 08:05:32+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+5f7f33f8bfcc9cf812ed7a7730de91840c8d4810,"Upgrade openvino of compiler to 2022.3 and tensorflow to 2.10.1 (#640)
+
+Close #586.
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",6,4,2022-12-19 06:06:00+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Enhancement']
+47bbce773f157852222fc12d34f98e1f49ba949a,"Fix the problem of openvino model input and output (#641)
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",124,8,2022-12-27 02:44:50+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+6a6da841ede96f1b7f77b99b8fb61e5a0b637c32,"Bump paddle version to 2.4.0 (#645)
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",463,6,2023-01-16 09:07:21+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+1e269d7c7819b47a58b862ed8c1f8c30a029d578,Fix package name case (#644),1,1,2023-01-17 08:12:12+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+fffe89a1b533a8a548c7a41347e847ba06c600cd,"Bump torch version to 1.13.1 (#651)
+
+Signed-off-by: Wang Yiming <wang.yiming6@zte.com.cn>",262,20,2023-01-31 03:14:15+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Other']
+5d6afd3112c6541cf71d74cd2926f7022ca8311e,"Bump future from 0.18.2 to 0.18.3 in /model_compiler (#646)
+
+Bumps [future](https://github.com/PythonCharmers/python-future) from 0.18.2 to 0.18.3.
+<details>
+<summary>Release notes</summary>
+<p><em>Sourced from <a href=""https://github.com/PythonCharmers/python-future/releases"">future's releases</a>.</em></p>
+<blockquote>
+<h2>v0.18.3</h2>
+<p>This is a minor bug-fix release containing a number of fixes:</p>
+<ul>
+<li>Backport fix for bpo-38804 (c91d70b)</li>
+<li>Fix bug in fix_print.py fixer (dffc579)</li>
+<li>Fix bug in fix_raise.py fixer (3401099)</li>
+<li>Fix newint bool in py3 (fe645ba)</li>
+<li>Fix bug in super() with metaclasses (6e27aac)</li>
+<li>docs: fix simple typo, reqest -&gt; request (974eb1f)</li>
+<li>Correct <strong>eq</strong> (c780bf5)</li>
+<li>Pass if lint fails (2abe00d)</li>
+<li>Update docker image and parcel out to constant variable.  Add comment to update version constant (45cf382)</li>
+<li>fix order (f96a219)</li>
+<li>Add flake8 to image (046ff18)</li>
+<li>Make lint.sh executable (58cc984)</li>
+<li>Add docker push to optimize CI (01e8440)</li>
+<li>Build System (42b3025)</li>
+<li>Add docs build status badge to README.md (3f40bd7)</li>
+<li>Use same docs requirements in tox (18ecc5a)</li>
+<li>Add docs/requirements.txt (5f9893f)</li>
+<li>Add PY37_PLUS, PY38_PLUS, and PY39_PLUS (bee0247)</li>
+<li>fix 2.6 test, better comment (ddedcb9)</li>
+<li>fix 2.6 test (3f1ff7e)</li>
+<li>remove nan test (4dbded1)</li>
+<li>include list test values (e3f1a12)</li>
+<li>fix other python2 test issues (c051026)</li>
+<li>fix missing subTest (f006cad)</li>
+<li>import from old imp library on older python versions (fc84fa8)</li>
+<li>replace fstrings with format for python 3.4,3.5 (4a687ea)</li>
+<li>minor style/spelling fixes (8302d8c)</li>
+<li>improve cmp function, add unittest (0d95a40)</li>
+<li>Pin typing==3.7.4.1 for Python 3.3 compatiblity (1a48f1b)</li>
+<li>Fix various py26 unit test failures (9ca5a14)</li>
+<li>Add initial contributing guide with docs build instruction (e55f915)</li>
+<li>Add docs building to tox.ini (3ee9e7f)</li>
+<li>Support NumPy's specialized int types in builtins.round (b4b54f0)</li>
+<li>Added r&quot;&quot;&quot; to the docstring to avoid warnings in python3 (5f94572)</li>
+<li>Add <strong>subclasscheck</strong> for past.types.basestring (c9bc0ff)</li>
+<li>Correct example in README (681e78c)</li>
+<li>Add simple documentation (6c6e3ae)</li>
+<li>Add pre-commit hooks (a9c6a37)</li>
+<li>Handling of <strong>next</strong> and next by future.utils.get_next was reversed (52b0ff9)</li>
+<li>Add a test for our fix (461d77e)</li>
+<li>Compare headers to correct definition of str (3eaa8fd)</li>
+<li><a href=""https://github-redirect.dependabot.com/PythonCharmers/python-future/issues/322"">#322</a> Add support for negative ndigits in round; additionally, fixing a bug so that it handles passing in Decimal properly (a4911b9)</li>
+<li>Add tkFileDialog to future.movers.tkinter (f6a6549)</li>
+<li>Sort before comparing dicts in TestChainMap (6126997)</li>
+<li>Fix typo (4dfa099)</li>
+<li>Fix formatting in &quot;What's new&quot; (1663dfa)</li>
+<li>Fix typo (4236061)</li>
+</ul>
+<!-- raw HTML omitted -->
+</blockquote>
+<p>... (truncated)</p>
+</details>
+<details>
+<summary>Commits</summary>
+<ul>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/af1db970b0879b59e7aeb798c27a623144561cff""><code>af1db97</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/PythonCharmers/python-future/issues/613"">#613</a> from PythonCharmers/lwan/0.18.3-release</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/079ee9b75441d36447cec9981fa1b0032862f64d""><code>079ee9b</code></a> Prepare for 0.18.3 release</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/02f7a8143d5b68f50a1cca44d8f5a58c1925a515""><code>02f7a81</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/PythonCharmers/python-future/issues/610"">#610</a> from wshanks/wshanks-patch-1</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/c91d70b34ef0402aef3e9d04364ba98509dca76f""><code>c91d70b</code></a> Backport fix for bpo-38804</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/80523f383fbba1c6de0551e19d0277e73e69573c""><code>80523f3</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/PythonCharmers/python-future/issues/569"">#569</a> from jmadler/master</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/5e5af71549c7a7fa0e28f881046e081e231e455d""><code>5e5af71</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/PythonCharmers/python-future/issues/582"">#582</a> from r3m0t/patch-6</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/17e4bbd7c676a9a8efd20601e51675c95f74b330""><code>17e4bbd</code></a> Merge pull request <a href=""https://github-redirect.dependabot.com/PythonCharmers/python-future/issues/596"">#596</a> from abjonnes/fix-print-trailing-comma</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/1b427ba70191927706282840835e31ae0733ee7e""><code>1b427ba</code></a> Merge branch 'xZise-official-count' into master</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/c8eb497336c76d300c6753b47c7f5de505660d7a""><code>c8eb497</code></a> Merge branch 'official-count' of <a href=""https://github.com/xZise/python-future"">https://github.com/xZise/python-future</a> into ...</li>
+<li><a href=""https://github.com/PythonCharmers/python-future/commit/dffc579dbb7c882fc01fa0c0dfa6b59acef7827d""><code>dffc579</code></a> Fix bug in fix_print.py fixer</li>
+<li>Additional commits viewable in <a href=""https://github.com/PythonCharmers/python-future/compare/v0.18.2...v0.18.3"">compare view</a></li>
+</ul>
+</details>
+<br />
+
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=future&package-manager=pip&previous-version=0.18.2&new-version=0.18.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+<details>
+<summary>Dependabot commands and options</summary>
+<br />
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
+- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
+- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
+- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
+
+You can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/Adlik/Adlik/network/alerts).
+
+</details>",1,1,2023-01-31 07:55:51+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]
+55cd85e035b06273b9b42c90e7472e0dc78ad020,"Fix onnx_to_tflite_compiler_path, tflite_serving does not support tf_ops (#656)",1,1,2023-02-27 11:40:22+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Bug fixing']
+c1cfc514139b84b85f879ca22478bcd89334fb2d,"Update openvino to 2022.3.0 (#654)
+
+Signed-off-by: 靳伟昭 10307459 <jin.weizhao@zte.com.cn>",378,11,2023-03-06 07:09:29+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['Refactoring']
+a94ba49fca1fdf0c949dfd9059f135c5ac1a6a1a,"Add TopsInference example (#658)
+
+
+
+Co-authored-by: shimei0203 <49520049+shimei0203@users.noreply.github.com>",0,9,2023-03-14 03:02:36+00:00,../../projects/well_engineered_projects/Adlik,Adlik,['New feature']
+9e61295845447d4452cf9589127d36be44443770,Update the README and fixup the bug of libtorch-gpu runtime (#660),83,3,2023-04-13 06:32:45+00:00,../../projects/well_engineered_projects/Adlik,Adlik,[Other]

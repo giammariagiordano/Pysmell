@@ -1,0 +1,18 @@
+Project_name,Commit_Hash,MSG,Modified_Files,Lines,Files,Deleted_Files,Inserted_Files,Author_Data,Labels
+advboxes_AdvBox,6ff19f87fac887658a20afb4c6826639af3cac12,Initial commit,['README.md'],1,1,0,1,2018-08-08 16:55:42+08:00,['Other']
+advboxes_AdvBox,4ebba1c95375e4c6aa5c989e581f43bbec5c1f77,update readme,['README.md'],113,1,1,112,2018-08-08 17:28:19+08:00,['Refactoring']
+advboxes_AdvBox,b0ed6dfc69b9c3d6980fcba186cb88f9b97b955f,增加英文版readme,['README-EN.md'],112,1,0,112,2018-08-08 17:29:41+08:00,['Other']
+advboxes_AdvBox,8f0fe1bbb437f5f2b194e35f9d0fc94489c8187d,"代码迁移
+
+百度安全实验室研发了AdvBox，它能够为研究者在PaddlePaddle平台上研究模型安全性提供极大的便利，免去重复造轮子的精力与时间消耗，可
+以高效地使用最新的生成方法构造对抗样本数据集用于对抗样本的特征统计、攻击全新的AI应用，加固业务AI模型，为模型安全性研究和应用提供重要的支持。
+之前AdvBox作为PaddlePaddle开源项目的一个模块，获得了广泛好评。这次因为项目发展的需要，特此作为独立项目开源。","['__init__.py', 'adversary.py', '__init__.py', 'base.py', 'deepfool.py', 'gradient_method.py', 'lbfgs.py', 'saliency.py', '__init__.py', 'base.py', 'paddle.py', '__init__.py', 'mnist_model.py', 'mnist_tutorial_bim.py', 'mnist_tutorial_deepfool.py', 'mnist_tutorial_fgsm.py', 'mnist_tutorial_ilcm.py', 'mnist_tutorial_jsma.py', 'mnist_tutorial_lbfgs.py', 'mnist_tutorial_mifgsm.py']",2169,20,0,2169,2018-08-08 18:04:38+08:00,['New feature']
+advboxes_AdvBox,19352fa85d91b70c5e3ae7908b4e58d14f2b8cf9,修改为中文版简介,['README.md'],254,1,101,153,2018-08-08 18:17:00+08:00,['Other']
+advboxes_AdvBox,bbd7de2477b191abf28b8027bd5074e94a2ebba6,增加对抗样本基本原理的介绍,"['README.md', '分类问题原理图1.png', '分类问题原理图2.png', '针对图像分类模型的对抗样本.png']",18,4,1,17,2018-08-08 18:25:10+08:00,['Other']
+advboxes_AdvBox,8bdfd94c406c47cbb134e72e783ad4874d75c940,增加AdvBox特点,['README.md'],10,1,0,10,2018-08-08 18:38:18+08:00,['Other']
+advboxes_AdvBox,60260355495714b4540cb394f2c4f477fb95bcec,增加Apache License 2.0许可文件,['LICENSE'],202,1,0,202,2018-08-08 21:08:21+08:00,['Other']
+advboxes_AdvBox,2055c1da9cc830d6a0ca1ba175f63955bbd3dff3,增加许可内容,"['adversary.py', 'base.py', 'deepfool.py', 'gradient_method.py', 'lbfgs.py', 'saliency.py', 'base.py', 'paddle.py', 'mnist_model.py', 'mnist_tutorial_bim.py', 'mnist_tutorial_deepfool.py', 'mnist_tutorial_fgsm.py', 'mnist_tutorial_ilcm.py', 'mnist_tutorial_jsma.py', 'mnist_tutorial_lbfgs.py', 'mnist_tutorial_mifgsm.py']",256,16,0,256,2018-08-09 11:02:11+08:00,['Other']
+advboxes_AdvBox,619838e85d8ba8ba4e43b8f562579b1bb2a26daf,增加忽略文件的配置文件,['.gitignore'],9,1,0,9,2018-08-09 12:48:47+08:00,['Other']
+advboxes_AdvBox,eb5ecf0a099e0e4d3b8a65a509dc6bffca031a7b,增加对tf和caffe的支持,['README.md'],15,1,1,14,2018-08-10 21:42:45+08:00,['Other']
+pytorch_tutorials,c6ec2824f810ff96b36cafc893a22591c05d6c16,Merge branch 'master' of https://github.com/lara-hdr/tutorials into lahaidar/ort_tutorial,[],52,8,23,29,2019-07-23 14:01:49-07:00,['Other']
+

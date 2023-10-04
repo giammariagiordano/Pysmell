@@ -2,13 +2,43 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/not_well_engineered_projects/AdvBox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/not_well_engineered_projects/AdvBox.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/not_well_engineered_projects/antialiased-cnns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/not_well_engineered_projects/antialiased-cnns.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/not_well_engineered_projects/cnn-svm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/not_well_engineered_projects/cnn-svm.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/Adlik" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/Adlik.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/aima-python.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/allennlp.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/covidify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/covidify.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/ktrain.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/neural-backed-decision-trees.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/well_engineered_projects/trains.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/AdvBox.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/Deep-Reinforcement-Learning-Hands-On.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ai-edu.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/examples.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/learnopencv.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ml-class.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/models.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ogb.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tensorflow-without-a-phd.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tensorflow-without-a-phd.git_6f3f1a93d30d16567b18794738baa45c8467554c" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/Adlik.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/Interview.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/TrainYourOwnYOLO.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/ai-chatbot-framework.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/aima-python.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/albumentations.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/beam.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/covidify.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/neural-backed-decision-trees.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/submarine.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/torchani.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysmell/projects/well_engineered_projects/trains.git" vcs="Git" />
   </component>
 </project>
