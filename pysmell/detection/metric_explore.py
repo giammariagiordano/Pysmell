@@ -12,6 +12,7 @@ import logging
 from manipulate_csv.add_labels import add_labels_df
 from manipulate_csv.get_information_from_initial_dataset import read_csv, set_logging, split_dataset, download_projects, \
     build_dataset_with_pyDriller
+from manipulate_csv.post_analysis import group_by
 
 metric_directory = 'metric'
 os.makedirs(metric_directory, exist_ok=True)
@@ -194,15 +195,16 @@ def main():
     df_y_Engineered.to_csv('../../dataset/NICHE_y_Engineered.csv', index=False)
     df_n_Engineered.to_csv('../../dataset/NICHE_n_Engineered.csv', index=False)
     download_projects(df_y_Engineered, "well_engineered_projects")
-    #download_projects(df_n_Engineered, "not_well_engineered_projects")
+    download_projects(df_n_Engineered, "not_well_engineered_projects")
     df_y_Engineered = build_dataset_with_pyDriller(True)
-    # df_n_Engineered = build_dataset_with_pyDriller(df_n_Engineered,False)
+    df_n_Engineered = build_dataset_with_pyDriller(False)
     df_y_Engineered = add_labels_df(df_y_Engineered)
-    #  df_n_Engineered = add_labels_df(df_n_Engineered)
+    df_n_Engineered = add_labels_df(df_n_Engineered)
 
     df_y_Engineered.to_csv('../../dataset/NICHE_y_Engineered_pyDriller.csv', index=False)
     df_n_Engineered.to_csv('../../dataset/NICHE_n_Engineered_pyDriller.csv', index=False)
     run_py_smell(df_y_Engineered,True)
+    group_by()
 
 
 if __name__ == "__main__":
