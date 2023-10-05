@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e295066-fb12-44a0-96c6-49412ce219b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/manipulate_csv/post_analysis.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git/beginner_source/text_sentiment_ngrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/NICHE_n_Engineered_pyDriller.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/NICHE_n_Engineered_pyDriller.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ai-edu.git" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ai-edu.git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ai-edu.git/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/ai-edu.git/.github/workflows/Deploy_website.yml" beforeDir="false" />
@@ -14385,7 +14382,6 @@
       <change beforePath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git/_static/img/sample_file.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git/intermediate_source/flask_rest_api_tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git/intermediate_source/flask_rest_api_tutorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/downloaded_projects/tutorials.git/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric_explore.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric_explore.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

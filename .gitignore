@@ -116,4 +116,5 @@ poetry.tomls
 .ruff_cache/
 pyrightconfig.json
 ../pysmell/detection/downloaded_projects/
+pysmell/detection/downloaded_projects/
 projects/
