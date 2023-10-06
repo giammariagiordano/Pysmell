@@ -1,46 +1,52 @@
 
-####################################LongParameterList####Adlik################################
+####################################LongParameterList####antialiased-cnns################################
 
-PAR:  count 4213, max 7, min 1, mean 1.591977213387135, plot-box outlier 2-7, statistic very-high 4.262794389952701, 80th percentile 2.0
-
-
-####################################LongMethod####Adlik################################
-
-MLOC:  count 4213, max 22, min 1, mean 6.646807500593401, plot-box outlier 16-22, statistic very-high 16.97809077243983, 80th percentile 8.0
+PAR:  count 8213, max 7, min 0, mean 2.0087665895531472, plot-box outlier 4-7, statistic very-high 5.21179794785782, 80th percentile 3.0
 
 
-####################################LongScopeChaining####Adlik################################
+####################################LongMethod####antialiased-cnns################################
+
+MLOC:  count 8213, max 53, min 0, mean 9.346402045537562, plot-box outlier 20-53, statistic very-high 30.78743762286625, 80th percentile 14.0
 
 
-####################################LongBaseClassList####Adlik################################
+####################################LongScopeChaining####antialiased-cnns################################
 
-NBC:  count 398, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
-
-
-####################################LargeClass####Adlik################################
-
-CLOC:  count 398, max 3, min 2, mean 2.278894472361809, plot-box outlier -1--1, statistic very-high 4.091024975547054, 80th percentile 3.0
+DOC:  count 220, max 2, min 2, mean 2.0, plot-box outlier -1--1, statistic very-high 3.0, 80th percentile 2.0
 
 
-####################################LongMessageChain####Adlik################################
+####################################LongBaseClassList####antialiased-cnns################################
 
-LMC:  count 7834, max 3, min 2, mean 2.0445494000510593, plot-box outlier 3-3, statistic very-high 3.3762924987279503, 80th percentile 2.0
-
-
-####################################ComplexLambdaExpression####Adlik################################
+NBC:  count 924, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
 
 
-####################################LongTernaryConditionalExpression####Adlik################################
+####################################LargeClass####antialiased-cnns################################
+
+CLOC:  count 1144, max 13, min 2, mean 7.143356643356643, plot-box outlier -1--1, statistic very-high 15.995383593878907, 80th percentile 13.0
 
 
-####################################ComplexContainerComprehension####Adlik################################
+####################################LongMessageChain####antialiased-cnns################################
+
+LMC:  count 10118, max 3, min 2, mean 2.057521249258747, plot-box outlier 3-3, statistic very-high 3.435535720066705, 80th percentile 2.0
 
 
-####################################MultiplyNestedContainer####Adlik################################
+####################################ComplexLambdaExpression####antialiased-cnns################################
 
-LEC:  count 3933, max 2, min 1, mean 1.0355962369692346, plot-box outlier 2-2, statistic very-high 1.8313162437362356, 80th percentile 1.0
 
-DNC:  count 464, max 2, min 2, mean 2.0, plot-box outlier -1--1, statistic very-high 3.0, 80th percentile 2.0
+####################################LongTernaryConditionalExpression####antialiased-cnns################################
 
-NCT:  count 464, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
+NOC:  count 21, max 64, min 52, mean 57.714285714285715, plot-box outlier -1--1, statistic very-high 95.5612186986013, 80th percentile 64.0
+
+NOL:  count 21, max 2, min 1, mean 1.4761904761904763, plot-box outlier -1--1, statistic very-high 2.9634348915501083, 80th percentile 2.0
+
+
+####################################ComplexContainerComprehension####antialiased-cnns################################
+
+
+####################################MultiplyNestedContainer####antialiased-cnns################################
+
+LEC:  count 5086, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
+
+DNC:  count 10, max 2, min 2, mean 2.0, plot-box outlier -1--1, statistic very-high 3.0, 80th percentile 2.0
+
+NCT:  count 10, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
 

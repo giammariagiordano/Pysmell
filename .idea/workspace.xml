@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e295066-fb12-44a0-96c6-49412ce219b1" name="Default" comment="" />
+    <list default="true" id="7e295066-fb12-44a0-96c6-49412ce219b1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/manipulate_csv/merge_outputs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manipulate_csv/post_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/manipulate_csv/post_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/ComplexContainerComprehension.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/ComplexContainerComprehension.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/ComplexLambdaExpression.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/ComplexLambdaExpression.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LargeClass.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LargeClass.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LongBaseClassList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LongBaseClassList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LongMessageChain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LongMessageChain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LongMethod.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LongMethod.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LongParameterList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LongParameterList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LongScopeChaining.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LongScopeChaining.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/LongTernaryConditionalExpression.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/LongTernaryConditionalExpression.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_smells/MultiplyNestedContainer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output_smells/MultiplyNestedContainer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LargeClass.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LargeClass.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LongBaseClassList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LongBaseClassList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LongMessageChain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LongMessageChain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LongMethod.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LongMethod.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LongParameterList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LongParameterList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LongScopeChaining.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LongScopeChaining.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/LongTernaryConditionalExpression.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/LongTernaryConditionalExpression.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/MultiplyNestedContainer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/MultiplyNestedContainer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric/metric.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric/metric.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysmell/detection/metric_explore.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysmell/detection/metric_explore.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +43,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -371,14 +396,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pysmell/detection/metric_explore.py</url>
-          <line>93</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/manipulate_csv/post_analysis.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/manipulate_csv/merge_outputs.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

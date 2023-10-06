@@ -12,7 +12,8 @@ import logging
 from manipulate_csv.add_labels import add_labels_df
 from manipulate_csv.get_information_from_initial_dataset import read_csv, set_logging, split_dataset, download_projects, \
     build_dataset_with_pyDriller
-from manipulate_csv.post_analysis import group_by
+from manipulate_csv.merge_outputs import merge_outputs
+from manipulate_csv.post_analysis import group_by, combine_csv
 
 metric_directory = 'metric'
 os.makedirs(metric_directory, exist_ok=True)
@@ -204,7 +205,10 @@ def main():
     df_y_Engineered.to_csv('../../dataset/NICHE_y_Engineered_pyDriller.csv', index=False)
     df_n_Engineered.to_csv('../../dataset/NICHE_n_Engineered_pyDriller.csv', index=False)
     run_py_smell(df_y_Engineered,True)
+    run_py_smell(df_n_Engineered,False)
     group_by()
+    combine_csv()
+    merge_outputs()
 
 
 if __name__ == "__main__":
