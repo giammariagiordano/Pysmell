@@ -23,14 +23,14 @@ smells = {'LongParameterList':[PAR],'LongMethod':[MLOC],'LongScopeChaining':[DOC
 'LongTernaryConditionalExpression':[TNOC,TNOL], 'ComplexContainerComprehension':[CNOC,NOFF,CNOO],
 'MultiplyNestedContainer':[LEC,DNC,NCT] }
 
-count_log = open(os.path.join('metric','count9.txt',mode='wb+'))
+count_log = open(os.path.join('metric','count9.txt'),mode='wb+')
 
 for smellname in smells.keys():
 	count_log.write("################################%s################################\r\n" %smellname)
 	for sub in counts.keys():
 		counts[sub] = [0,0,0]
-	reader = csv.reader(open('metric\\%s.csv' %smellname))
-	writer = csv.writer(file('metric\\a_%s.csv' %smellname,'wb'))
+	reader = csv.reader(open(os.path.join('metric,%s.csv' %smellname)))
+	writer = csv.writer(file(os.path.join('metric\\a_%s.csv' %smellname),'wb'))
 	for line in reader:
 		if reader.line_num == 1:
 			writer.writerow(line+['experience-based','statistics-based','tuning machine'])
