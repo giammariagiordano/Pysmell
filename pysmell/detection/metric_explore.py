@@ -9,17 +9,15 @@ from matplotlib import pyplot
 import pandas as pd
 import logging
 
-from manipulate_csv.add_labels import add_labels_df
 from manipulate_csv.get_information_from_initial_dataset import read_csv, set_logging, split_dataset, download_projects, \
-    build_dataset_with_pyDriller
+    process_project
 from manipulate_csv.merge_outputs import merge_outputs
 from manipulate_csv.post_analysis import group_by, combine_csv
 
-metric_directory = 'metric'
+metric_directory = os.path.join("..","..","output_smells")
+download_projects_path = os.path.join("..","..","projects")
+dataset_path = os.path.join("..","..","dataset", "NICHE.csv")
 os.makedirs(metric_directory, exist_ok=True)
-
-dataset_path = "../../dataset/filtered_no_eng_with_labels.csv"
-
 logging.basicConfig(filename='log.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
@@ -34,7 +32,7 @@ def get_list_projects(path):
 
 
 def open_csv_file(filename):
-    return csv.writer(open(os.path.join(metric_directory, filename), 'w'))
+    return csv.writer(open(os.path.join(metric_directory, filename), 'a'))
 
 
 def checkout(path, project, sha):
@@ -54,19 +52,7 @@ def checkout(path, project, sha):
         logging.error(f"Error: {str(e)}")
 
 
-# if is_engineered true, then the dataset is the one with the engineered projects
-def run_py_smell(df, is_engineered):
-    download_projects_path = "../../projects"
-    PAR, MLOC, DOC, NBC, CLOC, NOC, LPAR, NOO, TNOC, TNOL, CNOC, NOFF, CNOO, LMC, LEC, DNC, NCT = [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []
-
-    smells = {'LongParameterList': {'PAR': PAR}, 'LongMethod': {'MLOC': MLOC}, 'LongScopeChaining': {'DOC': DOC},
-              'LongBaseClassList': {'NBC': NBC}, 'LargeClass': {'CLOC': CLOC}, 'LongMessageChain': {'LMC': LMC},
-              'ComplexLambdaExpression': {'NOC': NOC, 'PAR': LPAR, 'NOO': NOO},
-              'LongTernaryConditionalExpression': {'NOC': TNOC, 'NOL': TNOL},
-              'ComplexContainerComprehension': {'NOC': CNOC, 'NOFF': NOFF, 'NOO': CNOO},
-              'MultiplyNestedContainer': {'LEC': LEC, 'DNC': DNC, 'NCT': NCT}
-              }
-
+def setup():
     LongParameter = open_csv_file('LongParameterList.csv')
     LongParameter.writerow(['subject', 'tag', 'file', 'lineno', 'PAR'])
     LongMethod = open_csv_file('LongMethod.csv')
@@ -87,10 +73,25 @@ def run_py_smell(df, is_engineered):
     LongMessageChain.writerow(['subject', 'tag', 'file', 'lineno', 'LMC'])
     MultiplyNestedContainer = open_csv_file('MultiplyNestedContainer.csv')
     MultiplyNestedContainer.writerow(['subject', 'tag', 'file', 'lineno', 'LEC', 'DNC', 'NCT'])
+    return LongParameter, LongMethod, LongScopeChaining, LongBaseClass, LargeClass, ComplexLambda, LongTernary, ContainerComprehension, LongMessageChain, MultiplyNestedContainer
+
+
+def run_py_smell(df, is_engineered, LongParameter, LongMethod, LongScopeChaining, LongBaseClass, LargeClass,
+                 ComplexLambda, LongTernary, ContainerComprehension, LongMessageChain, MultiplyNestedContainer):
+    PAR, MLOC, DOC, NBC, CLOC, NOC, LPAR, NOO, TNOC, TNOL, CNOC, NOFF, CNOO, LMC, LEC, DNC, NCT = [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []
+
+    smells = {'LongParameterList': {'PAR': PAR}, 'LongMethod': {'MLOC': MLOC}, 'LongScopeChaining': {'DOC': DOC},
+              'LongBaseClassList': {'NBC': NBC}, 'LargeClass': {'CLOC': CLOC}, 'LongMessageChain': {'LMC': LMC},
+              'ComplexLambdaExpression': {'NOC': NOC, 'PAR': LPAR, 'NOO': NOO},
+              'LongTernaryConditionalExpression': {'NOC': TNOC, 'NOL': TNOL},
+              'ComplexContainerComprehension': {'NOC': CNOC, 'NOFF': NOFF, 'NOO': CNOO},
+              'MultiplyNestedContainer': {'LEC': LEC, 'DNC': DNC, 'NCT': NCT}
+              }
+
     if is_engineered:
-        download_projects_path_complete = download_projects_path + '/well_engineered_projects/'
+        download_projects_path_complete = os.path.join(download_projects_path, 'well_engineered_projects')
     else:
-        download_projects_path_complete = download_projects_path + '/not_well_engineered_projects/'
+        download_projects_path_complete = os.path.join(download_projects_path,'not_well_engineered_projects')
 
     for row in df.iterrows():
         try:
@@ -98,7 +99,7 @@ def run_py_smell(df, is_engineered):
             sha = row[1]['hash']
             print("analyzing commit: ", sha)
             checkout(download_projects_path_complete, name, sha)
-            sourcedir = download_projects_path_complete + name
+            sourcedir = os.path.join(download_projects_path_complete,name,"")
             tag = sha
             for currentFileName in util.walkDirectory(sourcedir):
                 try:
@@ -158,19 +159,20 @@ def run_py_smell(df, is_engineered):
     metric = open(os.path.join(metric_directory, 'metric.txt'), mode='w')
     for smellname in smells.keys():
         metric.write(
-            "\n####################################" + smellname + "####" + name + "################################\n\n")
+            "\n####################################" + smellname + "####################################\n\n")
         for metricname in smells[smellname].keys():
             metricdata = smells[smellname][metricname]
             outliers = pyplot.boxplot(metricdata)['fliers'][0].get_data()[1]
             if metricdata != []:
                 print(metricname, len(metricdata), max(metricdata), min(metricdata), np.mean(metricdata),
-                        min(outliers) if len(outliers) > 0 else -1)
+                      min(outliers) if len(outliers) > 0 else -1)
                 metric.write(
-                        "%s:  count %d, max %d, min %d, mean %s, plot-box outlier %d-%d, statistic very-high %s, 80th percentile %s\n\n" \
+                    "%s:  count %d, max %d, min %d, mean %s, plot-box outlier %d-%d, statistic very-high %s, "
+                    "80th percentile %s\n\n" \
                     % (metricname, len(metricdata), max(metricdata), min(metricdata), np.mean(metricdata),
-                        min(outliers) if len(outliers) > 0 else -1,
-                        max(outliers) if len(outliers) > 0 else -1, (np.mean(metricdata) + np.std(metricdata)) * 1.5,
-                        np.percentile(metricdata, 80)))
+                       min(outliers) if len(outliers) > 0 else -1,
+                       max(outliers) if len(outliers) > 0 else -1, (np.mean(metricdata) + np.std(metricdata)) * 1.5,
+                       np.percentile(metricdata, 80)))
     metric.close()
 
     files = ['LongParameterList.csv', 'LongMethod.csv', 'LongScopeChaining.csv', 'LongBaseClassList.csv',
@@ -180,35 +182,65 @@ def run_py_smell(df, is_engineered):
 
     for file in files:
         try:
-            print('metric/' + file)
-            df = pd.read_csv("metric/" + file)
-            df = df.drop_duplicates()
-            df.to_csv("metric/" + file, index=False)
+            file_path = os.path.join("..","..","output_smells",  file)
+            metric_csv = os.path.join("..","..","metric", file)
+            df = pd.read_csv(metric_csv)
+            df.drop_duplicates(inplace=True)
+            df.to_csv(file_path + ".csv", mode="a", index=False)
         except:
-            continue
+            pass
 
 
 def main():
-    path = "../../dataset/NICHE.csv"
+    path_to_save_df_y_Engineered = os.path.join("..","..","dataset", "NICHE_y_Engineered.csv")
+    path_to_save_df_n_Engineered = os.path.join("..","..","dataset", "NICHE_n_Engineered.csv")
     set_logging()
-    df = read_csv(path)
+    LongParameter, LongMethod, LongScopeChaining, LongBaseClass, \
+    LargeClass, ComplexLambda, LongTernary, ContainerComprehension, \
+    LongMessageChain, MultiplyNestedContainer = setup()
+    df = read_csv(dataset_path)
     df_y_Engineered, df_n_Engineered = split_dataset(df)
-    df_y_Engineered.to_csv('../../dataset/NICHE_y_Engineered.csv', index=False)
-    df_n_Engineered.to_csv('../../dataset/NICHE_n_Engineered.csv', index=False)
+
+    df_y_Engineered.to_csv(path_to_save_df_y_Engineered, index=False)
+    df_n_Engineered.to_csv(path_to_save_df_n_Engineered, index=False)
     download_projects(df_y_Engineered, "well_engineered_projects")
     download_projects(df_n_Engineered, "not_well_engineered_projects")
-    df_y_Engineered = build_dataset_with_pyDriller(True)
-    df_n_Engineered = build_dataset_with_pyDriller(False)
-    df_y_Engineered = add_labels_df(df_y_Engineered)
-    df_n_Engineered = add_labels_df(df_n_Engineered)
+    list_well_eng = get_list_projects(os.path.join("projects","well_engineered_projects"))
+    list_not_well_eng = get_list_projects(os.path.join("projects","not_well_engineered_projects"))
 
-    df_y_Engineered.to_csv('../../dataset/NICHE_y_Engineered_pyDriller.csv', index=False)
-    df_n_Engineered.to_csv('../../dataset/NICHE_n_Engineered_pyDriller.csv', index=False)
-    run_py_smell(df_y_Engineered,True)
-    run_py_smell(df_n_Engineered,False)
-    group_by()
-    combine_csv()
-    merge_outputs()
+    for project in list_well_eng:
+        base_dir = os.path.join("projects","well_engineered_projects","")
+        path = base_dir + project
+        if not os.path.exists(os.path.join("..","..","intermedie_output","well_engineered_projects", project + ".csv")):
+            to_save = pd.DataFrame(process_project(path))
+            to_save.to_csv(os.path.join("..","..","intermedie_output","well_engineered_projects", project + ".csv"),
+                           index=False)
+        else:
+            to_save = pd.read_csv(
+                os.path.join("..","..","intermedie_output","well_engineered_projects", project + ".csv"))
+
+        run_py_smell(to_save, True, LongParameter, LongMethod, LongScopeChaining, LongBaseClass, LargeClass,
+                     ComplexLambda, LongTernary, ContainerComprehension, LongMessageChain, MultiplyNestedContainer)
+        group_by()
+        combine_csv()
+        merge_outputs(True)
+
+    for project in list_not_well_eng:
+        base_dir = os.path.join("..","..","projects","not_well_engineered_projects","")
+        path = base_dir + project
+        if not os.path.exists(os.path.join("..","..","intermedie_output","not_well_engineered_projects", project + ".csv")):
+            to_save = pd.DataFrame(process_project(path))
+            to_save.to_csv(os.path.join("..","..","intermedie_output","not_well_engineered_projects", project + ".csv"),
+                           index=False)
+        else:
+            to_save = pd.read_csv(
+                os.path.join("..","..","intermedie_output","not_well_engineered_projects",  project + ".csv"))
+
+        run_py_smell(to_save, False, LongParameter, LongMethod, LongScopeChaining, LongBaseClass, LargeClass,
+                     ComplexLambda, LongTernary, ContainerComprehension, LongMessageChain, MultiplyNestedContainer)
+        group_by()
+        combine_csv()
+        merge_outputs(False)
 
 
 if __name__ == "__main__":

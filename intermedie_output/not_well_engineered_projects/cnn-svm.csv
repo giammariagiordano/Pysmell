@@ -1,0 +1,239 @@
+hash,msg,deletions,files,date,Path,Project_name
+d1a535107bc171d2e70bc28afdf7be0dd98a2d18,Initial commit,0,2,2017-12-06 17:36:01+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+6c9e297c015a10f229400bde665e041ef41813ab,chore : add cnn-svm model,0,1,2017-12-06 17:38:27+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+861310ddea334153717cceab8588e23c0442e519,"Merge pull request #1 from AFAgarap/chore-add-model
+
+chore : add cnn-svm model",0,1,2017-12-06 20:12:22+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+1eb8bcb56e55eecb800b01dc4eaa401196497e9e,docs : add author name,1,1,2017-12-06 20:18:49+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+ee44a3e3ab1d23475258d14fcf1ff9b7e8204841,docs : add title and citation,2,1,2017-12-06 20:19:06+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+3863935092783f7af49c0df5a1db2cd27a6ed357,"Merge pull request #2 from AFAgarap/docs-cnn-svm
+
+Docs cnn svm",3,2,2017-12-06 20:21:51+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+604c57c2f3dd795b6662022c2cf72b1d00ae9df2,chore : add requirements.txt,0,1,2017-12-07 22:08:22+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+18206c41c519310414e1e64863d71f9a8bca2629,chore : add bash setup,0,1,2017-12-07 22:08:33+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+585dfe99bb9b084db0bb1fde8776b2d56c4473f6,"Merge pull request #3 from AFAgarap/chore-setup-files
+
+Chore setup files",0,2,2017-12-07 22:10:14+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+52c9ad1b7be160204c2e7b11269b8058c0c3dd54,chore : add cnn-softmax model,0,1,2017-12-08 12:15:16+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+4c55c5e7c2415be1165fa22513514373f27a4ce7,"Merge pull request #4 from AFAgarap/chore-add-model
+
+chore : add cnn-softmax model",0,1,2017-12-08 12:16:58+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c8f79ed06302a1171fef2628122e58c1f1b6e236,refactor : change variable names,117,2,2017-12-08 12:41:29+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+22e62904ae9b9f3adb259c142c2dc7fa2b4af818,"Merge pull request #5 from AFAgarap/refactor-revise-model
+
+refactor : change variable names",117,2,2017-12-08 12:44:36+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a1fb71765063dce074e6b020fda123fb834f9a90,refactor : follow new varnames,34,2,2017-12-08 22:19:52+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+76eb147d451c4ee18a1fe12a27da76d2bf00b917,"Merge pull request #6 from AFAgarap/refactor-revise-model
+
+refactor : follow new varnames",34,2,2017-12-08 22:21:32+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+b07e5b6a6b0500cbb920ea7a72c9875228cd0d71,docs : add intro text,2,1,2017-12-08 23:35:51+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+fba2af9a333b4befd7e5574cb23ef7bafcbecbb4,"Merge pull request #7 from AFAgarap/docs-cnn-svm
+
+docs : add intro text",2,1,2017-12-08 23:36:36+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+7690cd82672dd6940ae1301ecfaf89cbfb0e0fd3,chore : add model implementation,0,1,2017-12-09 12:01:32+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+fd8037e3cb3c01b275194be9506a529eb2d7f675,"Merge pull request #8 from AFAgarap/chore-implement-model
+
+chore : add model implementation",0,1,2017-12-09 12:10:32+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+96f7df7a58d2046e66720b77175556ace0fd1db8,chore : implement both models,3,1,2017-12-09 12:21:27+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a48362789cb69d2b34c4c1e38fb3e5c49de4294b,feat : add C argparam,0,1,2017-12-09 12:22:58+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+b8c0caa11b9053cbf228a66116ad891fe5926a40,"Merge pull request #9 from AFAgarap/chore-implement-model
+
+Chore implement model",3,1,2017-12-09 12:24:24+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+855b20420eec4c09b3fbb546d5e0af49fbe21761,feat : add tensorboard logging,4,2,2017-12-09 12:45:00+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e85ff63927784ec040557ed2f5d3adc633d9e3ac,feat : add tf saving,4,2,2017-12-09 12:54:38+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+b70f82db797363c64be7eb409286a75c7c5301ef,"Merge pull request #10 from AFAgarap/feat-revise-model
+
+Feat revise model",4,2,2017-12-09 12:55:53+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e1e1f97102b45d2acd642e695b312cb78b36ed86,feat : follow method params,2,1,2017-12-09 13:17:45+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+6d598e3a3afe8c62e67b2426f32500bb0a9afaa8,"Merge pull request #11 from AFAgarap/feat-revise-implementation
+
+feat : follow method params",2,1,2017-12-09 13:19:23+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+5cc8e13f494f692b2aa46b8a6f293cec1be414e1,feat : add class name,2,2,2017-12-09 13:24:51+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c15d2610cba6d85c54bccbc73f4575f0c6dfba13,"Merge pull request #12 from AFAgarap/feat-revise-model
+
+feat : add class name",2,2,2017-12-09 13:25:42+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+fcc394c9b26e9f139ca2c71aae13dab3116c40c3,feat : add experiment hyperparameters,4,1,2017-12-09 13:51:35+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+f9a168b08b9f012c40a10dc65b81f8dcde3a0b4b,"Merge pull request #13 from AFAgarap/feat-revise-implementation
+
+feat : add experiment hyperparameters",4,1,2017-12-09 13:52:24+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+048e52d9c4382ca318df10b7c7c1b69616095d20,docs : add tensorboard logs,0,2,2017-12-09 13:53:25+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+5a3f35f0a854142744c05a26a3f6289ffb297f64,docs : add graphical results,0,1,2017-12-09 13:53:44+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+5fd5ca2d36e125ce7397012a35af0872d0f34e66,feat : add trained cnn-softmax,0,4,2017-12-09 13:56:55+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+8921bfb8b45bb14470030c0ac9c7861735be809e,feat : add trained cnn-svm,0,4,2017-12-09 13:57:25+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c193b14f264881818cbf043be3fce4e157762ceb,"Merge pull request #14 from AFAgarap/docs-cnn-svm
+
+Docs cnn svm",0,11,2017-12-09 13:59:56+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+1c8ae11f13115e2c3b49440612d192d4f7fc06cd,"fix : remove nonexisting files
+
+Remove the nonexisting files for the trained model at other time states",3,1,2017-12-09 14:01:52+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+f2e14dda4c84aa193c74dbea234b53f5659ec4c1,"Merge pull request #15 from AFAgarap/AFAgarap-patch-1
+
+fix : remove nonexisting files",3,1,2017-12-09 14:02:04+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+6b818a633515a993b294adcce9fd71915a0ee431,"fix : remove nonexisting files
+
+Remove the nonexisting files for the trained model at other time states",3,1,2017-12-09 14:02:34+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+3b8c87a62e4d1866eb7f8af2fb50161397d65786,docs : add results documentation,0,1,2017-12-09 15:12:29+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a18748111f59009731e83c4ab7eef8a50313d1ea,"Merge pull request #16 from AFAgarap/docs-cnn-svm
+
+docs : add results documentation",0,1,2017-12-09 15:13:29+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+ea402d0ef95bab3706e38b883f4fa1001cbe0741,chore : update requirements,2,1,2017-12-09 15:17:09+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+0d24539c565902a8771cd05b39af8fcde914701f,"Merge pull request #17 from AFAgarap/chore-setup-files
+
+chore : update requirements",2,1,2017-12-09 15:18:01+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+8ed3bb129d7dbb1363661b6f2def0d56961b8a6a,docs : add DOI badge,0,1,2017-12-09 15:48:35+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+0f17dc23c95509cb1b04a4f218195728503d370a,"Merge pull request #18 from AFAgarap/docs-cnn-svm
+
+docs : add DOI badge",0,1,2017-12-09 15:51:29+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+bfde9cd6beac2a95925238d6cea63be497451ace,docs : add linear term,2,1,2017-12-10 11:48:30+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+4dc783904f27c7c081aa36ad1e0a93f0722ad815,"Merge pull request #19 from AFAgarap/docs-cnn-svm
+
+docs : add linear term",2,1,2017-12-10 11:49:23+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+97fc5bf3c56bb2cefde6e4fe2bbd010c8b85ca32,docs : add results figure,0,2,2017-12-10 13:27:53+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+351625e0efb85bd6e54ca8d72dea0558706e2b6a,docs : add fashion results,1,1,2017-12-10 13:42:43+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+cf18a6b803dbc8e478cb7d2daa232d9bb824fd13,"Merge pull request #20 from AFAgarap/docs-cnn-svm
+
+Docs cnn svm",1,3,2017-12-10 13:44:28+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e9af1c58046760802c9a939898051ba81ac43f86,docs : change to steps,1,1,2017-12-10 21:47:29+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c982d8fcd442940930b8bf7528a27f8153ddd597,"Merge pull request #21 from AFAgarap/docs-cnn-svm
+
+docs : change to steps",1,1,2017-12-10 21:48:13+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+1ac3a22f7f252cded50a3a915a26d41b27ca4875,docs : add paper links,10,1,2017-12-16 12:35:12+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a44177fd0c381a742287c1e497a70ce20a2fda2a,"Merge pull request #22 from AFAgarap/docs-cnn-svm
+
+docs : add paper links",10,1,2017-12-16 12:36:18+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+78bed4e456d7982cebf93af400410380727c4fdf,docs : add doi badge,0,1,2017-12-24 16:25:21+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e2b3e1d4af9e701ba51646532c7d92c89cd593ff,"Merge pull request #23 from AFAgarap/docs-cnn-svm
+
+docs : add doi badge",0,1,2017-12-24 16:26:36+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+b43d5afff205d83b4c9b1430525ed9d09ab94848,feat : add assert statement,0,1,2017-12-26 20:22:01+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+282442d1a6f52ddc4fbc7d6e2aed2cc5fffb4b7b,fix : change the dir,2,1,2017-12-27 14:22:54+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+11bc4d772aee62a5aa30e52024093a907674cc9c,fix : parameter is str,1,1,2017-12-27 14:23:15+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+66300acade776335e8c3dd22d5543057bbbe420b,docs : add setup.sh line#27,1,1,2017-12-30 19:40:09+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+dc106eabb5ac459cda2327efca30cb52048ede50,docs : add URLs,1,1,2017-12-30 19:43:45+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+61f10440d4de201b89eececaae912975cae2a103,"Merge pull request #24 from AFAgarap/docs-cnn-svm
+
+Docs cnn svm",2,1,2017-12-30 19:44:59+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+566664159121e8d65fd0f4966a557d20ec9a41c6,refactor: reformat files,99,3,2019-12-06 21:55:46+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+d60b36e2e34e55c85bb316bee5ee433be88020db,"Bump tensorflow from 1.4.1 to 1.12.2
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 1.4.1 to 1.12.2.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.4.1...v1.12.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2019-12-06 13:56:48+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+5474fd3f40947418c6df1ca0d7d52e4ee068dd83,"Merge pull request #28 from AFAgarap/dependabot/pip/tensorflow-1.12.2
+
+Bump tensorflow from 1.4.1 to 1.12.2",1,1,2019-12-06 21:58:14+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+45f37a1098960e35538ec6b60caa039ea6be045a,"Bump tensorflow from 1.12.2 to 1.15.0
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 1.12.2 to 1.15.0.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.12.2...v1.15.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2019-12-16 20:21:08+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+cb6965538652cb1be8644015dcfb7ff8fde41e93,"Merge pull request #30 from AFAgarap/dependabot/pip/tensorflow-1.15.0
+
+Bump tensorflow from 1.12.2 to 1.15.0",1,1,2019-12-17 13:21:36+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+fe5fdcec3bd5858e215d527f832e0b88fb4d1886,"Bump tensorflow-gpu from 1.4.1 to 1.15.0
+
+Bumps [tensorflow-gpu](https://github.com/tensorflow/tensorflow) from 1.4.1 to 1.15.0.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.4.1...v1.15.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2019-12-17 05:22:09+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+48bb3e164b26654276ae1eb8f73ca516992bb852,"Merge pull request #29 from AFAgarap/dependabot/pip/tensorflow-gpu-1.15.0
+
+Bump tensorflow-gpu from 1.4.1 to 1.15.0",1,1,2019-12-17 13:22:17+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+52e0b42c673f23ea6dc8f9f23c4533919872181f,chore: add main.yml,0,1,2019-12-20 16:47:47+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+db1caed9ed94762f1d1bcd3ac49a1ec3a89fedba,"Bump tensorflow-gpu from 1.15.0 to 1.15.2
+
+Bumps [tensorflow-gpu](https://github.com/tensorflow/tensorflow) from 1.15.0 to 1.15.2.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.15.0...v1.15.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2020-01-28 21:33:31+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c358ae6bc24a6cd63d5b9dc0b731092fa06d7711,"Merge pull request #32 from AFAgarap/dependabot/pip/tensorflow-gpu-1.15.2
+
+Bump tensorflow-gpu from 1.15.0 to 1.15.2",1,1,2020-01-29 05:37:46+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+ef80f839fa2b1da2ba3cca60b8292074a33a628a,"Bump tensorflow from 1.15.0 to 1.15.2
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 1.15.0 to 1.15.2.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.15.0...v1.15.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2020-01-28 21:41:21+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+8cf724238d1912f4e77d47bd6d55c186da8771d4,"Merge pull request #33 from AFAgarap/dependabot/pip/tensorflow-1.15.2
+
+Bump tensorflow from 1.15.0 to 1.15.2",1,1,2020-01-29 05:46:03+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a151af384f53ec58522f6da0890a27bdf4bcf601,chore: add init file,0,1,2020-03-17 11:30:18+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+90846f83fc1c8afb8cafc9575a20b656ac206846,chore: add gitignore file,0,1,2020-03-17 11:30:36+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+995dc546e09d218b04f1ea5dc95b4fef579a63de,docs: remove dead link,1,1,2020-03-17 11:35:09+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+f6e6572dbeae10250a1c6574720843d7174cce25,docs: remove researchgate link,1,1,2020-03-17 11:35:48+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+31ecfe23aa07f0319724f36c959bd28ee654d6a6,refactor: remove github workflows,29,1,2020-03-17 11:38:05+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+0d26a9b0d01795a7ba818988fa5a8498a1ac3ff6,chore: add init file,0,1,2020-03-17 20:52:31+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+d8f214b99efb0d8d9f8fad663f11ceeb88ac45d5,chore: add init file,0,1,2020-03-17 20:54:27+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+9a37d20e7bc1ec57901cdd578e5e060d5b64a3bf,chore: add data handling functions module,0,1,2020-03-17 20:54:47+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+bd63490ff5df1c5c7cb7aa9d55990b71e1f0389b,"chore: implement data handling functions
+
+Merge pull request #37 from AFAgarap/36-implement-data-handling-functions",0,2,2020-03-17 20:57:27+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a7382782e561f8ecb5f998049973df674fd74c88,refactor: move init file,0,1,2020-03-18 01:21:39+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+37bf507d8f52e248c83db18e7015c81efb6688b3,docs: update year,1,1,2020-03-18 01:25:35+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+6418a304f7ae785608b40ac9eb561cdd3a9e0a14,chore: add cnn architecture,0,1,2020-03-18 13:14:06+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+dc3257f781c10fed0cbdbde254945c6786b052f8,chore: add forward pass,0,1,2020-03-18 13:16:27+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+638c7eeb43cf20bc383323c196a975975a30ef1d,"chore: implement cnn tf2
+
+Merge pull request #38 from AFAgarap/34-implement-cnn-tf2",0,1,2020-03-18 13:27:17+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+440ba6547e214de3282b8ebc1ec64bbfb68339c6,refactor: reformat files,11,4,2020-03-31 01:13:09+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c205c8af0af2585bcedb14a93d444efd16707e44,docs: update license year,14,5,2020-03-31 19:06:30+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a97b08ebde376a59621ee69b49ced979134eb278,chore: add license header,0,1,2020-05-02 20:04:17+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+578d8a02d25140327c4915eb7c66674ff748ba43,chore: add function for training in one epoch,0,1,2020-05-20 02:29:54+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+d50b2b14671dbaf59f024142c910b72a951a3111,chore: add optimizer and loss_fn attributes,0,1,2020-05-20 02:30:13+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e2f3004715d4a199ccca5396cefc418f459fd143,fix: remove flattening of tensors,2,1,2020-05-20 02:52:58+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+11821e1c7a4b412d12cdd5a5e18170ecc0c65f85,chore: add training function for cnn,0,1,2020-05-20 03:15:01+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+9e088d8c1d6236981eccb4c67977558efe789db9,"fix: use correct argument positioning for loss, use tf.reduce_mean",2,1,2020-05-20 03:16:06+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c6b4f1ff532dca3c98636de7cdf3fc7c77181d84,"chore: implement training function for cnn
+
+Merge pull request #41 from AFAgarap/40-implement-training-function-for-cnn",2,2,2020-05-20 03:30:45+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+ce3d970ee6e4affff697a39e7027b478566b2b27,chore: update .gitignore file,2,1,2020-05-22 16:06:35+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+8cd86adf0f89d230bdf4f5cd067bb7dae5f85d19,refactor: declare epoch_train as static method,13,1,2020-05-28 23:57:09+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e6776bff11b034dfa482b05f5998eabe6c51a58c,chore: add pytorch cnn-svm package,0,2,2020-06-26 18:36:21+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+954d7b3a0f5b496b6399a2642f5242489df649ba,chore: define cnn architecture,0,1,2020-06-26 18:37:54+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+ce3d0d08b788f797001335c33bfe93dd3a7e8884,docs: add cnn constructor docstring,0,1,2020-06-26 18:38:12+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+26d620ec64f8fd2c644c9487c9123c6fbce5e01f,chore: define model attributes,0,1,2020-06-26 18:38:44+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+db69b2742911cee5d96bc97ba00047af9726651f,chore: define forward pass for cnn,0,1,2020-06-26 18:39:28+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+213011d71219d9dde435b99a35843749a526c5d5,chore: define inference function,0,1,2020-06-26 18:40:02+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+235ca3f108b5563f67306b3e869cc77f0756fac9,chore: define function for epoch training,0,1,2020-06-26 18:40:55+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e78d92550f18d0e52daff2289c5705c3b97a3a1c,chore: define training function,0,1,2020-06-26 18:41:32+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+e9a1687d89a44e130813e0766fe7db67b6643906,docs: add license header,0,1,2020-06-26 18:42:57+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+133f91408c23ae6fef1a6670c4a56ea085f2cff4,docs: add module header,0,1,2020-06-26 18:43:18+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+a601b3ec1102dde6fd431230e320042b7b8d715b,docs: add class docstring,0,1,2020-06-26 18:44:16+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+424353918ec0d97fb8b3aefac820e907466cfd2e,"chore: implement cnn in pytorch
+
+Merge pull request #44 from AFAgarap/42-implement-cnn-in-pytorch",0,3,2020-06-26 18:45:23+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+ef8943a243c8bddc48c7f9f96b63b4fdda8b40eb,"chore(deps): bump tensorflow-gpu from 1.15.2 to 1.15.4
+
+Bumps [tensorflow-gpu](https://github.com/tensorflow/tensorflow) from 1.15.2 to 1.15.4.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.15.2...v1.15.4)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2020-09-25 18:37:12+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+44de14bbb999827dfd2285c817773e95b46de4ce,"chore(deps): bump tensorflow-gpu from 1.15.2 to 1.15.4
+
+Merge pull request #45 from AFAgarap/dependabot/pip/tensorflow-gpu-1.15.4",1,1,2020-09-26 02:45:33+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+c93dd90a2048e5fbf7b08eca63b72df4dc14bea9,"chore(deps): bump tensorflow from 1.15.2 to 1.15.4
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 1.15.2 to 1.15.4.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v1.15.2...v1.15.4)
+
+Signed-off-by: dependabot[bot] <support@github.com>",1,1,2020-09-25 18:56:51+00:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm
+68e4e2ba034f0f215e40c9a8bc6fe82da987b040,"chore(deps): bump tensorflow from 1.15.2 to 1.15.4
+
+Merge pull request #46 from AFAgarap/dependabot/pip/tensorflow-1.15.4",1,1,2020-09-26 16:13:47+08:00,../../projects/not_well_engineered_projects/cnn-svm,cnn-svm

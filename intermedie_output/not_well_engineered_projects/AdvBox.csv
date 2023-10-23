@@ -1,0 +1,454 @@
+hash,msg,deletions,files,date,Path,Project_name
+6ff19f87fac887658a20afb4c6826639af3cac12,Initial commit,0,1,2018-08-08 16:55:42+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4ebba1c95375e4c6aa5c989e581f43bbec5c1f77,update readme,1,1,2018-08-08 17:28:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b0ed6dfc69b9c3d6980fcba186cb88f9b97b955f,增加英文版readme,0,1,2018-08-08 17:29:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8f0fe1bbb437f5f2b194e35f9d0fc94489c8187d,"代码迁移
+
+百度安全实验室研发了AdvBox，它能够为研究者在PaddlePaddle平台上研究模型安全性提供极大的便利，免去重复造轮子的精力与时间消耗，可
+以高效地使用最新的生成方法构造对抗样本数据集用于对抗样本的特征统计、攻击全新的AI应用，加固业务AI模型，为模型安全性研究和应用提供重要的支持。
+之前AdvBox作为PaddlePaddle开源项目的一个模块，获得了广泛好评。这次因为项目发展的需要，特此作为独立项目开源。",0,20,2018-08-08 18:04:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+19352fa85d91b70c5e3ae7908b4e58d14f2b8cf9,修改为中文版简介,101,1,2018-08-08 18:17:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bbd7de2477b191abf28b8027bd5074e94a2ebba6,增加对抗样本基本原理的介绍,1,4,2018-08-08 18:25:10+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8bdfd94c406c47cbb134e72e783ad4874d75c940,增加AdvBox特点,0,1,2018-08-08 18:38:18+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+60260355495714b4540cb394f2c4f477fb95bcec,增加Apache License 2.0许可文件,0,1,2018-08-08 21:08:21+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2055c1da9cc830d6a0ca1ba175f63955bbd3dff3,增加许可内容,0,16,2018-08-09 11:02:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+619838e85d8ba8ba4e43b8f562579b1bb2a26daf,增加忽略文件的配置文件,0,1,2018-08-09 12:48:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+eb5ecf0a099e0e4d3b8a65a509dc6bffca031a7b,增加对tf和caffe的支持,1,1,2018-08-10 21:42:45+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+531ff959f99009e399cfa2bac68122fa753937d3,更新许可信息,224,17,2018-08-14 22:53:56+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d5b8c3ef8e665347ecffcdf30c8f59f449d86e56,更新许可信息,32,2,2018-08-14 23:05:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+408845d8fe4021562a1cf0f98e51836f8805177e,增加基于cifar10数据集 模型为resnet 对抗样本算法为bim deepfool和jsma的例子,0,3,2018-08-15 15:09:32+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+89e2a080fa8bc49aef576ae2fc863599e4372665,增加了版本功能说明,1,2,2018-08-16 09:27:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+df65a556b234549d2acc5afede3535157d47f9b2,调整格式,2,1,2018-08-16 10:08:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+698d0d66d6507d0a604920948f6649e4fa4aa8c2,增加了使用示例的说明文档,0,2,2018-08-16 23:05:35+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f162b2729a6f0e6091fc77b74ff253a824d0dd80,更新readme内容,1,1,2018-08-16 23:11:12+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8b47b600adfe0ce2ce5e87170934c182a46a33e8,增加了Paddle平台预训练模型的信息,0,1,2018-08-17 11:32:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d8367d6918e95006fa1ec9952842c1cc9d0b69a0,更新使用说明部分,2,1,2018-08-17 13:14:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8265a44969dfb352b4f2c65b9ef83983828cd3c2,增加了通用的ResNet定义,1,1,2018-08-19 09:16:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f2a34e89d46208408e0344e20fd59754797b4a81,增加经典论文 设计白盒 黑盒  物理攻击和防护手段,0,16,2018-08-21 10:47:03+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+43ab3e22d196e465b2a4a6a1066ad21c5d5a37cb,保留白盒攻击的论文,0,8,2018-08-21 11:14:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bbbd99106a3f7d84709abb7361cd78b3c43c9e4f,保留白盒攻击经典论文,0,2,2018-08-21 11:17:07+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ba07c1f06d47970db46f34b1c0ac5fc19bec9e11,增加攻击caffe下基于MNIST数据集的LeNet模型,0,3,2018-08-21 19:36:17+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ea4fe50d10a7df6577e755da04717b67007c0f5f,增加 math函数,0,1,2018-08-23 07:19:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3e58a5bb7bf510c96053c8df630abe10a5926b1f,add tempfile,0,1,2018-08-23 07:20:08+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+abdc2c3f7ae4c319a3dcbbdf2189374c03c1791b,修改了动态epsilons的算法 从epsilons到0.5动态调整,12,3,2018-08-27 20:31:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8d84be94d554f1aa7763053905dfc42a54e7a99f,支持GPU,1,2,2018-08-27 20:37:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bfa9660a3e5e486b8d1ab0adbcb4dc6aec7b1f73,调整动态算法epsilons 从epsilons到0.5逐步增大,2,1,2018-08-27 20:49:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e30cae40bce507d17d5c43aa2bab541d4c4a6fd7,将示例用的图像识别模型单独成一个目录 其中 lenet是自动生成的,350,7,2018-08-28 13:03:45+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+23ef64032e9e8cc8242dbd4f07050f01f1fb1c4e,支持新目录结果,2,2,2018-08-28 13:08:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6c77da7413d2735166353118d4547b4179695807,支持googlenet和mobilenet,0,3,2018-08-28 13:19:15+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+10fe857de2fbc7fe8099a615796db45b5f24fbea,修复bug 强制拷贝原始数据,3,3,2018-08-28 13:52:06+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cce24ad43023990911efc250fea8e5fd607f1eae,修改路径,5,5,2018-08-28 13:54:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+722382188ef73591be6d2baf4b96d471e9a38ccf,tempfile,4,3,2018-08-28 16:26:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fbea05171358751ac6e3192d811a0678cda09f93,add tempfile,0,2,2018-08-28 21:07:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6582cd3d0689c3ba88432e2e7e57aefeee9a291e,add tempfile,4,2,2018-08-28 21:12:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+be6c616467d81d6b3bd92cb306401f165522be50,add tempfile,1,1,2018-08-28 21:14:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3e8330762e1f62a0a6f2ab047d6f51cc9b48178f,temp,5,3,2018-08-28 22:23:42+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8bff941ac5d8f8d5a91b97a681e7271be39e5362,Temp,1,1,2018-08-29 10:00:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+81d9119a600575a7fe29304d4ca1bcf13c569eb2,支持黑盒攻击的SinglePixelAttack算法,11,3,2018-08-29 10:47:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+014877fcc42d7d75cc4d4c22d7cdf003db09b939,add tempfile,9,1,2018-08-29 21:45:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3c78604c54495b0d62a8c6f8c09739b0cfab7c18,tempfile,2,1,2018-08-29 21:47:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c730c943a62c07aad8fc15930e8b4c3aea8c1ada,增加使用黑盒攻击算法攻击mnist和cifar10的例子以及说明,6,3,2018-08-30 11:25:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e2f10316b5e3098b2c3625d0171afcd0d74a4509,tempfile,0,1,2018-08-30 12:46:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cdf04285042a4497506cfa8db7f7198bd9f0a4fa,tempfile,22,3,2018-08-30 14:49:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d28782362d781423d2c1999ad951514f36455b3b,删除,234,1,2018-08-30 15:01:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7dde857b61d56138b3ab30de864627ecabce7467,独立黑盒攻击的模型 不用指定损失函数,33,6,2018-08-30 16:16:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+5aee6e66860cdf1065130a118f84a023b96d5270,增加调试信息,5,2,2018-08-31 12:23:36+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ed5d8d8869946e005fe98aefad5f5ea631998d4a,黑盒攻击基于imagenet的alexnet,22,1,2018-08-31 12:30:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bf376164cf9790ba947a6beb99a375671713d12c,提交黑盒攻击经典论文,0,1,2018-08-31 13:15:21+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+17107118c4b036c90202749e7cf302e6cd0c2128,实现localsearch黑盒攻击,1,3,2018-08-31 16:00:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f807aba4250f9caaa44b6227ce697413beda12ba,优化攻击参数,1,1,2018-08-31 16:17:15+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bee318c75f64fd38434f06e3ff2842b435d53713,丰富调试信息,6,1,2018-08-31 21:47:31+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d261e66c1cad3bbe6f3671cbc2b0da55e8e46d2a,增加防御算法的论文,0,1,2018-09-01 20:10:03+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+684dd6df3499a39c16d293329d3894a9ef473af4,增加IBM Box的论文,0,1,2018-09-01 20:34:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+dc0ea031b31e940837c6ac7b3b238d0a6da9bdca,增加Foolbox的论文,0,1,2018-09-01 20:36:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c38166365b5e30a877f026e338902734184cc905,tempfile,0,3,2018-09-02 20:23:55+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f237646a5fc1188926ddce4bafb113500e505a25,支持FeatureFqueezingDefence,14,2,2018-09-02 21:07:18+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+72d6f5af9fd7bdfd54cb3c8943f1089af1d44dca,实现FeatureFqueezingDefence,11,2,2018-09-02 22:12:56+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b85293fd8e05eccd259982a83e1f194c8d502aab,支持FeatureFqueezing,13,6,2018-09-03 15:48:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+46fdc33db9ad4388812359fc9bd5c342e0370433,更新使用文档,11,2,2018-09-03 16:04:42+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+dc446fb62512b3fb0286ac25d9c3244ba543b88c,更新文档,0,1,2018-09-03 16:06:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3417c54ebadd2d85b6af3eef5c47e529ed62fa82,支持SpatialSmoothing,6,6,2018-09-03 17:15:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0f421b9a7917496070566829cab28cc903785c4d,更新文档,30,1,2018-09-03 17:17:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+93d316e95f713935b498c43942e45577b06ec80a,支持SpatialSmoothing,6,1,2018-09-03 17:26:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b71bf915e4a24cf660748cd71a1d198dbc6817f0,支持LabelSmoothingDefence,5,4,2018-09-03 19:12:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0856f796152c669afb71001797832f00134871a0,支持LabelSmoothingDefence,1,2,2018-09-03 19:18:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4af4452655fb8d66642bc1ce4d511c8d2f0e9ffe,支持label smoothing,14,3,2018-09-04 08:04:04+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c396d3a07ce9b4d9579f1147053cef8286cb3026,增加黑盒攻击的论文,0,1,2018-09-04 08:32:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6ae4a5384e70282e4a1cacc7b368c5fa191dea41,增加GDA的论文,0,1,2018-09-04 09:48:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+94898bd2ef7ee6263e2b9ec565aceba0d3c2cf13,支持GaussianAugmentationDefence,0,3,2018-09-04 15:26:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fe97d34e1d7d4ede7fa0afa5b7eb897e38e970b8,支持GaussianAugmentationDefence,1,2,2018-09-04 15:33:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2dd09a26c3b01bf5d333d7eb2388ef01fe850cfe,0.3版本发布,2,2,2018-09-04 15:39:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e57872164b3f7e6783a9683fb3bebccb05a57480,更新论文,0,2,2018-09-04 21:49:20+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+10123ea8fd191cd1c87f00bd46ef357596dd13ba,增加黑盒攻击的论文,0,1,2018-09-04 22:12:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b0bf2fb0fcbd287f2e1a4e4950dc8829bc7b04b2,更新caffe2fluid,6,1,2018-09-08 22:39:54+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+38303e9a3cbc6636e4d5e8e5afe77c5401c36f6b,更新格式,13,1,2018-09-08 22:44:16+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7a4a01be219011494e639af48c715ddc11f31a9c,更新格式,6,1,2018-09-08 22:55:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+764fbcbb572bcf601ba5fe9c68ae0757d2063299,更新格式,6,1,2018-09-08 22:57:28+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+811c062b8150e7197ee0eeb9dbe3db13cfc57f60,tempfile,0,3,2018-09-10 20:19:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8e9a6981df59a13555cddf313bf0a73541011480,底层支持tensorflow,62,4,2018-09-11 12:34:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+03296d1e6cd9463fef80e7f9f2fe5fc86b19e0d0,add tempfile,0,2,2018-09-12 18:33:29+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a374fc247cf613291105a92064d5dc621d21f042,add tempfile,5,1,2018-09-12 19:29:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+99d21d3809e0d8dbdf9754eca1e27dd6e0ad9242,增加调试信息,10,1,2018-09-12 22:48:07+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+54c0610a8ec1ece38a76a57e405b74ff8c9bfa83,tensorflow fgsm调试成功,73,3,2018-09-13 10:22:12+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a1463a379a4f11afc173638d4f8912e1caf3ce5a,动态调整e 支持设置上限和下限,10,4,2018-09-13 12:06:04+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+66d4254c07f333edadf327ea43013fd1720b5f6b,修改deepfool算法实现与论文不符合的地方,1,3,2018-09-13 15:13:33+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f281956a79c9fac06e8b888719a1c06a79311f33,tensorflow fgsm non-target 调试成功,16,5,2018-09-13 19:50:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9658a0ba9d995218ec87eb44097d530650625b80,tensorflow FGSM target attack调试成功,3,1,2018-09-13 20:04:40+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e75b0b4d14aecae8fb8860899da403bbe01cbefa,tensorflow deepfool 调试ok,10,2,2018-09-13 20:38:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d8bcde1964c7f7ad65bacc52eb1baa36497d7827,修正了deepfool算法在取样环节的错位,1,1,2018-09-13 20:49:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4e04324b7d51dda7488c116165fbd9cdd1283e94,支持keras的代码 临时文件,0,2,2018-09-13 23:01:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+062a96e9c3aaa86848e6654887504dfed9a3de58,支持keras的代码 临时文件,14,2,2018-09-14 07:12:06+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e826b0f17c172eddfa3804c2ef3f9673ab7a9626,keras  imagenet fgsm 调试ok,15,2,2018-09-14 09:55:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1aa08fa3a21a4292003f05f07ed291d8ed273e9a,支持keras,31,6,2018-09-14 15:17:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4bde3ebbd893e9d122f2a025587e9dc26d597db0,支持keras,6,2,2018-09-14 15:53:07+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ef59511b59a03755c33e712043f9c2211829191b,keras imagenet FGSM调试成功,13,3,2018-09-14 23:05:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f701d880f8a4d40af6315d7f12fa2609cb7af7af,keras module底层支持featurefqueezing防御算法 生成样本质量大大提升,7,4,2018-09-15 06:46:17+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6500544f19c99f0fdadba846b21761c6f330bb6a,增加保存模型文件的目录,14,6,2018-09-15 11:22:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+47505be377fc14dee850649f264bf20cd3e942f5,增加测试图片,0,1,2018-09-15 11:22:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+306ef7fd7c959ba04274a2c465339c1018943d7f,删除多余提示信息,11,2,2018-09-15 11:56:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f9db8b9a177dafe14aa4d8723189f70ec2c36c90,增加keras的示例代码,4,6,2018-09-15 14:56:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+121e6a83b8fe497038c342fb479d3cb54e8ebc19,更新主页,115,4,2018-09-15 16:42:06+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c0e65d8dfac2c8fab2988ce98c7a88bb8cd02a97,更新主页,3,1,2018-09-15 16:43:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b5a7dd7145ff89f5686a5d18d88482746a22a251,更新主页,1,2,2018-09-15 16:49:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d3cb31c4b128c846e2edfd5de2e46844937c2719,更新logo,0,1,2018-09-15 16:55:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2be7afc3fea0013a7d59bab97d1325dd688eaa5f,增加目录 保存基于AdvBox开发的攻击和加固应用,0,1,2018-09-17 09:55:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+696d3177e93d069809b3e3a5f6db9bf068012d26,add face recognizition attack code,0,4,2018-09-17 15:50:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6891229bb16b95cfb4aaf1fd1ed17f9c4f7b28e3,修改epsilon,3,1,2018-09-17 16:30:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+361c9eefea8827111f932ad5eed014f2c8c1dc31,"Merge pull request #3 from wayangGit/fr
+
+add face recognizition attack code",0,4,2018-09-17 16:31:08+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9b5d6f356539738515d5f24a781420ad849d8e72,支持白盒攻击facenet,4,4,2018-09-17 18:22:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a8201ba6f9c800fcad115bfa37d37be3f73781c1,增加白盒攻击facenet的案例,1,1,2018-09-17 18:23:12+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ea790ad6870d0074dae99f60a636e8ab3a24ee28,增加人脸攻击的介绍,2,1,2018-09-17 18:27:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+98eaee969401fdcde83685547716835610dac5b2,修改thirdparty,1,1,2018-09-17 18:28:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+80d41e9e8d8216f36d51bd5ea8def49c9fd118e7,支持tensorflow,198,5,2018-09-17 22:40:54+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a4bb39fc6e65dd86e81c709387bd8fb5cd5ed4c5,增加thirdparty,1,2,2018-09-17 22:43:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cb4e194f09889f31bad9eaacd17b2028b02e91ca,增加thirdparty,0,1,2018-09-17 22:44:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+85dda3148c9e4c67b5e7a221877deac44b2d949c,删除无关文件,265,2,2018-09-18 16:13:01+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a3322b70ae10219381b5f59588aaa1a6e46dcf1d,更新0.3版新增功能,0,1,2018-09-18 16:43:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+afa437129e90804dd85bf85cac43c780003c922a,增加注释,0,1,2018-09-18 19:24:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+15ac0072ee43366faccce8cd7d8cd09952fad834,调整参数,1,1,2018-09-18 19:45:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b7fefa7bd6cc126dab0557bb4a937eebf7df35fe,基于advbox的tf的底层接口实现人脸攻击,0,4,2018-09-19 11:05:32+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d3c277b314f6fba4e1769356a7d077b5a1718225,基于advbox的tf的底层接口实现人脸攻击,1,1,2018-09-19 11:14:04+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+5c5c782020791ad6a6a1abc60e16441740347b16,基于advbox的tf的底层接口实现人脸攻击,3,1,2018-09-19 13:56:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+523cefbc5eef7a89a9f86de24ba7e46d17dd36ce,基于advbox的tf的底层接口实现人脸攻击,14,3,2018-09-19 16:46:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ea8782f4e634abeaaa10b71dead618c5b3b03aaa,基于advbox的tf的底层接口实现人脸攻击,4,1,2018-09-19 17:26:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2ecbf71ade26ff00a95a22067cd85dfcd907ec29,把云服务器的api key独立出来,0,2,2018-09-20 12:25:29+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9a8ab21e8bfc85238525197be26d9c5d8e871975,把配置文件独立,0,1,2018-09-20 12:26:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+dee94eac4ca87b1eb3a26463b54d6ba39d22eb45,增加数据集,0,16,2018-09-20 12:53:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d2e97d658a924f2a1436589b2a6c18b59840eb36,增加批量测试功能,7,3,2018-09-20 13:45:40+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1dd7d1811a958f9fd28e1110454530f8418793ee,增加示例代码,0,1,2018-09-20 13:46:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+03786454ee7d28ea60ca2b806e1fc50455cc824e,支持python2.7,3,1,2018-09-20 14:21:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4e04fb5c019e9af122a474619be0ec652697009a,增加0.3版本特性介绍,79,2,2018-09-20 14:25:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e9c4de552e65acaf94fdda22924b3ea9a047759e,修改注释,184,1,2018-09-20 17:11:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+76edc3dae880d4c6543eba31e5692b60a37e8963,更正错别字 解决https://github.com/baidu/AdvBox/pull/4,1,1,2018-09-24 19:20:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0c68c14fa341d1fb88398ba36cbef767fed61808,add tempfile,1,4,2018-09-26 06:18:50+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b3d947e5bd305008b2df8c19a87b09bfee100413,add tempfile,1,3,2018-09-26 10:11:08+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3517863b3b95c8fd66510dc08dc1ab7c94e3918d,增加物理攻击论文,0,3,2018-09-27 14:59:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0270b1754a7b224c724e5fc15876e9f20e112052,更新配置文件,493,3,2018-09-28 13:55:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ee99060ce457b8bc4fe448f68721e741668d1bb0,add cw attack algorithm,0,1,2018-09-29 10:03:55+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+979002c98bc847b413ae8b3265bd54c3307d01d3,"Merge pull request #5 from Tristan-Hao/master
+
+add cw attack algorithm",0,1,2018-09-29 12:28:33+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+56fe060f5244bc2d495b6f278d8fb25af21a4e15,Add CW/FGSM example (Imagenet dataset),0,14,2018-09-29 15:02:20+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b84d6ddba85c94d42499948bb447ad98489ed9e4,rename diretory,0,12,2018-09-29 15:05:50+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e22dd5591ebdf9e9ae85b5cb22eaa6df6ee366f9,update readme,0,1,2018-09-29 15:09:54+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+97533bc0ca128a62a8bd903ea5971ab06796f68c,update readme,2,2,2018-09-29 15:12:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f97b8e061726a8c906149b4f4689adc4c2b5cf78,Update README.md,10,1,2018-09-29 15:15:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+934d848c47ff1a3a540cb671e66020b8e7d3d601,Update README.md,17,1,2018-09-29 15:17:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f6abacc2efe01f79fc17e70e276708da5a452b7b,Update README.md,0,1,2018-09-29 15:18:18+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ab45517c1cee0882a5cc6b1604fcb08105fbce6f,Update README.md,6,1,2018-09-29 15:18:46+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+58a36b7db875fe6428e06b294b66edfcfa9af8c9,Update README.md,8,1,2018-09-29 15:20:55+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bb35a7c2e40c03e9214bd4591f7aac329e9eea02,Update README.md,2,1,2018-09-29 15:21:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e7e859d117a6e7dcaa677f374faa0014c8181727,Update README.md,1,1,2018-09-29 15:23:29+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fc1e243b0ea2fe7a36ea99f87826b260d0073155,Update README.md,4,1,2018-09-29 15:26:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d4a85d794b50d7c42fd39bf6b4f0af65a2bc27aa,Update README.md,2,1,2018-09-29 15:28:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0336b56e36a702fccd1274e80d5380a5e4953c04,Update README.md,0,1,2018-09-29 15:28:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c53a8e092e84306c9743fd1a885544fbedb2d411,Update README.md,3,1,2018-09-29 15:29:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+994a666626476cdc0e4ce1b82f31b4745a0b3d5c,"Merge pull request #6 from Tristan-Hao/master
+
+ Add CW/FGSM example (Imagenet dataset)",0,15,2018-09-29 16:16:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8231f450bc712a8aade41b168766499154d85d25,支持白盒攻击算法,0,1,2018-09-30 07:25:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+afde8c5017e8e7ae52cbbf8afb57c1e98f4e5d00,add original paper implementation of JSMA attack,25,1,2018-10-06 17:11:14-07:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+835443b64f5b815c97bbe2a21d95df1e980cafb8,增加知识星球  便于大家交流,0,2,2018-10-10 10:29:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9d41b9ca9611569d0f6203cb4a5a2fc90d5461b7,增加pytorch下进行mnist分类模型,0,1,2018-10-10 16:24:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2388d494e28844bb324f3781f526c04235b89611,支持pytorch,3,4,2018-10-11 13:57:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+5f516af22a8df5553360c071a0eef8de74b548e0,添加pytorch的案例,0,4,2018-10-11 14:23:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+afcf3a0a32bdb7a0c3e36e7b30fc5c5268852bd2,调整参数,160,1,2018-10-11 14:59:44+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c7867ae6b8c1a67f764bac32115d9a179746356b,"Merge pull request #7 from dailydreamer/jsma-twopix
+
+add original paper implementation of JSMA attack",25,1,2018-10-11 15:00:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fecf2352e630aa8435db610489b4abf5d57f02c7,提供预测图片分类的工具 基于pytorch,0,3,2018-10-11 18:58:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fe74adc632eb8ff0f223b2a07a8afe23fdd0da5f,调整格式,0,1,2018-10-11 19:00:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9f2caf7c6f96abd8e862c650c66c5162eb624a43,调整格式,3,3,2018-10-11 19:13:15+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+deeabfab9edf718876b9c6f372efa313d0daf8e1,调整格式,4,1,2018-10-12 12:18:12+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a712a7e5bbefd1b078d45f522c055aab645e0dc0,增加使用FGSM攻击imagenet数据集的pytorch案例,10,3,2018-10-12 12:41:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6ccca14a4a10a9d1aae5a05e1cfbcedfb0e99166,增加使用FGSM攻击imagenet数据集的pytorch案例,17,2,2018-10-12 12:53:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c567d053de95cf68f70da6eca41040b74b494032,提供基于mxnet的图像分类工具 数据集为imagenet,5,3,2018-10-13 12:07:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d26ab4117814ad00ac2dd3063dc25ce78b98373c,支持MxNet,3,4,2018-10-13 14:35:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b1dc08a1a31e9049baaa6c28289aead0ed69badd,增加LocalSearchAttack,0,1,2018-10-15 10:43:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a0785d0ea70ae3344d3b5de411a308c4ef6a3968,增加graphpipe的例子,0,2,2018-10-15 10:54:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fb802ac800d37e6d9aa4e92f8adef60ead66e6c7,黑盒攻击graphpipe下的基于tensorflow的squeezenet模型,9,7,2018-10-15 16:00:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+64382a650bb7b15659e2ee27c307460a38ee6350,黑盒攻击graphpipe下的基于tensorflow的squeezenet模型,14,3,2018-10-15 19:32:01+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3caf6f29f7cb63e9166722ef0b4f90f29b431bd4,黑盒攻击graphpipe下的基于tensorflow的squeezenet模型,1,4,2018-10-15 22:34:15+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+14abf32f04abe8bfec03d1eb19195c5a51948e48,黑盒攻击graphpipe下的基于onnx的squeezenet模型,7,4,2018-10-16 06:54:02+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2b995a895b4b9a681c22a23fd3801adafa67d0a4,调整格式,4,1,2018-10-16 09:48:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+83b51ade1c30e9781bcb1986d7256d7939cf5c9d,支持GraphPipe,4,6,2018-10-16 12:42:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+16f4c4f4be05f1e80d1961652e134d25fdc74f60,提供零代码黑盒攻击代码,1,5,2018-10-19 14:16:18+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+301bd402ec9a0eebadc9bb34c847569acad5e9ff,提供零代码黑盒攻击代码,1,1,2018-10-19 14:27:28+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bf436bd5eda0ef65ecadd2de5530b08ba346bfe0,增加qq群 936353856,1,1,2018-10-19 20:55:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4cc1d50a66920ca4763357cc07091883ec3ccadf,压缩大小,0,16,2018-10-20 11:00:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a85328434f96a4ab70c5e753681ea1c75f0480a6,增加测试图片,9,4,2018-10-22 10:21:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d71960301c1f275c1b7ccea0233e352fd9a81791,"Update requirements.txt
+
+增加一个py库",0,1,2018-11-01 15:23:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6a3d879d26d87a7a630cb37d3bdd848772746e82,"Merge pull request #10 from lea4n/patch-1
+
+Update requirements.txt",0,1,2018-11-02 16:03:10+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fe7e5dc2bb7159c7296c7a3c410a7090d0260417,选择影响力最大的t个点进行扰动 抓主要矛盾 这里需要注意 np.argsort是升序 所以要取倒数的几个,2,1,2018-11-17 08:45:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+782e6dfa4048688e7c97857de2579991f39df094,修改注释,1,1,2018-11-20 07:40:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b466eb2a48091e98ed17728334eed2d58b9526df,"修复 paddle 新版本兼容性问题
+
+op.set_attr -> op._set_attr",2,1,2018-11-20 10:53:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0862312a2ecffc105310d650133031ef43915d70,"Merge pull request #14 from Cody2333/master
+
+修复 paddle 新版本兼容性问题",2,1,2018-11-20 11:03:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7deb5085972a3c23c191f669cfbe05865106ea5c,"解决 ""TypeError: can't convert CUDA tensor to numpy. Use Tensor.cpu() to copy the tensor to host memory first.""
+
+TypeError: can't convert CUDA tensor to numpy. Use Tensor.cpu() to copy
+the tensor to host memory first.",1,1,2018-11-22 07:20:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+365dc679a05a762cccba0c8ce99c3b507a0a6739,添加电子书,2,12,2018-11-27 13:48:06+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9eec4c86920100fdb0f23216e10b33dc5e2e386a,增加pytorch的jsma ebook,4,2,2018-11-27 15:28:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1fdd9f894a068b9fa6e4acd9f165bb6cf0d9d8f4,修改主页,1,1,2018-11-27 15:44:36+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+20f0650fa515f8862899c060c5a5e94ce0fb6444,调整格式,3,1,2018-11-27 15:53:32+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+243d9ffea7ceb4fc6fa3f436b1610b99a5f434f2,调整格式,4,3,2018-11-27 16:04:46+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e4f21eafedca5abc08ba80d150be210d02a7f6b8,更新主页 使用ebook,11,9,2018-11-27 17:06:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f41955d6c50435f1255cd8e1851c7b5db7854799,更新,0,1,2018-11-27 17:42:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+600ce22286fe0d5bc088384273d80b23ba7a7168,增加 jsma的案例,145,4,2018-11-27 18:05:03+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b7a3caf64d9f1d125438964f6ca85fcc6080c618,增加mxnet的案例,0,2,2018-11-27 19:01:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7c4910b7713110547881fc1549d077ade9190b51,增加mxnet案例,1,1,2018-11-27 19:04:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8d6e71ba1285a815805ae59f6d63734b56239bfa,绘图,0,4,2018-11-28 10:09:34+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e3cc17bc38e85e1c4b686c4f14ebaf7b5a314103,支持打包pip,0,2,2018-12-05 10:54:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+46a1180a3b47bd6c72b4331522f89008c0f7a2bc,Add pytorch cw2,1,2,2018-12-16 08:09:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0006213c56b50da662c00746f633f256c0c55555,优化判断条件,4,1,2018-12-16 08:17:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+dfe38919a6987c4a6fe1460a136f6f3fec577456,使用CW2算法,0,1,2018-12-16 08:40:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f5c393b3769fc47c836ad00d57d87bd6937a5ef6,ebook_imagenet_fgsm_mxnet.ipynb,1,1,2018-12-19 11:00:20+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c47d133eced044ba55201234e97c383c95cd7467,add,0,1,2018-12-26 10:19:20+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6be530c394cc5a6730606d6eca4aa9f2a94f7e08,Update README.md,0,1,2018-12-30 22:24:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ac404b76b8b4e1afe2e86b4351c32a2bc291fc88,Update RELEASE.cn.md,0,1,2018-12-30 22:25:10+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+64b25ebd93ccefad3b90f21fb514cd58034b08a1,Update README.md,1,1,2019-01-05 20:01:04+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1551c5fbf4c346692975f8a0582200f5dd979ef8,仅支持单点,1,1,2019-02-19 09:42:46+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9ccd5691912e0e480d8f37d3ad4098889774c7ab,更新英文说明,103,2,2019-02-19 10:34:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+70789638b0c004265ccb66465b4819c1439a1012,Delete ebook_imagenet_fgsm_mxnet-checkpoint.ipynb,223,1,2019-02-19 11:44:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4091a00c9215973bb45ce6fbd54aed467fe8ac18,Delete ebook_imagenet_jsma_tf-checkpoint.ipynb,246,1,2019-02-19 11:45:10+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ade2fb9f64e89d5c060625955fc98700529717cc,更新错别字,1,1,2019-02-19 11:55:01+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9760460d3207b7d6c10bfd1cc5ad56c11e1285e4,改错别字,1,1,2019-02-19 11:56:55+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0955bdb19e0c9457f456ed03e932e93ddbd47904,上线英文版,319,3,2019-02-27 16:00:20+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+807170cf7b05437f70d0cd9a762f24e5a9a41b42,arvix,0,17,2019-03-08 15:55:17+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+00033b9d86c2426dc099724fcd449b1cc1ae37e4,更新 readme,1,1,2019-03-16 18:39:17+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+db2c92ddeb00a4329ae902391d101da895f1f0ad,Update README.md,1,1,2019-03-28 10:07:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d3a9233ff73b3ff66ebccadcbe7ff2e252f9ba14,Update README-CH.md,2,1,2019-03-28 10:08:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8e303d49d8b095e881e9e246076d20dae671c336,Update README.md,0,1,2019-04-06 15:54:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d9c0782e6510e0a041e111778aaac5f91436bc8a,clean,0,1,2019-04-19 20:39:17+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4f43e7d054dd38707364c418f8d1ba26c88307ae,Update README.md,1,1,2019-04-24 16:30:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d21748164335e7c3758adaafd045f7964cbf4150,Update README.md,1,1,2019-04-24 16:32:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3145e6e994d9b61562c04c3036bdfbd986efcd0c,add,9,27,2019-05-17 09:47:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+322b2ef262aea6ffe2b507053023f81784dde28c,add,8,1,2019-05-17 09:48:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9e707557cb92801134281084a48fae8f481a4731,add,211,25,2019-05-17 10:21:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+fbf1027ab946fcb6345050024b2bf88c03ca6301,add,243,3,2019-05-17 10:28:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+108df1616531fb0d48303a14038e557e6b3b12f4,add,1,16,2019-05-17 10:39:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e423073f323a45c2b14c4d84bc6c8a4e75e2cb23,add,1,1,2019-05-17 10:46:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+96acc8fdab7d52393d6d71ba2b884d93e0ee96fc,add,1,1,2019-05-17 10:49:01+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1bb7c4734f7acda965a61f42007303f43542faed,add,2,1,2019-05-17 14:43:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e2e0a2b0b8726418b1e302279656ed90d67f2e87,add,0,1,2019-05-21 10:06:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d5f32f8f074237d4a4d30dea6a7baa08457f502c,add T-shirt introduction and demo,0,3,2019-05-24 17:08:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f38767049ac95253e584273b1abc11de410a0f19,"Merge pull request #27 from saddenlar/master
+
+add T-shirt introduction and demo",0,3,2019-05-24 17:14:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1b2107a14f6a588e81e6e0eba7b296f25fadd8a5,add T-shirt introduction and demo,0,3,2019-05-24 17:08:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c0dc68f44c2bfefe561d240aab9ec19ce1f2ab24,"Merge pull request #28 from saddenlar/master
+
+add T-shirt introduction and demo",0,0,2019-05-24 18:30:21+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6bcc890f1b4f368de9004cc3539536d1414784ef,Add,3,3,2019-05-25 05:22:42+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6f601c719c8aebfd7a162b9bf3e0e5855efc9bc5,add test gif and defcon sticker,3,5,2019-05-31 21:04:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1089e45127897c11c60b1da59f7283fa5cc28ccc,try to fix alignment issue,1,1,2019-05-31 21:13:12+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1db7b8a892672390d799391a2256784f0c74ba80,"Merge pull request #29 from saddenlar/master
+
+Add test gif and Defcon Sticker",3,5,2019-05-31 22:05:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bc473236b5e283e1f8d4050b72251b8d9c90003e,Update README.md,1,1,2019-06-01 04:18:44+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+36f6aac35d86f9be19ba0cfa341617fff574bfbf,Create FAKE_FACE_DETECT.md,0,1,2019-06-21 14:54:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+31af89a23d7dcd9502f2957aaf643cdd53641f7c,add fake face detection readme files,1,5,2019-06-21 16:02:06+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6e7488e6c36de12905f1d7ff4f1cdd28d61dcc14,add fake face detection readme files,1,1,2019-06-21 16:03:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f32a44fa3775d4853969a4b7229a181b7f8233ef,add fake face detection readme files,2,1,2019-06-21 16:09:20+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+228e19eb8cc7d2cab2a60ecdf1935b08e0628744,"Merge pull request #30 from wayangGit/patch-1
+
+Create FAKE_FACE_DETECT.md",0,5,2019-06-21 17:53:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7a002fb6a5431bdb158634a2efb9adb89b06aa75,主页增加介绍 换脸检测,1,3,2019-06-21 18:11:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2ff769969b16dcd8c4c1f38c116d2832e6833d77,调整到320,0,1,2019-06-21 18:12:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+44423a961cac9f1c11abcbaaa669b2bf0171ea07,修改域名,4,1,2019-06-24 10:22:55+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cd7065446d5b7e82cb646bbf78a04948c441269a,add,0,4,2019-07-02 19:22:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a6b862271c9a6bf749d85ccc338755a0c1be87e9,add,0,1,2019-07-02 19:23:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3781e41a25fc6237845d58f311b034cab6f482ad,add,13,3,2019-07-03 11:41:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e2d1cdc17ae42bae4986f0995ceab22a95f137c4,Add,82,1,2019-07-03 22:34:08+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6a3002c0fb0bbe657943ba0f9c0803f489adcf82,Add,57,2,2019-07-04 10:22:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+58731c082b70af329fc671821355fec7b2bb1915,Add,0,1,2019-07-04 10:23:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d54857738db6e3e588d40f7bbf10549d6426dd29,add,34,2,2019-07-04 22:01:46+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4dc7462594d6632212bf039d6b67b5108b824e4b,add,20,2,2019-07-05 06:27:30+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f4f5d862ca511ab4d01868989e5216ec8d38bf2e,add,12,2,2019-07-05 06:31:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+eec977d2b4c1683193de817612186c4f201d5adb,可用版本,168,3,2019-07-05 14:54:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f9245c02a7dc9d74ec9b4ddd0d37482b22da7b63,优化,48,2,2019-07-05 15:21:39+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e2f324f16252d101acb82ad5f9a0bc9a0283d93e,优化了,2,2,2019-07-05 15:37:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3356a4702c34a8fc71daed79911975c27293f52b,add,10,2,2019-07-05 15:56:08+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+218210427ce93ffe0b2ddb6b0069f889f4f89666,add,5,2,2019-07-05 16:00:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+082b3949a7384f5e0e7050e3fa514af374cc2995,发布FGSM和PGD接口,29,3,2019-07-05 22:48:16+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+dc7545743c6550a7985ff97be0ff0a90f9024101,支持 linf约束,24,3,2019-07-06 07:39:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4ea12e31849f788793df0efe41a151ad82e151d4,更新图片,0,2,2019-07-08 16:32:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6c79b2fcd05369f8d52eaf4dfd5e26a83ca8c752,add,1,3,2019-07-08 16:47:44+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2fd2a11495f82257bfc3a9d4976c5b4a7c28dac9,更新说明  越接近0 越是假脸,1,1,2019-07-08 16:58:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cca0172aa9935e779c56e04c8cefdd5b586686f2,更新图片,0,2,2019-07-08 17:22:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d8da645749018f208b867332a7e48401d9963588,add,1,3,2019-07-08 17:26:04+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+70ab8944474bb078fb8083804dcc668553196d8d,add alexnet,22,4,2019-07-09 15:08:33+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+030be40ef35bb66abbe8155efbdc6ececd61d0c9,"Create poison_mnist.py
+
+Add an example of data poison attack against mnist dataset",0,1,2019-07-10 23:14:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+200e07521a95ac1ceba917744fd098b6ea1df6de,"Merge pull request #31 from lea4n/patch-2
+
+Create poison_mnist.py",0,1,2019-07-11 09:57:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+103a84fbdecc88d4dfccec0aa62e715c599dbed9,减肥,0,6,2019-07-11 10:04:44+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bb73c8d04907935ec97b24454a7ea3e74ba1b732,减肥,0,2,2019-07-11 10:08:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6328f98081959eaec97a925b3d228776c34c3221,减肥,0,8,2019-07-11 10:14:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ce636d56c0cf0331a425bb9440df9fbb71556ebb,减肥,0,6,2019-07-11 10:19:42+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+26d1e149afea613393d437c0380c914e89753f93,减肥,6001,16,2019-07-11 10:21:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ff5d58db26b62eba844b8ad16855b778fb806801,修改文件名,1,1,2019-07-12 17:43:35+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+04dd5dfae6c97aa2232772aaba6e221e9392251d,add,2,3,2019-07-12 18:41:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+5f9ff6d6ffb1b53ef5709b555a93835a04a0e56c,增加案例,1,5,2019-07-12 19:18:44+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+92564ba9be6be05ffe8e9ca204d531e7c3d0d71a,更新地址,6,1,2019-07-12 19:24:11+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+195150246b6746be3a7c690dc4a3da6a1576ed6e,update,0,1,2019-07-15 19:29:14+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4235461a261eafd16637ffb2193b10dc4d7a5479,增加批量扫描工具,0,1,2019-07-17 17:01:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1a01c021008c90f5abe7a6648ea2429e6cf26f08,add,1,1,2019-07-17 17:03:51+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cd0caf3bdb6238fea1845c6d45a9af5df1b6afb0,增加睡眠功能,2,1,2019-07-17 17:24:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d801abba4a4ccd70bed583a15c86ead8c80f90c2,增加调试模式以及支持画出假脸坐标,0,1,2019-07-17 18:20:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+97fdc85d78f957a52a8bf8bfb8fc44e9f576ed63,删除,1591,2,2019-07-17 18:20:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bd48589d69b154f02b4e010691c6266e46e9c17c,add,2,1,2019-07-17 18:22:54+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+661b3ce9d66e296aed281e42dee99332f7e02807,add,1,1,2019-07-17 18:42:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e986215f6371aa75acdf8825cd2f655fb8f317e6,add,2,1,2019-07-17 18:54:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+46e024a972f26d99465609a67ffd63d2a775e1e1,add,2,1,2019-07-17 18:57:38+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+be7237297a0f250c82d2b2ad5821d9d62cda4a94,add,1,1,2019-07-17 19:12:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+adc212761cb643843d27aa5efaad5af1aa90555f,add,2,1,2019-07-18 15:52:16+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e49e31a9f5886ecfbfb91e7d0bf47b417bbda66e,add,0,1,2019-07-19 14:24:16+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+176aef15738b64ea66bab4758937ebb497c9264c,add,2,1,2019-07-22 10:43:45+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+99b1df644fce30f7086ec19a622ede6f46f4ccbb,Create mnist_paddle.py,0,1,2019-08-09 05:54:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+434f6e1ad7a1650b28bb3a9b9f98f98c2e968493,"Create poison_mnist_paddle.py
+
+The data poison attack example with PaddlePaddle framework.",0,1,2019-08-09 05:57:18+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4fec147288bee9d4e4e5afc48c20d4a580426b13,"Add files via upload
+
+the h",0,1,2019-08-09 06:08:07+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+be5e7284089f906f7597f8cf988fe3ba5220b7b7,"Merge pull request #33 from lea4n/lea4n-patch-4
+
+Add files via upload",0,1,2019-08-09 06:19:43+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+d7c447e7944b67f68c8a465ad40b83d0f0736535,"Merge pull request #35 from lea4n/patch-4
+
+Create poison_mnist_paddle.py",0,1,2019-08-09 06:20:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2286cfb59af35aa1aa1928e4962f108453f4f13f,"Merge pull request #34 from lea4n/patch-3
+
+Create mnist_paddle.py",0,1,2019-08-09 06:20:21+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f8fd1ed839b917feedc122c432ac4838dbe657db,增加advsdk,643,9,2019-08-09 06:46:24+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+48c8f22166cb7e9941eb4d6a630285f8478d4ef9,add,0,1,2019-08-09 06:47:01+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1a06e1a787b3febaa3024882ecc6a38a7af411c5,add,3,2,2019-08-09 06:51:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7824de7756c4db1a4942774da1d23c1986790611,Improvement of data poison example,0,3,2019-08-09 09:35:35+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+b4e2ceb8385e22b3477eb7d7d5e9417ae6d1d093,"Merge pull request #36 from lea4n/dev
+
+Improvement of data poison example",0,3,2019-08-09 09:43:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2dff7555fdcaf1e595bab7b4376651abbd5417e9,更新最新录用的论文,0,1,2019-08-13 11:21:22+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ba242478f723bc291166d3ef1b7769d384613638,更新hitb,0,1,2019-08-13 11:30:58+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+295b2777388573d1dd3b9ffd297ac2b6c16e3d50,Add result compare,0,1,2019-08-16 09:53:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+19785da22d78149ac594627dcc7148689a4f5b28,"Merge pull request #38 from lea4n/dev
+
+Add result compare",0,1,2019-08-16 10:03:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a735152cac2908e9e0ef0b7a4b354789aadd4879,come on everybody,0,19,2019-09-06 01:12:29+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7a377670e4695ede85451928cf68032f58ce5e06,Merge branch 'master' of https://github.com/saddenlar/AdvBox,3,5,2019-09-06 01:15:28+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+55155a438acb335c330f0099727cc77e0241be70,Adjust README.md,5,1,2019-09-06 01:39:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8965104133175dd7a5e578a69e4d7c83592f304c,"Merge pull request #40 from jayxio/master
+
+add ODD",0,19,2019-09-06 05:38:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e374f806ba9b175126fe512a0c5809bb87a58d63,增加hitb的开源实现,0,1,2019-09-06 05:46:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8dea43323c2cee61b0eb6ec0dba2d966b0ed4bea,"fix documents from ""Tensorflow Model"" to ""Pytorch Model""
+
+fix documents from ""Tensorflow Model"" to ""Pytorch Model""",1,1,2019-09-27 23:04:37+02:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+623a81304b54413dd033f6535be0f2c6c98e0292,Update saliency.py,0,1,2019-10-18 12:36:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+07e6571d26234bb30e0804dc1c8e80be4ffe2104,"Merge pull request #41 from xzyaoi/patch-1
+
+fix documents from ""Tensorflow Model"" to ""Pytorch Model""",1,1,2019-11-01 11:17:03+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+09748ff064b1736b25e5c0e0cca172cf15e71b29,"Merge pull request #42 from haofanwang/patch-1
+
+add return value",0,1,2019-11-01 11:17:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e78d4225f4ae75498f6c4e4df17b0644b7e9af24,Update README.md,1,1,2019-11-01 11:20:33+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+36dbbcdb22aa244372419cb22a56de9d9cb22c81,"Fix bug in SinglePixelAttack class.
+If attack successful, the adversarial example should be saved in Adversary,
+so we can get right result from Adversary.",3,1,2019-11-09 21:27:49+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7ae0d40fff9c5aec967291da58734f8d9b6e92ec,"Merge pull request #44 from txyugood/master
+
+Fix bug in SinglePixelAttack class.",3,1,2019-11-12 21:53:33+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+2ba0576b97e808b1ebe58be1af02f9aff3d81542,Update advbox.md,1,1,2019-11-20 17:59:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+79ec95faf67e36cf5a8de1986e6fe06ae6691f0d,fix preprocessing bug,1,1,2019-12-04 14:45:06+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3ae344791d96169e549efc63487954ad052aa385,"Merge pull request #45 from 0SillyMonkey0/master
+
+fix preprocessing bug",1,1,2019-12-05 21:50:18+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+bf82e97e2261ed1b477c97b110f13020351e899b,Fix bugs to run the cw attack method,13,4,2019-12-10 01:05:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+958443ab5da147e4c1401c152ea2b5cf7d406ed0,"Merge pull request #46 from lea4n/master
+
+Fix bugs to run the cw attack method",13,4,2019-12-11 06:14:12+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3b685b9ec6d0538972799708cc69b5f41633435d,modify model para,1,1,2019-12-17 22:00:05+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+c56ea23e4fddd837797624f0769fcb19b8bea5b6,"Merge pull request #49 from lea4n/master
+
+modify model para",1,1,2019-12-19 19:55:16+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+50b36697ff3500c563cb7503cc98445c07d84fbf,Update README.md,0,1,2019-12-20 06:11:48+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+18c9ac8595b3fac7960c8676ba6ffe919b75b170,Update README.md,10,1,2019-12-20 06:12:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ff784e90f107a43afdbec826c7e5365b9db90750,Add blackout,1,1,2019-12-20 06:15:59+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+6de19afd0d468ae87116ffd93439d15540ae0f6f,Add bib,3,1,2020-01-11 18:01:36+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+8405cd1000a7f9e1c517c05a8f01748eac961733,Add cite,11,1,2020-01-11 20:13:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+5c46b80fde04a8ff588792cbfc8031fbb062685c,Add cite,3,1,2020-01-11 22:16:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+216bec18af416aedb00ce9c4738b38e3d19eb4ad,Add cite,0,1,2020-01-11 22:32:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+093545cfc3d509a48d45d43d206921cad56cc004,Update README.md,3,1,2020-01-16 11:44:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+3dd1c2aa6196dd3637583ebbdba1f1f6c677abc3,Create README.md,0,1,2020-01-16 14:40:04+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+0e5f2de1c7069ba67cedaa0c910b7c2d6c53affc,Update README.md,0,1,2020-01-16 14:40:27+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e681ca6d5c94f12427d02551fbcc4a14076c5e49,Delete ODD demo.gif,0,1,2020-01-16 14:40:42+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+87308ce1d805f4dbcd1012e657902754edc8b68a,Delete improved-physical.gif,0,1,2020-01-16 14:40:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+19f49470233bda8d156cd4387db2f0aa083107c3,Delete improved.gif,0,1,2020-01-16 14:41:03+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+32c5d24b96fcb232cdc35076ddec96ad449dc655,Delete original-physical.gif,0,1,2020-01-16 14:41:13+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+43b61de7202b02f49186affe99a3e233671625af,Delete original.gif,0,1,2020-01-16 14:41:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+ec25c7ce8fa733f12f26cb5ae1d1d6a8d0111084,Update README.md,1,1,2020-01-16 14:48:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+12ecf2e9fe59ee7e8da1c38db5551ac2ce1b9848,Delete output1.gif,0,1,2020-01-16 14:48:46+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1b996a05a60d802119da9589e492ffb901e66f16,Delete output2.gif,0,1,2020-01-16 14:48:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1f71e9b7e86fa12241940875c500ae062af7afcc,Update README.md,13,1,2020-01-16 14:55:40+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+08f4a2bdceeb1519e2eb697a2a29475590a180e3,Update README.md,1,1,2020-01-16 14:56:25+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+f659661c9f96f7fa735bf6ebbb772b7c8ebe593a,Update README.md,0,1,2020-01-16 14:58:40+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+e64a2de24cbaddf77745d4d62cc89b21aed00442,Delete README-CH.md,57,1,2020-01-16 15:39:47+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+be6ca31515570adff70fbc1d2c646cfeba668c81,Update README.md,6,1,2020-01-17 09:19:09+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1afcb2949d71c147cfc5c7f2d777380309eb3344,Update advbox.md,6,1,2020-01-17 09:25:29+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+86473f244bc5d478c44ea33b072a02ec12a6278f,Update advbox-ch.md,1,1,2020-01-17 09:25:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1a74ebf7e9b6f4b8132fa1d671625f1ec6e46b3f,python3 support,8,5,2020-02-18 17:02:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+dee09ff279736692bb98c13d6be157abbf70055f,"Merge pull request #52 from lea4n/master
+
+python3 support",8,5,2020-02-18 17:17:36+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+1bdf303c9da7715793924e682fb30aca6ffc4fba,compatible with py2 and py3,207,69,2020-02-21 01:12:19+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+39acc46ef378c25f1ef6c2ff722b27c1128016ee,fix file not found bug,0,1,2020-02-21 01:13:53+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+586f0c6e052dc7b84106769360855d2abf50dd51,"Merge pull request #57 from lea4n/master
+
+Compatible with py2 and py3",207,70,2020-02-21 14:27:57+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+5a2f9859be7f6cb7d177080a4fcbb7cdea626de7,Update README.md,2,1,2020-02-21 14:33:00+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+aac9db6b0ae5071bb07a449514a8e4e85b5b2846,"加了 access_token=github ，用于标记访问来源
+
+加了 access_token=github ，用于标记访问来源",3,1,2020-03-24 14:46:41+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+64597bec5777a27a6b8b385ccba045e7a3877667,Update README.md,1,1,2020-05-06 11:27:07+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9b715e3fe29628b516e069d0c6bc838c2620412e,Fix typos in README.md,2,1,2020-07-21 23:07:15+03:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+cb7f8437d25ab67f26682a05a2b717545337ebf6,"Merge pull request #58 from FeCassie/patch-1
+
+Fix typos in README.md",2,1,2020-08-12 11:34:37+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7198cd3ff9137da6e78139a33ea5c91d3202bc4f,fixed issue #59,0,36,2020-08-26 15:55:07-07:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+7251abd4023fbfd5196b7167c13ce63c74399737,fixed issue #59,539,75,2020-08-26 15:59:41-07:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+a4ecf3026aa3e125463c513f93c4e2abf92a5120,Update README.md,1,1,2021-05-04 06:51:52+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+4652b797c9d5321627135828668a3c6daead3116,Create codeql-analysis.yml,0,1,2022-05-15 10:19:26+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+282ea0c8ced236c21bd0330ecb22176624f8ec51,Delete .DS_Store,0,1,2022-08-08 10:54:50+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox
+9e47e2f150bd4b33681ba2d66fcfb5f512a3bafc,Delete .DS_Store,0,1,2022-08-08 10:56:23+08:00,../../projects/not_well_engineered_projects/AdvBox,AdvBox

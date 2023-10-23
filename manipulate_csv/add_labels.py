@@ -1,4 +1,3 @@
-
 def add_labels_df(df):
     for index, row in df.iterrows():
         try:
@@ -7,6 +6,7 @@ def add_labels_df(df):
             df.loc[index, 'labels'] = '[Other]'
 
     return df
+
 
 def label_message(msg):
     msg = msg.lower()

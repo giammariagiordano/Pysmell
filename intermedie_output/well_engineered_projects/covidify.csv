@@ -1,0 +1,295 @@
+hash,msg,deletions,files,date,Path,Project_name
+d4dd7c699806b18544216723deaf3bc4e6905304,Initial commit,0,2,2020-01-30 00:08:54+00:00,projects/well_engineered_projects/covidify,covidify
+bba3de2e145f4c6182ecb402fb528a663e9f9f1d,ADD - initial commit,0,3,2020-01-30 00:11:41+00:00,projects/well_engineered_projects/covidify,covidify
+ac8f85b5b01556402d8855e702f42cb05249499b,ADD - added date fixer,54,3,2020-01-30 00:59:03+00:00,projects/well_engineered_projects/covidify,covidify
+3a311b08a0b649b5834796a52b97850ba03b5734,ADD - added dat exp notebook,0,1,2020-01-30 01:32:00+00:00,projects/well_engineered_projects/covidify,covidify
+c94705dcba36232df94e6ba18b41fa81b4e8b679,UPDATE - added csv saver for tableau,0,1,2020-01-30 11:41:22+00:00,projects/well_engineered_projects/covidify,covidify
+eff4c8183e6b56f0b1fa27d9068a59c1bbffbb8d,ADD - added csv for 21st to 29th,0,1,2020-01-30 11:41:57+00:00,projects/well_engineered_projects/covidify,covidify
+61ef7e22be30bf00ac0168bd8fa1825ac200430a,ADD - added workbook for tableau and gif for spread of virus by country,0,3,2020-01-30 11:42:32+00:00,projects/well_engineered_projects/covidify,covidify
+cabc1db43d16627ef9ffd03158d80e508c1e060c,UPDATE - updated readme,1,1,2020-01-30 12:54:44+00:00,projects/well_engineered_projects/covidify,covidify
+8c9ca59ec198a947f09b642d5020fa8a72929590,UPDATE - updated readme,3,1,2020-01-30 13:14:14+00:00,projects/well_engineered_projects/covidify,covidify
+0b3a2c142e44c42935008518efa991caeed83f45,ADD - added trendline for new confirmed cases,62,1,2020-01-30 17:17:12+00:00,projects/well_engineered_projects/covidify,covidify
+c77e564cdc25f1e4e0449b3f336e832ad90cb595,"UPDATE - updated the way files are saved... they are now saved to a folder titled with the date of extraction, also new file for tracking trends added",4,4,2020-01-30 19:25:17+00:00,projects/well_engineered_projects/covidify,covidify
+ff713718d403d21ead58b1091273a4e7f222c94b,REMOVE - removed old output files,4025,3,2020-01-30 19:27:22+00:00,projects/well_engineered_projects/covidify,covidify
+981ad6e15aeb7c7a9b20e521db1e1bd03026b58e,ADD - added deprecation warning to notebook,0,1,2020-01-30 19:29:32+00:00,projects/well_engineered_projects/covidify,covidify
+9ac352f9fa5509d3a75ec10b0105ad3aaadee169,ADD - added trendline for trend of new confirmed cases per day,30,1,2020-01-30 19:30:23+00:00,projects/well_engineered_projects/covidify,covidify
+efcd634e251df2fbb051c0df004cd17009090ba0,UPDATE - readme,0,1,2020-01-30 19:33:11+00:00,projects/well_engineered_projects/covidify,covidify
+50e2871edcf2e03935f235d8f3c57eead952b44d,CLEAN UP - cleaned up exploration notebook,169,1,2020-01-30 19:44:43+00:00,projects/well_engineered_projects/covidify,covidify
+35bff63244a92c0a717773be5d8ab29a7a646d0c,UPDATE - updated readme,447,4,2020-01-31 12:12:42+00:00,projects/well_engineered_projects/covidify,covidify
+ddc21a591c4d3ccabb245e092309cc1fffa1be48,UPDATE - updated name of image,3,1,2020-01-31 12:13:30+00:00,projects/well_engineered_projects/covidify,covidify
+5923ea4e3fc6a2bf63a1635581097dbb011d3c64,"UPDATE - made exploration code more efficient, and added one location for images",101,1,2020-01-31 12:14:14+00:00,projects/well_engineered_projects/covidify,covidify
+e277ba722b6531f46784ffefa253847616048c28,ADD - added images folder to be tracked,0,6,2020-01-31 12:14:43+00:00,projects/well_engineered_projects/covidify,covidify
+2c7a0795848deca062e01091c7314ab50ea8bdf2,UPDATE - update readme,6,1,2020-01-31 12:16:24+00:00,projects/well_engineered_projects/covidify,covidify
+26e91cdd81d12cf245ec8d97b7900d2e68c180db,"UPDATE - automated the running of the pipeline, and cleaned up folder structure",2,23,2020-01-31 13:24:38+00:00,projects/well_engineered_projects/covidify,covidify
+a5b804b75486bb48fe583178b68406e82f482289,UPDATE readme,32,1,2020-01-31 13:25:39+00:00,projects/well_engineered_projects/covidify,covidify
+2ba2818635d412295639a63ba6cbcfe328fec2e2,UPLOAD - uploaded new data,0,6,2020-01-31 13:51:07+00:00,projects/well_engineered_projects/covidify,covidify
+6aab44791b342032d81373c22a5deee8b49d6a43,UPDAT -  cleaned up  README header,0,1,2020-01-31 13:51:38+00:00,projects/well_engineered_projects/covidify,covidify
+909a6923e9c160fbe3c90c2f5fd98fc542d56193,ADD - added an example folder for displaying what the dat looks like,0,3,2020-01-31 14:01:01+00:00,projects/well_engineered_projects/covidify,covidify
+7d151ec280fa7aa570b58a6f160d3154aced0108,ADD - added thanks to end of readme,1,1,2020-01-31 14:05:52+00:00,projects/well_engineered_projects/covidify,covidify
+dcefb0fb895fb7d2d30a6a6ab147f420b1e7ee1e,ADD - added thanks to end of readme,2,1,2020-01-31 14:06:30+00:00,projects/well_engineered_projects/covidify,covidify
+c031b957a2ca6ecd7e7d90660ed160be21a63a82,REMOVE,1,1,2020-01-31 14:38:04+00:00,projects/well_engineered_projects/covidify,covidify
+8e9e9a03d8521ce330b2e67471ca5dc19eea23e3,UPDATE - fixed typos and added date,6,1,2020-01-31 15:18:02+00:00,projects/well_engineered_projects/covidify,covidify
+4024d43180e2dfdf01b5fbe9fc165504db0adf6b,UPDATE -  updated todo,1,1,2020-01-31 16:20:12+00:00,projects/well_engineered_projects/covidify,covidify
+c5dbd6be9b4cfb62fec7c488bfebc22c1cbde1a6,REPORT - new report for 31st,0,6,2020-01-31 21:13:45+00:00,projects/well_engineered_projects/covidify,covidify
+579aa5608b37dc2afc4a9af758250a97b32c8c6f,UPDATE - new up to date gif,1,2,2020-01-31 23:26:43+00:00,projects/well_engineered_projects/covidify,covidify
+cc7e935009575388cd07141b4fe84569ec51d925,REPORT - new report for 1st,1,7,2020-02-01 11:12:32+00:00,projects/well_engineered_projects/covidify,covidify
+30443770d3cc6ee8a8c8e06f55a924bb523bc3f7,ADD - new report 2nd feb,1,7,2020-02-02 19:23:29+00:00,projects/well_engineered_projects/covidify,covidify
+ca677611967e93578bf708a44c00e7d33b1e8563,UPDATE - issue added to readme,0,1,2020-02-02 21:33:24+00:00,projects/well_engineered_projects/covidify,covidify
+6c6edf09e149c2a536750ffcafe43fdb1a997111,UPDATE - added regex for filtering out non date sheets from extraction,0,1,2020-02-03 12:08:35+00:00,projects/well_engineered_projects/covidify,covidify
+45ea6086ccdc94b4dd59c104bf692789d7a8121a,UPDATE - fixed problem with incorrect dates,95,2,2020-02-03 12:59:29+00:00,projects/well_engineered_projects/covidify,covidify
+ccda88ccb3e58b5994062f2649d590094e2d04ed,UDPATE - New Report for the 3rd of feb,3,7,2020-02-03 13:02:04+00:00,projects/well_engineered_projects/covidify,covidify
+60d210a3324f9f900272d24900f577abc306ace3,ADD - Added requirements.txt,1,2,2020-02-03 13:12:24+00:00,projects/well_engineered_projects/covidify,covidify
+76a15a5140dcd019164ea259238c563f620f57d9,FIX - typo,2,1,2020-02-03 13:13:00+00:00,projects/well_engineered_projects/covidify,covidify
+669289bbbf4508940d7096fee676ef061550183a,UPDATE - updated sample data folder,446,6,2020-02-03 13:18:24+00:00,projects/well_engineered_projects/covidify,covidify
+38ab4035e5fc0fe87053db46ef69dd2d5e1951e6,UPDATE - updated link for spreadsheet in code and on readme,2,5,2020-02-03 13:59:49+00:00,projects/well_engineered_projects/covidify,covidify
+6d7f36370f94774062424ed1aaaabbe91a74e4c1,FIX - typo in readme,2,1,2020-02-03 14:03:26+00:00,projects/well_engineered_projects/covidify,covidify
+d14a5a0bcfa553bc2863086d65087fca178ef6bc,FIX - typo in readme,1,1,2020-02-03 14:03:41+00:00,projects/well_engineered_projects/covidify,covidify
+4617addb78b5eb256b820a8eb23c7e08b29dff1a,FIX - typo in readme,1,1,2020-02-03 14:04:00+00:00,projects/well_engineered_projects/covidify,covidify
+b69d13f28ab4538aed30ab6b3a9196615fba999b,UPDATE - updated link for data sheet,1,1,2020-02-03 14:07:00+00:00,projects/well_engineered_projects/covidify,covidify
+78681d9fd49257dc580a35fecd2333905f4cf9f0,UPDATE - updated map gif,0,1,2020-02-03 14:23:46+00:00,projects/well_engineered_projects/covidify,covidify
+ebb2b234b158144c724ecd394e0c0a673dc39ba1,UPDATE - new report 3rd geb,0,6,2020-02-03 20:24:21+00:00,projects/well_engineered_projects/covidify,covidify
+72b05c14eb31fe61abfb69acb4d734472f8cc392,ADD - new report to 4rd of feb,0,6,2020-02-04 13:15:36+00:00,projects/well_engineered_projects/covidify,covidify
+d8919cb77c140b7e5c9da2454d4d1032f4f0422c,UPDATE - updated readme,0,1,2020-02-04 13:59:40+00:00,projects/well_engineered_projects/covidify,covidify
+5e64fa6d33695ee81f5436d04e76a9a8771200e0,UPDATE - added some try-out code for some visualization,315,13,2020-02-04 16:21:38+00:00,projects/well_engineered_projects/covidify,covidify
+6df499a365639c9147a7a96eb0f6af9a58727c8d,UPDATE - updated report with new visualization 4feb,0,7,2020-02-04 16:22:36+00:00,projects/well_engineered_projects/covidify,covidify
+8e4fd20dd7c24eeea6ee9f2f53e267cb4ead325d,UPDATE - minor updates,8,2,2020-02-04 16:23:26+00:00,projects/well_engineered_projects/covidify,covidify
+015ac84588be32d0e6967ab7b942bf898a9fd85a,UPDATE - updated scripts to create a styacked bar chart for the currently infected people,16,2,2020-02-04 16:24:04+00:00,projects/well_engineered_projects/covidify,covidify
+34b5d9e8f4be2eacceaf8e62fb7a2c670e2cb3ba,FIX - fixed output for images,0,3,2020-02-04 16:30:50+00:00,projects/well_engineered_projects/covidify,covidify
+b05c35208bdb3f0aaff6009c091f458ae48281dd,FIX,3,2,2020-02-04 16:31:35+00:00,projects/well_engineered_projects/covidify,covidify
+b2a8aab4bd2b9eb9952643b1c32f0f8d2b637669,FIX - title for currently infected,1,1,2020-02-04 16:32:11+00:00,projects/well_engineered_projects/covidify,covidify
+187218abd8c4fcf0ee00220768da0a434ac0cb86,UPDATE - grouped attribute image types together,10,1,2020-02-04 16:36:26+00:00,projects/well_engineered_projects/covidify,covidify
+5466fee5e9dc9576ce644c337d38c196f9e54782,ADD - new report for feb 6th,0,7,2020-02-07 10:56:46+00:00,projects/well_engineered_projects/covidify,covidify
+b6a8ac6cbe81b9ef728a75d5c1835b69486de824,Add - fixed report for feb 6th,0,2,2020-02-07 11:33:01+00:00,projects/well_engineered_projects/covidify,covidify
+a0083ce69c1001b4725ca32c1b327fb77e2a4134,FIX - fixed stacked bar graph,103,3,2020-02-07 11:34:45+00:00,projects/well_engineered_projects/covidify,covidify
+b4dfdc2a7fe3491c3257fcf98e4480b5f44d9215,"FIX - added different function for parsing dates, some new cases appeared to dissappear on certain days",2,1,2020-02-07 14:11:18+00:00,projects/well_engineered_projects/covidify,covidify
+43099064d629bdd6ce6d83efae4c4106f4693555,"UPDATE - cleaned up how dates are assigned, using dateutil parser",15,1,2020-02-07 15:17:54+00:00,projects/well_engineered_projects/covidify,covidify
+57e8da7b5f53f1752451c5fb384cd6a78867d642,ADD - added new data to the example folder in data,290,5,2020-02-07 15:19:19+00:00,projects/well_engineered_projects/covidify,covidify
+94fa636313fc494eacffcb252f561c3123f3e8b3,REMOVE - removed images from notebooks,0,8,2020-02-07 15:21:47+00:00,projects/well_engineered_projects/covidify,covidify
+e328e96361cc7596b28c897321f9410ad6183efb,ADD - added report for 8TH feb,0,7,2020-02-08 22:56:25+00:00,projects/well_engineered_projects/covidify,covidify
+67ae2bfd7ee21d8a062e6dc2fbfab599a2f40aa1,UPDATE - update readme,1,1,2020-02-08 23:07:08+00:00,projects/well_engineered_projects/covidify,covidify
+3758c3849bbb9189610b4b888441843868fc22a9,UPDATE - new report for 11th of feb,1,8,2020-02-11 10:39:46+00:00,projects/well_engineered_projects/covidify,covidify
+653857816656a642a262a6d0db9baafbb5e7c8cc,UPDATE - new report for 11th of feb,18,9,2020-02-11 11:37:05+00:00,projects/well_engineered_projects/covidify,covidify
+5b41ba75480b61b9070edbb41827a7eed22becc9,UPDATE - updated code for creating graphs,398,2,2020-02-11 11:38:40+00:00,projects/well_engineered_projects/covidify,covidify
+bc9fb43ccebe3f93a59caf9d100731abf51052dd,UPDATE - updated code to extract csv folders from new datasource (git repo by JHU),205,3,2020-02-11 13:58:57+00:00,projects/well_engineered_projects/covidify,covidify
+f4ec70dae74e16117db841085c3e8dbedba84346,"UPDATE - added fixed report for 11th feb, new data source from the JHU github repo",0,6,2020-02-11 13:59:42+00:00,projects/well_engineered_projects/covidify,covidify
+935af3125b6f3e50cbf9d946883c5c0190cbaac7,UPDATE - updated readme to suit the new data source,8,1,2020-02-11 14:11:59+00:00,projects/well_engineered_projects/covidify,covidify
+1e7b2db48dc13632659b7f0b21eb59595a336523,FIX - fixed imputation for alphanumeric columns,0,1,2020-02-11 15:23:52+00:00,projects/well_engineered_projects/covidify,covidify
+33e6a6f6800bebbea1a0e6ec23d20e47151ea7da,REMOVE - removed token.pickles,0,2,2020-02-11 15:51:50+00:00,projects/well_engineered_projects/covidify,covidify
+f68a1ccfeea6d91f2b214ef5092e066ae30de3b9,ADD - new report for 11th feb,0,6,2020-02-11 16:42:36+00:00,projects/well_engineered_projects/covidify,covidify
+2436a86ac075146ce839bf3340ed5ba7f83eb162,UPDATE - notebooks,6,2,2020-02-11 19:27:40+00:00,projects/well_engineered_projects/covidify,covidify
+e33409c6ddeba398637977b87f24138aea2260d9,UPDATE - ncov2019 name was changed to covid-19,5,1,2020-02-11 19:43:14+00:00,projects/well_engineered_projects/covidify,covidify
+7913ab9904a176a91c2df64ae4974dd70d269d10,UPDATE - name in readme,1,1,2020-02-12 11:32:18+00:00,projects/well_engineered_projects/covidify,covidify
+b5166badfde644488ac1cfa1983634f1f8da714a,"FIX - fix date problem, using the last entry per day by province for the actual value of that day",799,2,2020-02-12 15:01:27+00:00,projects/well_engineered_projects/covidify,covidify
+dd11a9f3a56e736a88d40f4f16dd13d4e50dfe16,ADD - added new report for 12th,0,6,2020-02-12 15:02:00+00:00,projects/well_engineered_projects/covidify,covidify
+340472b2e66703e5c2e2fb2f9f4efdff079cfd5d,ADD - added new report for 12th feb,1,7,2020-02-13 10:31:56+00:00,projects/well_engineered_projects/covidify,covidify
+fbb7a51f424583fe574af934cf112073ce7b1b34,ADD - NEW REPORT FOR 13TH FEB,0,6,2020-02-14 10:10:45+00:00,projects/well_engineered_projects/covidify,covidify
+fda6e24eee994eb30c2686f085ad74e0b1e1d1c3,ADD - added report for 14th of feb|,1,7,2020-02-15 13:36:14+00:00,projects/well_engineered_projects/covidify,covidify
+192a70126916bf9a3948b608cf860a9fba76a2cc,"UPDATE - if date.max() == current date then ommit max(), else ommit the current date current date",751,2,2020-02-15 13:38:09+00:00,projects/well_engineered_projects/covidify,covidify
+09384626e0bd8554ef2af859bac42ee6ab4bc237,ADD - added visualization for the number of people currently infected,7473,2,2020-02-15 13:50:28+00:00,projects/well_engineered_projects/covidify,covidify
+5274a49417321434ada6c34148392929f9071922,ADD - added currently infected,0,2,2020-02-15 13:50:55+00:00,projects/well_engineered_projects/covidify,covidify
+d0441fa869193cf91b2d5be259d3f254c1ac00da,FIX typo,1,1,2020-02-15 13:52:07+00:00,projects/well_engineered_projects/covidify,covidify
+51861e8f1fd6399ec117d4d21bf66321eb08144a,FIX typo 2,0,1,2020-02-15 13:55:47+00:00,projects/well_engineered_projects/covidify,covidify
+2e5d05520227ba5af408e3c94416c715e86dee9d,ADD - added report for 17th of feb,1,8,2020-02-17 11:37:45+00:00,projects/well_engineered_projects/covidify,covidify
+a5b4ebbfe592c40a68e2aa4fee5a4dd0c7e67396,ADD - added report for the 17th,1,8,2020-02-18 10:48:51+00:00,projects/well_engineered_projects/covidify,covidify
+60a6079b4e1a03234d5cf0e45d23e32c3361aef1,UPDATE - updated requirements,6,1,2020-02-18 10:49:22+00:00,projects/well_engineered_projects/covidify,covidify
+1c111622b7462eb10759c278977191f9963036b9,ADD - added workbook,2799,2,2020-02-18 14:57:00+00:00,projects/well_engineered_projects/covidify,covidify
+e18a3b52082b80c2b2d1dd0fac8948e3ef207357,ADD - added moving average and exponential moving average to data prep,1662,4,2020-02-18 15:57:19+00:00,projects/well_engineered_projects/covidify,covidify
+bc90008916cd4b0685019e0b979e5ec443691c6b,ADD - added report for 18th,1,8,2020-02-19 11:33:46+00:00,projects/well_engineered_projects/covidify,covidify
+3e0c49c530536673bb988712e9bbfd24acec3dd6,ADD - report for 20th of feb,1,8,2020-02-20 10:09:41+00:00,projects/well_engineered_projects/covidify,covidify
+a6afdbf142d54bbe02d973e315f0b7f6caa24980,UPDATE - updated col names for moving average,4,1,2020-02-20 10:10:12+00:00,projects/well_engineered_projects/covidify,covidify
+6cce02d6001bdbb715fa78ce80c704c4c4fa50c8,ADD - added report for 21st,0,7,2020-02-21 12:59:12+00:00,projects/well_engineered_projects/covidify,covidify
+26c88ba8db9abec72dfc2b110d2dab1433b47c72,ADD - added report for 22nd feb,2,8,2020-02-22 11:37:10+00:00,projects/well_engineered_projects/covidify,covidify
+6c436410b4494013452debac08d9c9c340555d07,FIX - fixed max days problem for bar graphs,1,1,2020-02-22 11:37:46+00:00,projects/well_engineered_projects/covidify,covidify
+f1d9a2c5af69ba09057ade55d9b5ff0753889f62,UPDATE - updated readme,19,1,2020-02-22 12:45:38+00:00,projects/well_engineered_projects/covidify,covidify
+be778c6308031b808dcadc0c9a12f76c4a630c60,ADD - added report for 23rd,1,8,2020-02-23 12:12:05+00:00,projects/well_engineered_projects/covidify,covidify
+4ce06779b09a7d3060e6bf5a0b525d089442a1ff,ADD - added report for the 23rd,2,8,2020-02-24 11:03:18+00:00,projects/well_engineered_projects/covidify,covidify
+d8e6265022d013935fbfb93ce990f50a701cbe1d,"ADD - added report for 26th, disclaimer: the 24th has some inconsistencies in the data",2,8,2020-02-26 12:32:12+00:00,projects/well_engineered_projects/covidify,covidify
+dd38a1d57302868760854eeca016200b6061917c,UDPATE - added git pull if the repo already exists in /tmp/,835,2,2020-02-27 11:17:57+00:00,projects/well_engineered_projects/covidify,covidify
+73b81803f4651d357ec41d8fd082cc7b481d8fc0,ADD - added report for 2nd of march,1,8,2020-03-02 11:26:52+00:00,projects/well_engineered_projects/covidify,covidify
+a106df4c17167b8e71fc52acf4dbd5e259bf36e5,ADD - added sys exit if could not pull from origin repo,1,1,2020-03-02 11:28:41+00:00,projects/well_engineered_projects/covidify,covidify
+2cf46f3619f5b212d40c7b8c7478d04e14571c6e,UPDATE - made repo into installable python package,1,11,2020-03-02 16:14:39+00:00,projects/well_engineered_projects/covidify,covidify
+9be190dfb05c31fc90ca09d6a0a9aff23d3d8c54,DELETE - deleted the old src scripts and pipeline.sh,358,4,2020-03-02 16:17:23+00:00,projects/well_engineered_projects/covidify,covidify
+809edf99432fd3e19cb803025e5ef60df4060769,ADD - added new exploratory notebooks,1417,15,2020-03-02 16:18:03+00:00,projects/well_engineered_projects/covidify,covidify
+2a1c2c5c1c8b4c9c3d9cce1650d0f76db10571b2,ADD - added more functionality for pip package,14,6,2020-03-02 17:00:38+00:00,projects/well_engineered_projects/covidify,covidify
+61edbe42c118fc4058f92c1b6623f91f846f368d,UPDATE - updated readme,0,1,2020-03-02 17:03:08+00:00,projects/well_engineered_projects/covidify,covidify
+b7cd61abbb2a33fc7b1e2cd2ce0a58017f1edb98,UPDATE and FIX - updated cli to output reports to optional destination + fixed path problems,939,14,2020-03-03 13:12:44+00:00,projects/well_engineered_projects/covidify,covidify
+c84a37466f620fda86e9be44b0d947c0175fb47b,UPDATE - fix emoji,1,1,2020-03-03 13:13:14+00:00,projects/well_engineered_projects/covidify,covidify
+7896c5d2b6765d34c5fcbc8bf250e44a920f8e52,ADD - added functionality for choosing the datasource,10,2,2020-03-03 14:02:03+00:00,projects/well_engineered_projects/covidify,covidify
+90ec519d96af01fe1e711332e494b8e31c6e23e5,RELEASE - release for 0.1.0 on PyPi,77,4,2020-03-03 15:43:21+00:00,projects/well_engineered_projects/covidify,covidify
+99a0b70734b1f19608789f08f11f1d3ce4a2e0a6,ADD - added reports and data back until hosting of images is done,0,10,2020-03-03 15:55:48+00:00,projects/well_engineered_projects/covidify,covidify
+c9fb719a4da0c135244539ecbf19249d0e0caf28,UPDATE - updated readme,2,1,2020-03-03 16:00:25+00:00,projects/well_engineered_projects/covidify,covidify
+ecda0ee4b951064b73aaf463e42d0d63b8c249db,UPDATE - reduce terminal output by integrating a loading bar,6,2,2020-03-03 19:55:40+00:00,projects/well_engineered_projects/covidify,covidify
+de4b2101ad989a1fd26b2e7a5952f0e6cd441ae9,REMOVE - removed print statement for output folder,2,1,2020-03-03 19:57:20+00:00,projects/well_engineered_projects/covidify,covidify
+6b156d43730024e952ead8b601e5939b4a668684,ADD - added report for 4th of march,1026,12,2020-03-04 11:14:45+00:00,projects/well_engineered_projects/covidify,covidify
+6bcf2681987c4b1b7d2787f278c379eeaca41e3b,UPDATE - readme,3,1,2020-03-04 11:16:45+00:00,projects/well_engineered_projects/covidify,covidify
+39e6619200e9e1b0fa042865358e16429eb05695,UPDATE - version,1,1,2020-03-04 11:19:12+00:00,projects/well_engineered_projects/covidify,covidify
+0a6c5ec5ad09ff1de52faacf91ce871c7bbcb772,UPDATE - typo in pipeline.sh,1,1,2020-03-04 11:33:33+00:00,projects/well_engineered_projects/covidify,covidify
+f9d9b0af73cbada5e8403f987d801bfe9ad8e6ab,ADD - added test for cli script,0,1,2020-03-04 13:20:26+00:00,projects/well_engineered_projects/covidify,covidify
+3f09f6dc163dda36643a15bcbeda5982629e2cc5,UPDATE - added badges to repo,0,1,2020-03-04 13:53:04+00:00,projects/well_engineered_projects/covidify,covidify
+e20120b7227c501a53d931c94888e6fc57763a80,UPDATE - readme,1,1,2020-03-04 14:07:45+00:00,projects/well_engineered_projects/covidify,covidify
+aead3b13798cf5839605784032045d6341266606,UPDATE - readme,1,1,2020-03-04 14:10:50+00:00,projects/well_engineered_projects/covidify,covidify
+6f01b00caa46495b8d3c5a8f12d24aab21d9f0aa,UPDATE - readme,1,1,2020-03-04 14:38:57+00:00,projects/well_engineered_projects/covidify,covidify
+ac4ce6c134dee6306772726598d782844fc54df5,ADD - added new functionality for making excel spreadsheet reports,241,3,2020-03-04 16:15:51+00:00,projects/well_engineered_projects/covidify,covidify
+90b39d8f96e382047305375c0264dc08f2a1b60f,DELETE data,2042,10,2020-03-04 16:21:12+00:00,projects/well_engineered_projects/covidify,covidify
+4c08e9cd598fa755eb95bede33d3b1e80af7d7d5,REMOVE - removed data folder,1199,10,2020-03-04 16:23:17+00:00,projects/well_engineered_projects/covidify,covidify
+941278670ed89274ed6e1b9112b18a695ebb5229,ADD - added new report data,0,11,2020-03-04 16:24:42+00:00,projects/well_engineered_projects/covidify,covidify
+8ce44a4a13780589464358b3c8eba8d91020b63f,"ADD - add test for data prep, not working yet",0,1,2020-03-04 16:26:25+00:00,projects/well_engineered_projects/covidify,covidify
+3530345994bbead2222f7db4f9af64765df43ec9,FIX - typo in print statement,1,1,2020-03-04 16:32:33+00:00,projects/well_engineered_projects/covidify,covidify
+b5d4472a8ed95301ed60955e8db538ee176f6335,UPDATE - updated version in config,1,1,2020-03-04 16:35:15+00:00,projects/well_engineered_projects/covidify,covidify
+e856bf21b91e56bdf6e44f8c3827993d5610a061,ADD - added report for 25th,1108,13,2020-03-05 10:33:50+00:00,projects/well_engineered_projects/covidify,covidify
+3c65d95607440b1ef8ff7439115ea89c3403dde1,ADD - added new badges to github,2,1,2020-03-05 11:05:47+00:00,projects/well_engineered_projects/covidify,covidify
+e922cf97821b5dd64125cd040166ae3fd52ff193,UPDATE - took out hard coding of paths in data prep,7,2,2020-03-05 12:48:35+00:00,projects/well_engineered_projects/covidify,covidify
+015cb5d63d48325d2b6d879582e98b548097bd6e,UPDATE - remove unnecessary imports and update version,18,3,2020-03-05 21:28:15+00:00,projects/well_engineered_projects/covidify,covidify
+2b01859292c22c2f24814e624a4f62a6a5737667,ADD - added report for 6th,0,8,2020-03-06 10:45:49+00:00,projects/well_engineered_projects/covidify,covidify
+39c9f40df8a1dda132112b085959a3f88da13ff8,ADD - added report for 7th of march',0,8,2020-03-07 11:13:56+00:00,projects/well_engineered_projects/covidify,covidify
+ea478c7b38258ec4406bef16146ec0d81174a7ae,ADD - added report for 9th march,0,8,2020-03-09 11:04:55+00:00,projects/well_engineered_projects/covidify,covidify
+c1de6c5ba1b72d356a99d1ef4f38ed819df090f6,UPDATE - readme,10,1,2020-03-09 16:35:34+00:00,projects/well_engineered_projects/covidify,covidify
+96eae74b29cc0151f2099d3b8ab24d733369b65b,Minor misspellings,2,1,2020-03-10 07:30:24+08:00,projects/well_engineered_projects/covidify,covidify
+9fc46205145ef214603af212de868679d6d66033,"Merge pull request #12 from weisisheng/patch-2
+
+Minor misspellings",2,1,2020-03-10 09:05:06+00:00,projects/well_engineered_projects/covidify,covidify
+a97e6c44d54a6d02aefd26a37ee4507fc4525c62,ADD - added notebooks for adding new features,76,2,2020-03-11 00:35:03+00:00,projects/well_engineered_projects/covidify,covidify
+753138b6f1be560195d0eb6da6b4638664b7a83e,Merge branch 'master' of https://github.com/AaronWard/covid-19-analysis,2,1,2020-03-11 00:35:11+00:00,projects/well_engineered_projects/covidify,covidify
+7319f9c0fd8ce5ae43a044ccb7ff20e8eba9dc4a,UPDATE - added feature for filtering reports by country,21,4,2020-03-11 00:37:09+00:00,projects/well_engineered_projects/covidify,covidify
+63a799ec3c4605833f56703ec1c81b95d3db5af4,RELEASE: 0.1.5,8,2,2020-03-11 00:41:39+00:00,projects/well_engineered_projects/covidify,covidify
+c472ad97ddee4703e84b3c683774202d7523d948,UPDATE - readme,0,1,2020-03-11 00:43:22+00:00,projects/well_engineered_projects/covidify,covidify
+398a507c850c95493d54350e07db9143a4636e36,FIX - typo in version,1,1,2020-03-11 00:44:00+00:00,projects/well_engineered_projects/covidify,covidify
+496625dc99c2d1b82da3d6e35019bf5e5aa208f7,FIX - fix for no country specified,3,4,2020-03-11 01:13:00+00:00,projects/well_engineered_projects/covidify,covidify
+5f6e59781bd55bf13c94b3cd61043f894d6ce0ab,UPDATE - version,1,1,2020-03-11 01:13:47+00:00,projects/well_engineered_projects/covidify,covidify
+4803675022be858983497fbeb1a921f5f7c1ca92,ADD - added new images,0,7,2020-03-11 01:16:03+00:00,projects/well_engineered_projects/covidify,covidify
+ceee002bfcf5265afb04b25dd9dc6aae1dea6944,AHHHHH',7,15,2020-03-11 01:21:45+00:00,projects/well_engineered_projects/covidify,covidify
+202936bb6794aedeb50d3373b3d70534ce784c37,ADD - png reports,0,7,2020-03-11 01:22:26+00:00,projects/well_engineered_projects/covidify,covidify
+580b20000b34eea9b2d3d50f5ff1e1484c20f033,UPDATE - fixed problem for multi word countrys in cli,16,5,2020-03-11 10:35:03+00:00,projects/well_engineered_projects/covidify,covidify
+7d5a62e3b068da7fff7b496ae60148441e80a45a,UPDATE - readme,2,1,2020-03-11 10:35:53+00:00,projects/well_engineered_projects/covidify,covidify
+de70ba4166e049fae41212d0dcb4855253edbf5f,UPDATE - version in setup - 0.1.7,1,1,2020-03-11 10:38:18+00:00,projects/well_engineered_projects/covidify,covidify
+7bb9af4d636c7e78d491d83312346223d5adf710,UPDATE - did a code clean up and moved github extraction to a separate script,146,7,2020-03-11 14:04:57+00:00,projects/well_engineered_projects/covidify,covidify
+28de76d658b4a6abd5d9fe23d7fe3e87347c7941,UPDATE - made more general folder creation for countries,6,4,2020-03-11 14:58:31+00:00,projects/well_engineered_projects/covidify,covidify
+41b9a874f5e705ec054849b6d95a517844682733,UPDATE - version 0.1.8,6,3,2020-03-11 15:45:04+00:00,projects/well_engineered_projects/covidify,covidify
+630fe7720ba24d4483e72ef86c47137ba6bae459,"Spelling, ""Accumulative""",2,1,2020-03-11 10:45:51-07:00,projects/well_engineered_projects/covidify,covidify
+cfdc496879b0c5a2e40277d9e74180edde69099c,"Merge pull request #1 from creeble/creeble-patch-1
+
+Spelling, ""Accumulative""",2,1,2020-03-11 10:46:57-07:00,projects/well_engineered_projects/covidify,covidify
+41bf506c50428b52e2bb9c8b6576a76193d32509,Typingix,2,1,2020-03-11 18:49:49+00:00,projects/well_engineered_projects/covidify,covidify
+aa7570c46d44155c6ca67b7bf15424bf499faab2,FIX - fixed folder deletion bug,1,1,2020-03-12 16:03:09+00:00,projects/well_engineered_projects/covidify,covidify
+fb32653cc14f062ea6a7696265d45577982082ae,FIX - added folder deletion if it's a default desktop output folder,7,8,2020-03-12 19:54:59+00:00,projects/well_engineered_projects/covidify,covidify
+b6c786e493102164b284d086a397a2f4d836c86f,Merge branch 'master' of https://github.com/AaronWard/covid-19-analysis,2,1,2020-03-12 19:55:10+00:00,projects/well_engineered_projects/covidify,covidify
+91bfd7b529cf735c56ab0b506f3aeff3933e146a,UPDATE - new release,1,1,2020-03-12 19:58:43+00:00,projects/well_engineered_projects/covidify,covidify
+91ac7502654c7addbe42d67333ca3acc9837bf1e,ADD - notice to readme,0,1,2020-03-14 15:58:03+00:00,projects/well_engineered_projects/covidify,covidify
+97ceafd7fc1abd1c29d4b7762b212aafa6ddc046,ADD - notice to readme,1,1,2020-03-14 16:00:39+00:00,projects/well_engineered_projects/covidify,covidify
+dd354d7d6daf8134d7b8b64d707902506f7dfc74,FIX - typos,3,1,2020-03-15 10:47:55-04:00,projects/well_engineered_projects/covidify,covidify
+8cc745c15d2ad2b14cd622fce2c66a14576388d4,"Merge pull request #21 from pnuw/patch-1
+
+FIX - typos",3,1,2020-03-17 09:41:07+00:00,projects/well_engineered_projects/covidify,covidify
+cdeab75f61d33adc5f208af8012b28889e28a499,Update issue templates,0,2,2020-03-20 10:48:04+00:00,projects/well_engineered_projects/covidify,covidify
+b651b9ad867e28d208d78a0c03bfdf03267be0c6,"Update issue templates
+
+ updates templates",12,2,2020-03-20 10:52:18+00:00,projects/well_engineered_projects/covidify,covidify
+00d004aed779079349b49203e0cae09b226772fc,ADD - added feature for listing countries,5,3,2020-03-23 09:58:44+00:00,projects/well_engineered_projects/covidify,covidify
+a88bf07c697b0a4775d7a1bd408aa488c9126fa1,Merge branch 'master' of https://github.com/AaronWard/covid-19-analysis,3,3,2020-03-23 09:58:54+00:00,projects/well_engineered_projects/covidify,covidify
+e98184983414c171170f9bc8e4684d253425a688,UPDATE - cleaned up column definitions,9,1,2020-03-23 09:59:40+00:00,projects/well_engineered_projects/covidify,covidify
+cacda8445b09062592190feb8137ab8cafea7573,"UPDATE - added country fixer function for countries that are named differently Ex: korea, south and south korea",61,1,2020-03-23 10:01:17+00:00,projects/well_engineered_projects/covidify,covidify
+c02692e2b97e2de875b761a9ed589b599da5f0fd,UPDATE - code clean up on data exploration,5,1,2020-03-23 10:02:00+00:00,projects/well_engineered_projects/covidify,covidify
+f173dbc19cd249612ee652d005e7861de9d3c86c,UPDATE - fix type in mainland china output,11,1,2020-03-23 10:05:02+00:00,projects/well_engineered_projects/covidify,covidify
+1fa8a231e7a86a1b04358bd71e1b7ea03185a404,remove - removed data,2127,3,2020-03-23 10:06:35+00:00,projects/well_engineered_projects/covidify,covidify
+daf5679215afc61cfe2da8d366b0b16d5fd26a4d,ADD - added example data output,0,3,2020-03-23 10:09:03+00:00,projects/well_engineered_projects/covidify,covidify
+257f659fee96edecac23cd7cc5419803a00dde29,UPDATE readme and config,9,2,2020-03-23 10:18:38+00:00,projects/well_engineered_projects/covidify,covidify
+1e6b021b365655e1baa96b64b0c1bd5834fbed00,fixed issues in charts showing negative values,22,4,2020-03-23 18:38:13+00:00,projects/well_engineered_projects/covidify,covidify
+60f50e29757be96a7d10267c0bbe24da20b70819,"Merge pull request #26 from ajaymaity/fix_negative_trends
+
+fixed issues in charts showing negative values",22,4,2020-03-24 09:13:59+00:00,projects/well_engineered_projects/covidify,covidify
+ce008f78f152ce70269449dba2be0e20f76e3c3b,ADD - added more conditions for checking columns,2,1,2020-03-24 09:50:01+00:00,projects/well_engineered_projects/covidify,covidify
+5704199e5313e5ad96868b19776c7f764cf9b0ba,FIX - added fix for reports when filtering by country,1,1,2020-03-24 12:29:32+00:00,projects/well_engineered_projects/covidify,covidify
+7b836465bb5dff100cee5c38f0bfa5f9d3e62751,ADD - added new country parsings,24,1,2020-03-24 12:30:04+00:00,projects/well_engineered_projects/covidify,covidify
+7190e676f30fa60a572cbcd4caace38a9faaaf51,UPDATE - added fixed report images and updated version to 1.0.0,1,8,2020-03-24 12:32:02+00:00,projects/well_engineered_projects/covidify,covidify
+320919a5758ad15d8ee8530f6275d5c336eb0e36,UPDATE - readme,7,1,2020-03-24 12:33:18+00:00,projects/well_engineered_projects/covidify,covidify
+72deeca1016dd008f0d385d4c56bf1e883a04db2,UPDATE readme,1,1,2020-03-24 12:39:13+00:00,projects/well_engineered_projects/covidify,covidify
+c93eaead6c648255d9e6e40aae7fe5c96bd48117,ADD - added report for 25th of march,0,7,2020-03-25 16:21:57+00:00,projects/well_engineered_projects/covidify,covidify
+b90c150004262fca75a1dab99b626171a161db73,ADD - added recoginition for ajay,0,1,2020-03-25 17:40:12+00:00,projects/well_engineered_projects/covidify,covidify
+81807a47e98293c073fea6353d523908fe04160c,UPDATE - added tabulate to requirements,1,1,2020-03-25 17:40:40+00:00,projects/well_engineered_projects/covidify,covidify
+0b6605faddb73103f009a41108a3fea8c2dafef8,ADD - added parsing for ireland and northern ireland spelling mistakes,0,1,2020-03-25 18:03:05+00:00,projects/well_engineered_projects/covidify,covidify
+b726555bc5a5fc3912f3099caa066841775c453f,ADD - added fix for dating problem in the reports,4,1,2020-03-25 18:46:58+00:00,projects/well_engineered_projects/covidify,covidify
+24cca6f0e83fe9b7ae48c112ffe4ae586a3ad745,"REMOVE - removed tablulate, not needed",2,1,2020-03-25 19:06:44+00:00,projects/well_engineered_projects/covidify,covidify
+3a04b071bdce7872bc164314c8399059442e6c71,CLEAN UP - small code cleanup,16,3,2020-03-25 19:07:26+00:00,projects/well_engineered_projects/covidify,covidify
+0a8db3ca97dd1277fc24f3970c51ffc37eda14ff,UPDATE - release of 1.0.1,1,1,2020-03-25 19:08:03+00:00,projects/well_engineered_projects/covidify,covidify
+b3941e16df683e0c7196f42a6be86ed244d5bd0b,REMOVE - removed files,5088,14,2020-03-25 19:12:54+00:00,projects/well_engineered_projects/covidify,covidify
+6db0de178b74d747205b867438ec3c533dc81d77,ADD - added fixed report,0,11,2020-03-25 19:16:04+00:00,projects/well_engineered_projects/covidify,covidify
+de2ad130d74d1311b500de1b5192bd09e37adde0,UPDATE - readme for new repo name,3,1,2020-03-25 20:02:39+00:00,projects/well_engineered_projects/covidify,covidify
+efd2f9bceb235c588496cbeaf85a337454507321,UPDATE - updated reame,17,3,2020-03-26 11:08:06+00:00,projects/well_engineered_projects/covidify,covidify
+553d01f78e5df6711fd99511dba3c07fa23e4415,ADD - added gif of report,0,1,2020-03-26 11:56:26+00:00,projects/well_engineered_projects/covidify,covidify
+b2cf5fbb040497bee642de6db19f46728f536663,UPDATE - readme,35,1,2020-03-26 12:03:57+00:00,projects/well_engineered_projects/covidify,covidify
+9d2e1ace7f34fbc35565970ed9a7d0c18e109276,"UPDATE - readme, fix typo",1,1,2020-03-26 12:05:13+00:00,projects/well_engineered_projects/covidify,covidify
+50ed49975269d6c1ae5fdc6a9270fefbab445e4a,"UPDATE - readme, fix typo",1,1,2020-03-26 12:08:27+00:00,projects/well_engineered_projects/covidify,covidify
+9bff216abe666e6727b972b07e1a23e1e9a0cbe0,"UPDATE - readme, added install to TOC",1,1,2020-03-26 12:09:42+00:00,projects/well_engineered_projects/covidify,covidify
+388d047f8117e1b4370170e2ccc43ded41f5587f,UPDATE - logo,1,13,2020-03-26 12:29:44+00:00,projects/well_engineered_projects/covidify,covidify
+ae413f95505fbc7978b45966193598c01d7c8728,UPDATE - logo,1,1,2020-03-26 12:36:16+00:00,projects/well_engineered_projects/covidify,covidify
+18a329116db8150b50d946df7431989436931333,FIX - logo,3,2,2020-03-26 12:52:33+00:00,projects/well_engineered_projects/covidify,covidify
+1cde998ebd0aae9305772317612038eb83f7abc1,UPDATE - readme,2,1,2020-03-26 15:15:10+00:00,projects/well_engineered_projects/covidify,covidify
+479ef368fb608666b24c3deb9fed0263a82e1f71,UPDATE - changed jhu flag for source,3,1,2020-03-28 18:13:27+00:00,projects/well_engineered_projects/covidify,covidify
+a3185b918b6a0ea19989d6b85fc8b73c5d13a1f0,UPDATE - updated echos for pipeline.sh,7,1,2020-03-28 18:14:34+00:00,projects/well_engineered_projects/covidify,covidify
+272ce6f4a092b09f0564b4870b0b72b0a7dd7fe4,RENAME - renamed exploration to visualization,8,1,2020-03-28 18:15:22+00:00,projects/well_engineered_projects/covidify,covidify
+4c83c82a350e4319f45537c9a05b34050f7e7fa5,UPDATE - print statements for data prep,3,1,2020-03-28 18:16:16+00:00,projects/well_engineered_projects/covidify,covidify
+47a176f02b70129c4e836f165a8e3636c04f56b4,"UPDATE - added parsing for gambia, and cleaned up code",24,1,2020-03-28 18:17:21+00:00,projects/well_engineered_projects/covidify,covidify
+3ecc61b66f7fa089984463268b4e5e75069cff91,ADD - added notebook for comparing countries on a logarithmic scale,0,1,2020-03-28 18:19:59+00:00,projects/well_engineered_projects/covidify,covidify
+0258f2ab5763e28ec3fd8757e3ab515641ed798a,ADD - added log scale to notebook,868,1,2020-03-28 20:38:43+00:00,projects/well_engineered_projects/covidify,covidify
+4aa32bd19f2184001c9210686b83962efa8402fc,ADD - added more to notebook for log scale of country numbers,730,1,2020-03-30 22:24:14+01:00,projects/well_engineered_projects/covidify,covidify
+848ff373d2e8d57baa5f573cdf8677bd19d3faa3,REMOVE - removed tableau workbooks,7498,2,2020-04-01 12:47:24+01:00,projects/well_engineered_projects/covidify,covidify
+969639e971f662c763f901531aee378a702826ed,UPDATE - log notebook,2009,1,2020-04-05 21:51:42+01:00,projects/well_engineered_projects/covidify,covidify
+340345df78cc8f1883e03a71f13733091fb1f509,ADD - added top N countries as an option for cli,4,1,2020-04-05 21:52:35+01:00,projects/well_engineered_projects/covidify,covidify
+4394a95e04eeb32e92dd91e39739d2ef19c20d85,ADD - added default parameter for number of top countries to config,0,1,2020-04-05 21:53:09+01:00,projects/well_engineered_projects/covidify,covidify
+0830aac2cd6769d9a4f2ee003584582f365fa373,ADD - added code for calculating logarithmic growth for the top N countries,0,1,2020-04-05 21:54:21+01:00,projects/well_engineered_projects/covidify,covidify
+1d2a5663e6ae9bc5e745b2a8edef1f5e6b00a64e,ADD - added code for plotting on a logarithmic scale,1,1,2020-04-05 21:56:14+01:00,projects/well_engineered_projects/covidify,covidify
+dd75d29d70313fb5b95203fd2d45d63e2515d7bc,ADD - added code for printing of number of areas infected,1,1,2020-04-05 21:56:48+01:00,projects/well_engineered_projects/covidify,covidify
+59364fd5d344312b28801eb4ce31274c8e794d58,ADD - added extra arguments for log plots,2,1,2020-04-05 21:57:11+01:00,projects/well_engineered_projects/covidify,covidify
+6bef8d6f600b212b79addb0c0c3ed4fbcef775d3,ADD - added extra parsing for mispelled countries,0,1,2020-04-05 21:58:49+01:00,projects/well_engineered_projects/covidify,covidify
+b4d1a66dd88609c1010bb3ef859cd7e2d607507f,UPDATE - Readme for log,0,11,2020-04-05 22:02:03+01:00,projects/well_engineered_projects/covidify,covidify
+5535e7954c44263fa30dca8c32ac60d18c2da6b6,UPDATE readme,4,1,2020-04-05 22:04:01+01:00,projects/well_engineered_projects/covidify,covidify
+72086da5836d65ee8845f04b97a0b9f8d0c633b5,UPDATE - version 1.1.0,1,1,2020-04-05 22:06:58+01:00,projects/well_engineered_projects/covidify,covidify
+0f8b20b1f9760d1f5cbb75af8994ee5f1a0a1ad2,ADD - added notebook for forecasting,0,1,2020-04-06 21:53:26+01:00,projects/well_engineered_projects/covidify,covidify
+9c3331c9cd376abb74c2d4998052f2a714bf12cb,UPDATE - notebook for arima forecasting,14,1,2020-04-08 00:16:41+01:00,projects/well_engineered_projects/covidify,covidify
+69c503108b6cd5fcac67b06df3d84204d3cf623f,ADD - script for ARIMA forecasting in main code base,0,1,2020-04-08 00:17:18+01:00,projects/well_engineered_projects/covidify,covidify
+6b5cf163f18e743f90c08fde6a740dcda6d192b9,ADD - added forecasting as an option to cli,7,1,2020-04-08 00:18:19+01:00,projects/well_engineered_projects/covidify,covidify
+5ab5bbc865f153f85d1f74f152ea30b42ca860cd,ADD - added forecasting script into the pipeline,0,1,2020-04-08 00:18:48+01:00,projects/well_engineered_projects/covidify,covidify
+6611468d68f6470af5d273e1b7af6b9e8e4c3ad8,REMOVE - old reports,0,9,2020-04-08 00:20:04+01:00,projects/well_engineered_projects/covidify,covidify
+b85472b7a1529a28761f93d9aad71f60439432ba,REMOVE - old data,17931,3,2020-04-08 00:20:38+01:00,projects/well_engineered_projects/covidify,covidify
+d500eae84f1ea19ae59c1a91d10d4b799828125d,ADD - added parameters for forecasting to config,0,1,2020-04-08 00:21:47+01:00,projects/well_engineered_projects/covidify,covidify
+ce9eee0c78d1d08793bdde4d910dcd0aed0cd917,ADD - some code and printing clean ups,11,1,2020-04-08 00:22:21+01:00,projects/well_engineered_projects/covidify,covidify
+7141ad50c8eeb88031eeef718748760a034739bf,UPDATE - updated readme for forecasting,8,1,2020-04-08 00:29:27+01:00,projects/well_engineered_projects/covidify,covidify
+fb80a2400af654f296801813c0d11599d5f330cc,ADD - added new images and data,0,15,2020-04-08 00:30:04+01:00,projects/well_engineered_projects/covidify,covidify
+95a794eb5e24ac477d6e191b7454a0de44493a13,UPDATE - updated version',1,1,2020-04-08 00:30:59+01:00,projects/well_engineered_projects/covidify,covidify
+e2e2c792c41ccbb660232d923400af24ee4fe6c8,ADD - added filter for saint martin,0,1,2020-04-08 00:36:23+01:00,projects/well_engineered_projects/covidify,covidify
+dd1abec342cd817789256ce8955632b5e993207a,ADD - disclaimer to forecast section,2,1,2020-04-08 00:44:39+01:00,projects/well_engineered_projects/covidify,covidify
+b84a43bf45a7c2406741406f8d8e6f3a2742cc7f,"Minor fixes on line 63 - Duplicate word on line 139
+
+line 63: `John` → `Johns`
+* fixed typo on line 127
+* fixed typo on line 139",4,1,2020-04-07 22:47:22-03:00,projects/well_engineered_projects/covidify,covidify
+1d28c5ccb0c0ecde366106847d68dbc255473f1b,"Merge pull request #36 from kant/patch-2
+
+Minor fixes on line 63 - Duplicate word on line 139",4,1,2020-04-08 10:10:16+01:00,projects/well_engineered_projects/covidify,covidify
+c66d32f9bbb1254905d2e95dd1792f136219c5b9,Update requirements.txt,1,1,2020-04-10 13:28:52-04:00,projects/well_engineered_projects/covidify,covidify
+f5206badffc2eae483044d3bf100af4dbfb47e52,"Merge pull request #37 from ChubbsSolutions/master
+
+Update requirements.txt",1,1,2020-04-10 20:14:16+01:00,projects/well_engineered_projects/covidify,covidify
+7e2929419f5587908eef9daeffd349e9b6a945e0,added interactive map component,0,4,2020-04-22 10:23:52-04:00,projects/well_engineered_projects/covidify,covidify
+a7f24c2568b801b1c76980b277e42ff779ca2de9,"Merge pull request #40 from Jneville0815/master
+
+added interactive map component",0,4,2020-04-24 11:30:22+01:00,projects/well_engineered_projects/covidify,covidify
+b47fa60a1d4d56aef7ccf7a7873537b73fb227d0,ADD - added new interactive map notebook,225,2,2020-04-24 11:51:14+01:00,projects/well_engineered_projects/covidify,covidify
+030cfdec50e724abd00db79382e9c1ebfd7fa1eb,add kofi,0,1,2020-06-01 14:30:39+01:00,projects/well_engineered_projects/covidify,covidify
+ca62f26fdc6d2b909ce6a0b71f09852bb2472df9,Update FUNDING.yml,1,1,2020-06-01 14:34:06+01:00,projects/well_engineered_projects/covidify,covidify
+e3ba2513e0916e3c5ff84492f0b189659d104248,Update FUNDING.yml,3,1,2020-06-01 14:34:48+01:00,projects/well_engineered_projects/covidify,covidify
+e678eff7ae6e818f709ae57ee80a1e8b0921f2dc,Updated kofi,0,1,2020-06-01 14:38:56+01:00,projects/well_engineered_projects/covidify,covidify
+7801a1330815ad155de9bcf7c5833d87f95b0b54,ADD - added KOFI to readme,1,1,2020-06-01 14:48:25+01:00,projects/well_engineered_projects/covidify,covidify
+c3f522505cc99938ad81932b6e399a58ab3ec9c4,UPDATE - updated forecasting script to use all data instead of splitting into train/test,36,1,2020-06-01 17:10:15+01:00,projects/well_engineered_projects/covidify,covidify
+154f95586931f6951937e15fff5e781557f75a02,"REMOVE - parquet file persistence, not needed",4,1,2020-06-01 18:29:11+01:00,projects/well_engineered_projects/covidify,covidify
+02da4aefc0066d37661a189d3e89510b58249797,ADD - added 120 day tail to the plots to prevent data overload,4,1,2020-06-01 19:19:00+01:00,projects/well_engineered_projects/covidify,covidify
+482c7be35e94368820cacf1007b360b953ba27b0,UPDATE - cleanup dataprep,13,1,2020-06-01 19:23:44+01:00,projects/well_engineered_projects/covidify,covidify
+8ae326062d05a7d6c998d75e00595bf71c090f91,UPDATE - version,1,1,2020-06-01 19:36:09+01:00,projects/well_engineered_projects/covidify,covidify
+e04be2a56248ac32120fd30dda5ff85ddd49a48a,"Merge pull request #1 from AaronWard/master
+
+Update",59,6,2020-06-09 20:06:02-04:00,projects/well_engineered_projects/covidify,covidify
+76ec34efa5f7c02f645c294da37af4c013595512,Create Covidify Quick Start Guide.pdf,0,1,2020-06-10 15:27:40-04:00,projects/well_engineered_projects/covidify,covidify
+f30d211d2075a5e2ad6625b43e30f66ce7089cfd,Moved quick start guide to resource,0,1,2020-06-16 16:12:16-04:00,projects/well_engineered_projects/covidify,covidify
+c3e722b60824c8739045ac4c57b50b1478a995b2,"Merge pull request #46 from barberw-OSU/master
+
+Quick Start Guide",0,1,2020-06-17 10:18:27+01:00,projects/well_engineered_projects/covidify,covidify

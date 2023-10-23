@@ -4,7 +4,9 @@ import subprocess
 import pandas as pd
 import logging
 from concurrent.futures import ThreadPoolExecutor
-
+import concurrent.futures
+import multiprocessing
+import pydriller
 from pydriller import Repository
 
 
@@ -34,7 +36,7 @@ def download_github_project(url, save_dir):
         if process.returncode == 0:
             print(f"Downloaded {repo_name}")
             logging.info(f"Downloaded {repo_name}")
-            #os.replace(os.path.join(save_dir, repo_name), os.path.join(save_dir, repo_name).replace(".git", ""))
+            # os.replace(os.path.join(save_dir, repo_name), os.path.join(save_dir, repo_name).replace(".git", ""))
         else:
             print(f"Failed to download {repo_name}")
             logging.error(f"Failed to download {repo_name}")
@@ -46,8 +48,9 @@ def download_github_project(url, save_dir):
 
 def download_projects(df, name_dir):
     try:
+        name_dir = name_dir.replace(".csv","")
         github_urls = df['Project_name'].drop_duplicates().to_list()
-        save_dir = "../../projects/" + name_dir + "/"
+        save_dir = os.path.join("projects", name_dir)
         if not os.path.exists(save_dir):
             os.makedirs(save_dir)
         with ThreadPoolExecutor(max_workers=4) as executor:
@@ -58,7 +61,6 @@ def download_projects(df, name_dir):
         logging.error(f"Error: {str(e)}")
 
 
-
 def get_list_of_projects_from_dir(is_engineered):
     list_of_projects = []
     if is_engineered:
@@ -66,7 +68,7 @@ def get_list_of_projects_from_dir(is_engineered):
     else:
         well = "not_well_engineered_projects"
 
-    well_path = "../../projects/" + well
+    well_path = os.path.join("projects", well)
 
     if os.path.exists(well_path):
         for dir_name in os.listdir(well_path):
@@ -74,26 +76,34 @@ def get_list_of_projects_from_dir(is_engineered):
             if os.path.isdir(dir_path):
                 list_of_projects.append(dir_path)
 
-
     return list_of_projects
+
+
+def process_project(project):
+    print(f"Recupero delle informazioni sulla commit per il progetto: {project}")
+    data_list = []
+    for commit in pydriller.Repository(project).traverse_commits():
+        commit_info = {
+            'hash': commit.hash,
+            'msg': commit.msg,
+            'deletions': commit.deletions,
+            'files': commit.files,
+            'date': commit.author_date,
+            'Path': project,
+            'Project_name': project.split("/")[-1].replace(".git", "")
+        }
+        data_list.append(commit_info)
+    return data_list
 
 
 def build_dataset_with_pyDriller(is_engineered):
     project_list = get_list_of_projects_from_dir(is_engineered)
     data_list = []
-    for project in project_list:
-        print(f"Recupero delle informazioni sulla commit per il progetto: {project}")
-        for commit in Repository(project).traverse_commits():
-            commit_info = {
-                'hash': commit.hash,
-                'msg': commit.msg,
-                'deletions': commit.deletions,
-                'files': commit.files,
-                'date': commit.author_date,
-                'Path': project,
-                'Project_name': project.split("/")[-1].replace(".git", "")
-            }
-            data_list.append(commit_info)
+
+    with multiprocessing.Pool(processes=multiprocessing.cpu_count()) as pool:
+        results = pool.map(process_project, project_list)
+        for result in results:
+            data_list.extend(result)
 
     to_return = pd.DataFrame(data_list)
     return to_return

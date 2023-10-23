@@ -1,0 +1,248 @@
+hash,msg,deletions,files,date,Path,Project_name
+353ae1a0900fc0bc4131e8598b1dd3cde734886c,initial commit,0,9,2019-05-16 14:44:02-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+69b00ed16111b2bcbf179ce0043508e84945730c,update readme,1,1,2019-05-16 14:45:22-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+109f4235610a2b7c6ccdf3a9a8409160557dd34b,update readme,7,1,2019-05-16 14:52:58-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c7f4fc5fcf112d9c210eed472a9d02a268dd3191,add code of conduct,7,3,2019-05-16 15:23:34-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ff27a4f7822f0b2fa9b818fa13d0641b812f5b56,readme changes,10,1,2019-05-16 15:28:08-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d08f469669ce0668cefa6dcc23201e2c7e71d3ac,readme,18,1,2019-05-16 15:32:46-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+eca440876e7de1c15554aa23ac78c2c8d14ed35d,readme table,10,1,2019-05-16 15:37:13-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ae42d4ac79b421b796f30c03730f5e6b302ce15b,readme linebreak,2,1,2019-05-16 15:38:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+10d8da31f6aa958e3b1b03c9363135e81d2bdf66,readme table,3,1,2019-05-16 15:39:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+02f5090046b4e77ff1b6b82a9f724d880af9c98e,table spacing,3,1,2019-05-16 15:41:15-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+20f9126a0905b96758f4c7b3bfd648776af3dc8c,center table,4,1,2019-05-16 15:42:45-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+fcfa2224c5ad280b4712a4c2af945908ccc0873e,bold,3,1,2019-05-16 15:44:25-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+adf801b0cada11d71b2b6e64c29136474542b76e,table,4,1,2019-05-16 15:54:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+1f2313d077094007c0743b0de508e5bb5c18fabf,readme table,38,1,2019-05-16 15:58:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+1b8b8ecc8bac0009ae34d2bedfcfd9b218ebe597,readme,5,1,2019-05-16 15:59:06-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+aee8be52c6013a765ebb82dc736bc229341be898,readme table,3,1,2019-05-16 15:59:50-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+2d47a9b1b7d6fcb10b91474abcb134cb65f2ac2f,readme table size,3,1,2019-05-16 16:01:53-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9aed8d413d9e76f8b2c9f80bbc3f518646a8e1be,line commands,13,1,2019-05-16 16:06:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ac3dc333323f836adce757f35cfd8b251faa96cd,header,1,1,2019-05-16 16:07:47-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d3a77dddb9e6057ebd7d9bed14b8782f1c6733c6,header,2,1,2019-05-16 16:08:09-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4839bee83a30b2c56aa997d919888994e3bd1a89,header,2,1,2019-05-16 16:09:06-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a1919e4ee75ed08f80e3683b99457688075ee573,header,1,1,2019-05-16 16:09:23-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c56d88ba145ddf25a8705fb8e49704d56d1e7cbb,results,0,1,2019-05-16 16:22:40-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6de59c2ac718984127ee9569deb03803a403bc2c,table,4,1,2019-05-16 16:23:34-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+243217c54b23a3e64ee3c90bab42720881087eaa,result tables,4,1,2019-05-16 16:24:21-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+43c07c33120705d080decf95e17c5b1b4e68aa17,make text blue,1,1,2019-05-16 16:25:19-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6e0c55e1c2a61be0595a3dc6ee2ee3311c2feb74,table highlight,14,1,2019-05-16 16:28:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+aa68aee8efd7739297cf7a29bb0f1496f30adc28,some header,1,1,2019-05-16 16:30:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f2f0e32cbab45c9105c4701122a0647b54e67820,typo in table,2,1,2019-05-16 16:35:09-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+fe22c1b3cb4997842233144470bb044a032284bc,header,9,1,2019-05-16 16:37:23-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+2ba1e77bd52bdb3486ab1efe7ebefeddabea9b89,download model script,3,1,2019-05-16 16:57:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+18a3731744dec2c57e46681e902e924d6168d9a9,"vgg16 bn, change loader to accept file without optimizer",8,2,2019-05-16 22:14:28-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+df612af074671acd81dcb31ebc60f314dfaf1e70,batchnorm weights,0,1,2019-05-16 22:31:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c2a95892f4a7c6253e6996f97db4c494ad2a127b,readme,1,1,2019-05-16 22:33:00-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+79ce7d09a68dbcb1e7e3e7b304cfe7d1ef76e75f,update with license,33,8,2019-05-17 18:47:24-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3952850ba5514c2c771a46440dd878c6666ea644,Update README.md,2,1,2019-05-18 00:57:22-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+39c43d8e33618d800b8a2e6d90be2869c920d6a6,Update README.md,1,1,2019-05-18 00:59:53-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+7d0623ebce1df06ddc7de18f813ff1e67f67999f,Update README.md,1,1,2019-05-18 01:01:02-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+430d54870a2c1c5b258fd38f5f796df44aefee79,Update README.md,1,1,2019-05-18 01:02:22-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+98f672c9463f0e441e1f4702e2b75cd11e8538f8,Update README.md,2,1,2019-05-18 03:07:14-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+cf86001b6288125b8f4c1413700602d92282193d,register buffer,44,3,2019-05-18 21:46:56-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f1859c662a44e71f1aa4c8c5c6bdac4d51578e37,Merge branch 'master' of https://github.com/adobe/antialiased-cnns,6,1,2019-05-18 21:52:05-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d41fdefabf129c53cc55bcabea3fa4371131b5c1,new resnets,15,3,2019-05-20 12:00:00-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8dddefc4be7a7f1aaa877cfc18dc2028ea786ae6,table formatting,0,1,2019-05-20 12:01:14-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ebe5e77ff782e81e73ec5c3151b5414ac4e5d3cd,table formatting,0,1,2019-05-20 12:01:46-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8887c834a16fc39e84b1e2f25926905ec2982d4b,table formatting,1,1,2019-05-20 12:02:57-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6df7f2c34536f27df01c6cf332130cec38bf3d81,table formatting,1,1,2019-05-20 12:06:51-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+831587a171652019ad0fc165a2e68fcadec088db,Update README.md,8,1,2019-05-20 12:30:36-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6ae4ea3a5775a22348cbbf55842ad91f08541715,table formatting,3,1,2019-05-20 12:43:48-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+292bed3a3302943b29643f7540943d0a0a11b88a,add consist vs acc plot,0,1,2019-05-20 13:27:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9352d8a417c66ff7ef16ab84b340b261f543e4f2,Update README.md,2,1,2019-05-20 13:37:45-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9e2cab7102a85aa06f5aadb6ede7214eb8c3eb4b,Update README.md,1,1,2019-05-20 13:43:50-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+00c134dcf1deeb9fdaa97db2cf400b2837e75432,Update README.md,2,1,2019-05-20 13:52:50-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+314897827c781f4cdceabbd8f9935dc0c227ea2d,Update README.md,2,1,2019-05-20 13:53:13-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+de8d16d4370ce5c3c1d02780444bc3a429ac9f89,Update README.md,1,1,2019-05-20 16:40:15-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d125f2e6a40789cad2063e1edb535e6df802b5de,Update download_antialiased_models.sh,22,1,2019-05-21 23:32:12-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+96698c89d992ecc931cde23a1ce860355227e813,Update main.py,1,1,2019-05-21 23:35:22-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+53dab8599608e5428d0a8480e8ad6918d016b94d,clean downsample function,14,1,2019-05-22 06:58:24+00:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c08ccf1aeac3e578da9c1abc334d15a033d0694d,"Downsampling in 1D
+
+Thought it might interest someone",0,1,2019-05-22 11:50:19+02:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f8035e70fc7e5838b16b25bda6626ddbd2476380,"Merge pull request #2 from vthorey/patch-1
+
+Downsampling in 1D",0,1,2019-05-23 10:20:52-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+94804beb6b378fcd1f8115c9e884879b5aa95675,remove gpu,2,1,2019-05-23 10:22:17-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+934a249a92346863c464c016103ce0db2cb14e4c,Merge branch 'master' of https://github.com/adobe/antialiased-cnns,39,4,2019-05-23 10:47:55-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4d047a40e9cc0cf1ee520dcfc4863d0514a25845,github contributing guidelines,0,3,2019-05-23 10:51:02-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+691adf4cfbe3f3382f64af7d07e3707b5e189610,"resnet101""",0,2,2019-05-27 15:12:37-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+46c7e01f30a93ad1fba40a1850ccd3ae126b781a,resnet101 formatting,2,1,2019-05-27 15:14:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d3aedc30cc394ae8c15c6da278ed30296d91e7e1,update readme with 101,2,1,2019-05-27 15:34:17-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3f3f96074014952887500614df9f0d00732adb11,update with deparallized weights,46,4,2019-05-27 16:50:38-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+35489013c521279392a168345725004d096815c5,some extra instructions in readme,1,1,2019-05-27 16:59:16-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d780972ee93449a2293d1cc0dbc01454c8344d4d,few lines to load a model,4,1,2019-05-27 17:07:58-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+62829baba564f3e6eb289df20e5d2f404ab7a9da,few lines to load a model,2,1,2019-05-27 17:08:38-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+037e102f05c7fbf83bbafac341266cf3e50c45be,renumber results,1,1,2019-05-27 17:08:59-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8c00bd40cb3e0403b97dec13b76a7b9fe37f7503,quick start,9,1,2019-05-27 17:17:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c3fb388c0ae5b4308555b33594aac8b36da8e0d6,readme cleanup,6,1,2019-05-27 17:19:54-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a0dd01a6789d78c37fca697bf0dd780ee3f44492,note that models are uploading,3,1,2019-05-27 17:24:27-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+fc1c58740c1a56444f4e022b2fc6829d12dc7e5e,Update README.md,1,1,2019-05-27 20:35:35-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+dd457fbe1865ba647112b2c138272d65253f3627,Update README.md,4,1,2019-05-27 22:38:06-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3809b72c6b16aefecc1afc413ce3849927383f57,Update README.md,14,1,2019-05-27 23:53:21-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f2425719d11e503ffa8686acc9cf491f9ad722f5,Update README.md,3,1,2019-05-27 23:57:19-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3d72e5948b58b97764af53564827da1389e129a9,Update README.md,6,1,2019-05-27 23:59:55-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3ad4d1dba6fac4e27310af7a0b04227deb25e03d,small change to default argument,2,2,2019-05-29 10:58:58-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+cdd3f55683ed49df950a785049ccfecbbb9b6538,clean up readme,106,3,2019-05-29 16:50:51-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8210b985d0adfc0891d2d4c895be5940ddcb7ae0,clean up readme,4,1,2019-05-29 16:53:19-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+932f8a1ff688553b252dbae532630b4fcfbd41b9,clean up readme,5,1,2019-05-29 16:54:47-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+721ab437599ca93b751d7b10127aa449429218f7,Update README.md,1,1,2019-05-29 17:01:58-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d3e31bfde7619bbad39b93e02a9cc2160eadbebb,Update README.md,3,1,2019-05-29 17:03:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c0f9da7a98292ecb15e59fcb74d2b09e49675cc2,Update README.md,9,1,2019-05-29 17:08:05-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f7d31cac826d65e519e84104d3b17f0c8fa0532a,Update README.md,10,1,2019-05-29 17:10:23-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+e4d8fb58e0ad74f4f0d9a7cc02192a3b7c8b115b,Update README.md,1,1,2019-05-29 17:11:01-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+e8d958a3b78ba1f653dadfcf6962f0f40df6c61c,Update README.md,3,1,2019-06-04 09:50:10-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8e14a79cc54f30c5566c7559d5987b646c6f7050,mobilenet,25,4,2019-06-04 17:11:29-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f51f98dc552a086ca0f49f9bce2c528dc8107a03,weight paths,24,1,2019-06-04 17:16:35-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ca246f43940242a77e95874307a0c9f426284e96,"readme, usage for mobilenetv2",2,3,2019-06-04 17:30:13-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c089ea49075deeb76455678c8be70e9f2dafd7d1,Update README.md,8,1,2019-07-05 18:12:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6fb53b831b1fe02adc9e2e165e4501aa733eabad,Update README.md,5,1,2019-07-05 18:31:10-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+420d60171ac948ca2462b1f0b3651c44f5993c19,Update README.md,2,1,2019-07-05 18:33:06-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9412ef07800d9d7adc44fa35ecc668aae21446cf,bash script typo,1,1,2019-07-20 18:04:16-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c1303212ee0cc6d70074f4c5ee8d74ab8e578dd0,Update README.md,5,1,2019-07-30 11:24:44-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8b344efb6580f63614cc382343cd898234880be1,Update README.md,1,1,2019-07-30 12:48:41-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+74eb24da59324b60963a94f3a03005d37fb674c3,Add 'IPython' to requirements.txt. Also check in a gitignore for common files we don't want to track.,1,2,2019-07-30 14:13:35-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4d27e967cd881be76d3ccbac1627f5c1b6613dad,Sort gitignore,3,1,2019-07-30 14:38:29-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d28fcc7eae956c73cbb2ad3103adb3e7327748eb,Update README.md,0,1,2019-07-30 15:31:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3872f8bf8e8fbe004c4ec81463ddbc3490b4c0c9,Update README.md,1,1,2019-07-30 15:33:25-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+1c94b04f6d0bc1f1f3c1d24b5f35ca27c7929c33,"Merge pull request #14 from wandb/requirements_and_gitignore
+
+Add 'IPython' to requirements.txt",1,2,2019-07-30 15:38:12-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+cd65885a4e2de0dcedbb1a4793a6d58f03530e6e,Update README.md,1,1,2019-07-30 18:03:12-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+02da0c1a75bf3179b2fe580172197e96a6dcbf6a,correct densenet batch size,1,1,2020-05-13 12:38:26-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c9eabad95dd66bb704fefff8565a84860ee7bad6,plots,0,1,2020-05-13 18:15:00-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+31ea86f6be7064987e036430234078fe85ca704c,make plots,20,1,2020-05-14 00:17:14-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+2e361f3d310656dc32c6e7129577cc855c693612,attempt to make download link,70,3,2020-05-14 00:48:37-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+451ceaa5ffa6cb8ed4dbd2ca382e059a907aa3f6,update weight paths,28,1,2020-05-14 00:56:25-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+5aa9aa79bc267e258f84e3880daaab73bb3f6aad,add cosine scheduler; command line change,53,3,2020-05-14 01:16:57-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a997afa9aa63a7cda8ed84071b1ac4506a94e26f,remove filter flag,30,2,2020-05-14 01:23:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8983e1615a5b3d1185cd9b7d246bf13e4b660cfa,remove stray embed,2,1,2020-05-14 01:24:06-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+afc64d24f775a345f74f6d9ecf3804cedf00e0ed,lpf,144,3,2020-05-14 01:39:57-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c3ec56fbbca4c3aeaefe284e0afc4a3db7dfa527,downsample file,0,1,2020-05-14 01:42:39-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+86c5b30b067f3557a730e957bf754dd585106594,cos lr,2,1,2020-05-14 01:49:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+84284098ab26c7186b9390388665c58818272ca2,download script fix,13,1,2020-05-14 13:05:04-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+35e1b177b64f8499b42f884e5467e465ef88e3f5,kernel 4 note,0,1,2020-08-31 16:36:45-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a8159c014037c923056595901b50e3cb99bb2001,resolve conflict,63,3,2020-08-31 16:39:59-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+647f534ea4ffaac6d78964efb5a5fc83980b07c7,readme,90,3,2020-08-31 16:42:41-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+7f3db8c1d6f08cf0a6085f21c8266f6c8c6e47a7,merge in future,33,3,2020-08-31 16:43:46-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+97d3903639cbb626fe6f0fed039adf1fb0addcff,resolve conflicts,42,1,2020-08-31 16:46:12-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+313c9a802c6dacf390a3584b205b75a6b9b61d72,resolve conflicts,28,1,2020-08-31 17:11:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a56ac314c4ea52c4adea58c03858349858b2aa43,antialiased models,0,2,2020-09-02 23:10:02+00:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+deb0ef8712018f38cbfcc341cef2d7ccf260a40b,fix alexnet bug,1,1,2020-09-03 00:05:51+00:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a2d72e0dbfcac08ffbed4bd066f6cb34851fee41,setup,1,1,2020-09-03 00:22:32+00:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+0964a95e6c7fdcf888e9de2fb56d79fddf3bf2b8,Update README.md,1,1,2020-09-02 17:28:29-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+abeed2dcdaaed6dbf1b9996b8fbbf0585974922e,Update README.md,5,1,2020-09-02 17:35:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+40a86d7a61bac085519b730863458414ce4d7386,Update README.md,17,1,2020-09-02 17:47:24-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+0d5cd64db4e6fe09448da6f444b084f2518cf5e6,Update README.md,4,1,2020-09-02 17:49:42-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f62574c87efe1bff8525a74cfc44d8571fb76e2f,Update README.md,16,1,2020-09-02 17:52:00-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6b771c96c7e70497a7836f7529b82a025b79c7ac,Update README.md,3,1,2020-09-02 17:52:54-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+e0d3dfda69a33ee4ce48c881b1505b3bc178c7c3,Update example_usage.py,3,1,2020-09-02 21:34:37-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4e117392e725914fdb70580bb3921c66c49bbbac,Update README.md,12,1,2020-09-02 21:39:28-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+e15d6ea6c3c412f700e7b97d53dd49451782d391,Update README.md,10,1,2020-09-02 21:53:42-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a2c9e6e105004839f91840ae55e8400886a7bbb8,Update README.md,2,1,2020-09-02 21:54:29-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d86444ae8e4881d1c893b5427ee8ec464bf704ea,Update README.md,5,1,2020-09-02 21:56:17-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+25720cd617865b3d2138d314a93f2fb368e05a98,Update README.md,8,1,2020-09-02 21:59:38-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+dffb8e93f8b1c8f35f3bd125a08310c23a3f592b,Update README.md,2,1,2020-09-02 22:01:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+71d30e17a0da735bf8ae585d423485976761e704,Update README.md,1,1,2020-09-02 22:08:19-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ba65182ead06623c600796a49773537d0f978bee,Update README.md,2,1,2020-09-02 23:14:29-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9993fd42af4382408e2d1fe4e5dabe6afb466748,change link,1,1,2020-09-03 15:56:23-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d5389347a24a41f3c1726bd34cb687cf924a5c41,Merge branch 'master' of https://github.com/adobe/antialiased-cnns,40,5,2020-09-03 15:56:36-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+341101da746d5ec22590e02e949931d4fd1c28e2,default filter size,21,6,2020-09-03 15:59:31-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+877079e377161186fbe5dbb8df5bbcb8fc5d37b9,load_urls,63,6,2020-09-04 16:14:56-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9220dfdc84bbe62a25af89fd484793a68fb12053,mobilenet embed,3,1,2020-09-04 16:24:45-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+af467d253d6dfe36f3cf755db43aac3c6391e986,mobilenet,1,1,2020-09-04 16:45:02-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+798dbd20259e359700f903a491d726527348f50c,"readme, alexnet bug",50,5,2020-09-04 17:00:11-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+2bd9a6049eb6ebbe0645289536894b5e7ff0f1c9,"readme, alexnet bug",1,1,2020-09-04 17:03:23-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+85f3f8f6106a5a2a149b784c45891188ca082f4e,readme files,13,2,2020-09-04 17:19:51-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d73877d7894fa911cb3fe883a7d2618ffe57b89c,update readme,4,1,2020-09-04 17:29:41-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c5194a6b8f708fc83b7255f8ce025538bfaeed69,update readme,1,1,2020-09-04 17:30:16-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+5b8a19f673cda34ed92e614e088c8c65e9d89edc,refactor,51,11,2020-09-05 14:44:21-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+40693c2529897ae2dd6a439f32ee17ab07f07bc2,example usage file,21,1,2020-09-05 14:48:36-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f4d9e5811495ecea3e4697a6a5b19ddc4603cf3f,readme,3,1,2020-09-05 14:50:11-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+7fa733851c875a17bb98199f94cff0ff1ce50571,change name,37,3,2020-09-05 14:53:35-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+1abf00c2b22c59b2e1e372de82a82983708d1941,typo,1,1,2020-09-05 14:54:39-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+a43fea33666194df99330a3a44f02b324a31e5a5,readme,9,1,2020-09-05 14:58:45-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+64e139d6b916f1f5534771af4b63853ea9a433a1,readme,3,1,2020-09-05 15:12:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+605bd731e189aefb66bb3b914e8f083bf646676a,readme,1,1,2020-09-05 22:21:13+00:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6b635cb715ca33449498ea358d0c40b5a0fe02f2,Update README.md,3,1,2020-09-05 20:48:42-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+2230df1365c90f300a9ee06323cc8862c52bb4bf,Update README_IMAGENET.md,0,1,2020-09-07 10:27:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+fa78ddfacfbd6a7048c42665ccd43a37057a6dec,Update README.md,119,1,2020-09-07 10:28:31-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+55325e3e63a05824fbe9ceb37e844ef168ed1e13,Update example_usage.py,1,1,2020-09-07 10:29:29-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+923d1041314a10a7fafaf9e02f65e9b52bf4f5ba,Update setup.py,1,1,2020-09-07 10:30:03-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ec7ee51500fb5d333620681c574d2df107ea9f9e,Delete ex_exec,2,1,2020-09-07 10:30:21-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+23ad90ee63ac02ab7188da5c2028090ef577c783,remove dropbox links,58,3,2020-09-07 14:31:51-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+5eb785dc1eaa739cd9b2b529716d611d98b40232,Update README.md,1,1,2020-09-12 13:25:51-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c1ff7ac0077930805639c78afe51ba569ad2490f,Fix bug in resnet,1,1,2020-09-15 18:22:59-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4f0cbd9ee967cc1a8c169ef239b38fc75e7dc21a,"Merge pull request #40 from danielhavir/master
+
+Fix bug in resnet",1,1,2020-09-17 11:29:31-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+b776ff89d299a99aef66da90ff0df15952ff21fc,bug fix,34,6,2020-09-25 21:55:11-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+e2b3106c9e4c493199b183b6673f57cce1a7011a,setup version,1,1,2020-09-25 22:02:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d46d4d4acb6fe3f8deb56ea65bbe53b4cdf741fa,resnext fix,29,1,2020-09-26 17:17:54-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3a7d961939580e8d97d5680dfe96fed4860477c0,finetune,0,1,2020-09-28 10:43:08-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c4181b8d3dcbc940b2b6f7c00860fb1ea88afd0c,pretrained error,6,2,2020-09-28 10:51:44-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+838fe133c488f810b8a71ddc9e2bc4af9b222e44,finetune,14,4,2020-09-28 11:14:44-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+bdee47898a7fb5b7430b9905c4d68dacd47527a0,copy params,2,2,2020-09-28 11:18:44-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d7094d113f6c2bee0966c04ec49d346ccbd7247d,small change to finetune,2,1,2020-09-28 12:57:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+70d519ae0cfc236f0d56be83502c82296d7c9705,readme,1,1,2020-09-28 13:02:38-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6ed7c96bf62602fb5d820b15cdb0a454ffb3a574,readme,4,1,2020-09-28 13:05:06-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4b468ce46835176b7035512b5ecd41eb82ecdfff,buffers,2,2,2020-09-28 14:59:56-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+5b8805b7d5e4ceed74a499282c562647d4d2a88a,copy buffers,6,1,2020-09-28 15:01:15-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+1714a6db0984a44a1893e1e774fc99c019079391,lr step,6,4,2020-09-28 23:02:36-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+0a2e209d91a9141ebf46a51e07ccb28329806d1d,buffer condition,1,1,2020-09-28 23:05:27-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+30e592c31e0d64e52056182d6df4058a982b2aa6,break option,0,1,2020-09-30 16:59:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8e8fba15164c9ab37583387a72ba6df6001a4cbd,makefile,0,1,2020-10-01 11:19:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ca465b0b45a1cd39f3e850750004f9d4bd9b8106,export,17,1,2020-10-01 11:24:35-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+75616e7f19cc6985d8bb3fc19f04ca97d6aee2b9,=,18,1,2020-10-01 11:25:50-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f92c5fbeecd6c4db7fae117c70e207352cc53cf2,makefile,18,1,2020-10-01 11:27:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+31bbd3b6ad48c2c60b367f2b67f98a50c87d7b30,export,90,1,2020-10-01 11:32:46-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6bc863c74a5852ac0674c17054f4cf9e9de7a227,quotes,72,1,2020-10-01 11:34:39-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+555bf1c3e4bc1e8b2419d9e775d01ac6da63bb9e,infinity,27,2,2020-10-01 11:38:16-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+e83b3afd0a35a85f4a72750baea177ca953ed3e3,finetune test,0,1,2020-10-01 11:46:51-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+80ec893a42c2d305928a7ba775c05479316d24eb,finetune test,1,1,2020-10-01 11:47:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c9ce9cf41be3ddce3d0cbdb482b31d53ac0425d4,finetune test,1,1,2020-10-01 11:49:58-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+96d149e42bd405ea64553f2865903b53b3159a13,100,1,1,2020-10-01 13:15:09-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+fd8228d7743877136c7b053079af55660dd77131,small readme change,3,2,2020-10-01 13:20:34-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c79bf050675b21188e89e19e445830398d0791cb,rm makefile,135,1,2020-10-03 10:47:37-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8e648c3695ca12fe4d68f3128c2670ab4a6923e5,example usage,10,3,2020-10-03 11:00:08-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+3faa432068da88104d7c7fc8f17726edec8877ff,setup,1,1,2020-10-03 11:04:21-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+79714ba5633282d7a03a7f864eb168218cbae3b0,setup,1,1,2020-10-03 11:13:32-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6026c630de501c2ea16de1946ffb8f3470143d39,try wandb,56,1,2020-10-05 10:31:28-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+7d579a58bd15ef78585946a72bff819e4a64a371,Merge branch 'finetune' of https://github.com/adobe/antialiased-cnns into finetune,0,0,2020-10-05 10:56:54-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+67a6fe8b0cde959710c9a95de9fad7267dcf20d2,wandb,8,1,2020-10-05 10:57:05-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+48b0b37c8f6f2e0c74832d1aea0c0450114f5e96,typo,1,1,2020-10-05 11:01:24-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4ae71ffce673c4197b1c207171b89c3e7679691a,import,0,1,2020-10-05 11:05:22-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+600c9c3cd3fbcaf5720f4152297c1e33e104a59f,change to epoch,1,1,2020-10-05 11:40:57-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+7ef84e30a757dc56698f7d8853460ecd8c2f4740,undo,1,1,2020-10-05 11:58:08-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+c6ffa687cf0153d28973a7cedd0ccb7ae845036b,epoch,1,1,2020-10-06 09:41:21-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+8357e056edffbd89204867ed31ce88c1dfc8ee6f,Update README.md,1,1,2020-10-06 10:16:31-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9e5a463eba096413ee9a9b5fd8b3e2a5085c0113,Update README.md,2,1,2020-10-06 10:17:52-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+bf14a2ce783c570ee0e75ee7da10d77422beaf8c,Update README.md,2,1,2020-10-06 10:19:52-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+34760a5fccdbc85819f6acfb3f98f2edb725085a,move embed,2,1,2020-10-06 11:11:14-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9ad2319ac8849a950b67789338ba98354f00ce00,Merge branch 'master' of https://github.com/adobe/antialiased-cnns,1,1,2020-10-06 11:11:26-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+bfc22d3d2e51c9ac4452ce3ba658c9bf71c77682,Merge branch 'master' into finetune,1,1,2020-10-06 11:11:38-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ed61e9f481d71f58eda1f0ecfc4b24111847ba44,remove embed,5,4,2020-10-06 11:14:54-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+6c746a2041b68c06b09a07d9ab3fd22d316b9dfb,wide resnet,31,2,2020-10-08 15:32:03-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+b22295177ac525d218aa2dd447c53d58a4500d6b,serialization,4,2,2020-10-20 11:06:03-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f7c0835587e609cbded026f8192b0b1633ef886e,false,3,1,2020-10-20 11:33:54-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+5e2f926982a6338b21c8e61b3a6d3e3835584c1f,finetune,2,1,2020-10-20 13:22:33-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+bf2f1af088558e5a150d858294283945515585db,s3 links,64,5,2020-10-21 17:26:30-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+afad6c35ff11f0bb6c936914916721e527b11cfa,usage,0,1,2020-10-21 17:26:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+ebd5379e74d5e7c9a64ab8f59d3a19a5ba902221,usage,0,1,2020-10-21 17:27:50-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+bfc9e34cbe7c2f6b657faeb740a30df23b0edfb0,force,25,1,2020-10-21 17:33:38-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+fa450a1f135d749c06abb70d1062d0deb20be79c,finetuned,25,2,2020-10-21 17:36:55-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+5cd623abd4a15117b89a3a92a694aa559ae978d3,typo,2,1,2020-10-21 17:38:59-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+0c18b9a72007458fe54945ff43e3f36198934ae7,readme,43,3,2020-10-22 09:11:34-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+010c3a8abc264eb2255873b1ed67282f9d497845,readme,15,1,2020-10-22 09:18:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+98b63ce76762fcc40fba5c8a9ac6c24cfef9096e,table,14,1,2020-10-22 09:25:49-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+4fb1699f7bbcec19e434529b027f8fbb31bb77e3,readme,10,1,2020-10-22 09:29:28-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+f24aaa6c80836227fd06f8afcd42644e7485c25d,readme,6,1,2020-10-22 09:31:12-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+47eaf5da499bb096ed2e118cf145e6ffdccbe39a,readme,3,1,2020-10-22 09:34:18-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+75e093656099953aed86b29667e62e19178cec68,readme,4,1,2020-10-22 09:34:58-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+7188a64a7a37ee41728e5cbea2e327e73c07e269,readme,4,1,2020-10-22 09:35:12-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+94dc138d080022e6746147a3fdccd8ed26e213a4,readme,1,1,2020-10-22 09:35:53-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+1b991f0554d2567db4e801704f6f7881802fc388,commit,1,1,2020-10-22 09:37:43-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+9e57394b36d98dc2b86163e75158728cbc615d21,readme,2,4,2020-10-22 12:38:34-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+b755a3679c3ad8e09fc32fabb446c56792941afc,readme,2,1,2020-10-22 12:39:22-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+d4bf038a24cb2cdeae721ccaeeb1bd0c81c8dff7,readme,5,1,2020-10-22 12:40:07-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns
+b27a34a26f3ab039113d44d83c54d0428598ac9c,reshape,1,1,2021-09-29 11:48:52-07:00,../../projects/not_well_engineered_projects/antialiased-cnns,antialiased-cnns

@@ -1,0 +1,42 @@
+
+####################################LongParameterList####################################
+
+PAR:  count 2027, max 7, min 1, mean 1.9417858904785397, plot-box outlier 7-7, statistic very-high 5.108342606682484, 80th percentile 3.0
+
+
+####################################LongMethod####################################
+
+MLOC:  count 2027, max 22, min 3, mean 5.795263936852491, plot-box outlier 12-22, statistic very-high 13.398017955572211, 80th percentile 8.0
+
+
+####################################LongScopeChaining####################################
+
+
+####################################LongBaseClassList####################################
+
+
+####################################LargeClass####################################
+
+
+####################################LongMessageChain####################################
+
+LMC:  count 3109, max 2, min 2, mean 2.0, plot-box outlier -1--1, statistic very-high 3.0, 80th percentile 2.0
+
+
+####################################ComplexLambdaExpression####################################
+
+
+####################################LongTernaryConditionalExpression####################################
+
+
+####################################ComplexContainerComprehension####################################
+
+
+####################################MultiplyNestedContainer####################################
+
+LEC:  count 3700, max 2, min 1, mean 1.037837837837838, plot-box outlier 2-2, statistic very-high 1.8429626366711807, 80th percentile 1.0
+
+DNC:  count 162, max 2, min 2, mean 2.0, plot-box outlier -1--1, statistic very-high 3.0, 80th percentile 2.0
+
+NCT:  count 162, max 1, min 1, mean 1.0, plot-box outlier -1--1, statistic very-high 1.5, 80th percentile 1.0
+
