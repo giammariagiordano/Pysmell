@@ -3,6 +3,7 @@ import csv
 
 # counts = {'django': [0,0,0,0],'numpy': [0,0,0,0],'ipython': [0,0,0,0],'boto': [0,0,0,0],'tornado': [0,0,0,0],
 # 'matplotlib': [0,0,0,0],'scipy': [0,0,0,0], 'nltk': [0,0,0,0],'ansible': [0,0,0,0] }
+import os.path
 
 des = ["experience-based","statistics-based","median","60th","70th","99th","outliers","tuning machine"]
 PAR = [5,4,1,1,2,5,21,4]
@@ -25,7 +26,7 @@ smells = {'LongParameterList':[PAR],'LongMethod':[MLOC],'LongScopeChaining':[DOC
 
 index1 = 4
 index2 = 5
-count_log = open('metric\\count_rest.txt',mode='wb+')
+count_log = open(os.path.join('metric','count_rest.txt'),mode='wb+')
 
 
 

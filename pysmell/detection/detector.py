@@ -1,5 +1,6 @@
 from __future__ import division 
 import csv
+import os.path
 
 counts = {'django': [0,0,0],'numpy': [0,0,0],'ipython': [0,0,0],'boto': [0,0,0],'tornado': [0,0,0],
 'matplotlib': [0,0,0],'scipy': [0,0,0], 'nltk': [0,0,0],'ansible': [0,0,0] }
@@ -22,7 +23,7 @@ smells = {'LongParameterList':[PAR],'LongMethod':[MLOC],'LongScopeChaining':[DOC
 'LongTernaryConditionalExpression':[TNOC,TNOL], 'ComplexContainerComprehension':[CNOC,NOFF,CNOO],
 'MultiplyNestedContainer':[LEC,DNC,NCT] }
 
-count_log = open('metric\\count9.txt',mode='wb+')
+count_log = open(os.path.join('metric','count9.txt',mode='wb+'))
 
 for smellname in smells.keys():
 	count_log.write("################################%s################################\r\n" %smellname)
